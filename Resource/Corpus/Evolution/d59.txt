@@ -1,0 +1,147 @@
+Modern synthesis
+From Wikipedia, the free encyclopedia
+  (Redirected from Modern evolutionary synthesis)
+Part of a series on
+Evolutionary biology
+
+Diagrammatic representation of the divergence of modern taxonomic groups from their common ancestor
+Key topics
+Introduction to evolution
+Common descent
+Evidence of common descent
+Processes and outcomes
+Population geneticsVariationDiversityMutationNatural selectionAdaptationPolymorphismGenetic driftGene flowSpeciationAdaptive radiationCo-operationCoevolutionDivergenceConvergenceParallel evolutionExtinction
+Natural history
+Origin of lifeHistory of lifeTimeline of evolutionHuman evolutionPhylogenyBiodiversityBiogeographyClassificationEvolutionary taxonomyCladisticsTransitional fossilExtinction event
+History of evolutionary theory
+OverviewRenaissanceBefore DarwinDarwinOrigin of SpeciesBefore synthesisModern synthesisMolecular evolutionEvo-devoCurrent researchHistory of paleontology (timeline)
+Fields and applications
+Applications of evolution
+Biosocial criminology
+Ecological genetics
+Evolutionary aesthetics
+Evolutionary anthropology
+Evolutionary computation
+Evolutionary ecology
+Evolutionary economics
+Evolutionary epistemology
+Evolutionary ethics
+Evolutionary game theory
+Evolutionary linguistics
+Evolutionary medicine
+Evolutionary neuroscience
+Evolutionary physiology
+Evolutionary psychology
+Experimental evolution
+Phylogenetics
+Paleontology
+Selective breeding
+Systematics
+Universal Darwinism
+Social implications
+Evolution as fact and theory
+Social effects
+Creation–evolution controversy
+Objections to evolution
+Level of support
+Tree of life.svg Evolutionary biology portalCategory Category BookRelated topics
+vte
+The modern synthesis[a] was the early 20th-century synthesis reconciling Charles Darwin's and Gregor Mendel's ideas in a joint mathematical framework that established evolution as biology's central paradigm.[1][2] Embryology was however not integrated into the early-20th century synthesis; that had to wait for the development of gene manipulation techniques in the 1970s, the growth in understanding of development at a molecular level, and the creation of the modern evolutionary synthesis's successor, evolutionary developmental biology. Julian Huxley invented the term in his 1942 book, Evolution: The Modern Synthesis.
+
+The 19th century ideas of natural selection by Darwin and Mendelian genetics were united by Ronald Fisher, one of the three founders of population genetics, along with J. B. S. Haldane and Sewall Wright, between 1918 and 1932. The modern synthesis solved difficulties and confusions caused by the specialisation and poor communication between biologists in the early years of the 20th century. At its heart was the question of whether Mendelian genetics could be reconciled with gradual evolution by means of natural selection. A second issue was whether the broad-scale changes of macroevolution seen by palaeontologists could be explained by changes seen in the microevolution of local populations.
+
+The synthesis included evidence from geneticists who studied populations in the field and in the laboratory. These studies were crucial to evolutionary theory. The synthesis drew together ideas from several branches of biology which had become separated, particularly genetics, cytology, systematics, botany, morphology, ecology and palaeontology.
+
+Contents
+1	Summary
+2	Developments leading up to the synthesis
+2.1	1859–1899
+2.2	1900–1915
+3	Population genetics
+4	Dobzhansky's population genetics
+5	Ford's ecological genetics
+6	Mayr's allopatric speciation
+7	Postscript
+8	See also
+9	Notes
+10	References
+11	Bibliography
+12	Further reading
+13	External links
+Summary
+
+Several major ideas came together in the early 20th century to form the modern synthesis, including competition for resources, variation, natural selection, and particulate (Mendelian) inheritance.[3] This ended the eclipse of Darwinism and supplanted a variety of non-Darwinian theories of evolution.
+The modern synthesis of the early 20th century bridged the gap between the work of experimental geneticists and naturalists, and paleontologists. It states that:[4][5][6]
+
+All evolutionary phenomena can be explained in a way consistent with known genetic mechanisms and the observational evidence of naturalists.[4][5][6]
+Evolution is gradual: small genetic changes regulated by natural selection accumulate over long periods.[4][5][6] Discontinuities amongst species (or other taxa) are explained as originating gradually through geographical separation and extinction. This theory contrasts with the saltation theory of William Bateson (1894).[4][5][6][7]
+Natural selection is by far the main mechanism of change; even slight advantages are important when continued. The object of selection is the phenotype in its surrounding environment.[4][5][6]
+The role of genetic drift is equivocal. Though strongly supported initially by Dobzhansky, it was downgraded later as results from ecological genetics were obtained.[4][5][6]
+Thinking in terms of populations, rather than individuals, is primary: the genetic diversity existing in natural populations is a key factor in evolution. The strength of natural selection in the wild is greater than previously expected; the effect of ecological factors such as niche occupation and the significance of barriers to gene flow are all important.[4][5][6]
+In palaeontology, the ability to explain historical observations by extrapolation from microevolution to macroevolution is proposed. Historical contingency means explanations at different levels may exist. Gradualism does not mean constant rate of change.[4][5][6]
+The idea that speciation occurs after populations are reproductively isolated has been much debated. In plants, polyploidy must be included in any view of speciation. Formulations such as 'evolution consists primarily of changes in the frequencies of alleles between one generation and another' were proposed rather later. The traditional view is that developmental biology played little part in the synthesis,[8] but an account of Gavin de Beer's work by Stephen J. Gould suggests he may be an exception.[9]
+
+Developments leading up to the synthesis
+Further information: History of evolutionary thought
+1859–1899
+
+Charles Darwin
+Further information: The eclipse of Darwinism
+Charles Darwin's On the Origin of Species (1859) was successful in convincing most biologists that evolution had occurred, but was less successful in convincing them that natural selection was its primary mechanism. In the 19th and early 20th centuries, variations of Lamarckism, orthogenesis ('progressive' evolution), and saltationism (evolution by jumps) were discussed as alternatives.[10] Also, Darwin did not offer a precise explanation of how new species arise. As part of the disagreement about whether natural selection alone was sufficient to explain speciation, George Romanes coined the term neo-Darwinism to refer to the version of evolution advocated by Alfred Russel Wallace and August Weismann with its heavy dependence on natural selection.[3] Weismann and Wallace rejected the Lamarckian idea of inheritance of acquired characteristics, something that Darwin had not ruled out.[11]
+
+Weismann's idea was that the relationship between the hereditary material, which he called the germ plasm (German, Keimplasma), and the rest of the body (the soma) was a one-way relationship: the germ-plasm formed the body, but the body did not influence the germ-plasm, except indirectly in its participation in a population subject to natural selection. Weismann was translated into English, and though he was influential, it took many years for the full significance of his work to be appreciated.[12] Later, after the completion of the modern synthesis, the term neo-Darwinism came to be associated with its core concept: evolution, driven by natural selection acting on variation produced by genetic mutation, and genetic recombination (chromosomal crossovers).[3]
+
+1900–1915
+
+Gregor Mendel
+Further information: Mendelian inheritance
+Gregor Mendel's work was re-discovered by Hugo de Vries and Carl Correns in 1900. News of this reached William Bateson in England, who reported on the paper during a presentation to the Royal Horticultural Society in May 1900.[13] It showed that the contributions of each parent retained their integrity rather than blending with the contribution of the other parent. This reinforced a division of thought, which was already present in the 1890s.[14] The two schools were:
+
+Saltationism (evolution in large mutations or jumps), favored by early Mendelians who viewed hard inheritance as incompatible with natural selection[15]
+The biometric school, led by Karl Pearson and Walter Weldon, argued vigorously against saltationism, saying that empirical evidence indicated that variation was continuous in most organisms, not discrete as Mendelism predicted.
+The relevance of Mendelism to evolution was unclear and hotly debated, especially by Bateson, who opposed the biometric ideas of his former teacher Weldon. Many scientists believed the two theories substantially contradicted each other.[16] This debate between the biometricians and the Mendelians continued for some 20 years and was only solved by the development of population genetics.[17]
+
+Thomas Hunt Morgan began his career in genetics as a saltationist, and started out trying to demonstrate that mutations could produce new species in fruit flies. However, the experimental work at his lab with the common fruit fly, Drosophila melanogaster, which helped establish the link between Mendelian genetics and the chromosomal theory of inheritance, demonstrated that rather than creating new species in a single step, mutations increased the genetic variation in the population.[18]
+
+Population genetics
+
+Ronald Fisher
+
+J. B. S. Haldane
+Further information: Population genetics § History
+The first step towards the synthesis was the development of population genetics. R. A. Fisher, J. B. S. Haldane, and Sewall Wright provided critical contributions. In 1918, Fisher produced the paper "The Correlation between Relatives on the Supposition of Mendelian Inheritance,"[19] which showed how the continuous variation measured by the biometricians could be the result of the action of many discrete genetic loci. In this and subsequent papers culminating in his 1930 book The Genetical Theory of Natural Selection,[20] Fisher was able to show how Mendelian genetics was, contrary to the thinking of many early geneticists, completely consistent with the idea of evolution driven by natural selection.[21] During the 1920s, a series of papers by Haldane applied mathematical analysis to real-world examples of natural selection such as the evolution of industrial melanism in peppered moths.[21] Haldane established that natural selection could work in the real world at a faster rate than even Fisher had assumed.[22] Fisher also analysed sexual selection in his book, but his work was largely ignored, and Darwin's case for such selection misunderstood, so it formed no substantial part of the modern synthesis.[23]
+
+Sewall Wright focused on combinations of genes that interacted as complexes, and the effects of inbreeding on small relatively isolated populations, which could exhibit genetic drift. In a 1932 paper, he introduced the concept of an adaptive landscape in which phenomena such as cross breeding and genetic drift in small populations could push them away from adaptive peaks, which would in turn allow natural selection to push them towards new adaptive peaks.[21][24] Wright's model would appeal to field naturalists such as Theodosius Dobzhansky and Ernst Mayr who were becoming aware of the importance of geographical isolation in real world populations.[22] The work of Fisher, Haldane and Wright founded the discipline of population genetics, a development also known as the modern synthesis.[25][26][27]
+
+Dobzhansky's population genetics
+Further information: Population genetics
+Theodosius Dobzhansky, an emigrant from the Soviet Union to the United States, who had been a postdoctoral worker in Morgan's fruit fly lab, was one of the first to apply genetics to natural populations. He worked mostly with Drosophila pseudoobscura. He says pointedly: "Russia has a variety of climates from the Arctic to sub-tropical... Exclusively laboratory workers who neither possess nor wish to have any knowledge of living beings in nature were and are in a minority."[28] Not surprisingly, there were other Russian geneticists with similar ideas, though for some time their work was known to only a few in the West. His 1937 work Genetics and the Origin of Species[29] was a key step in bridging the gap between population geneticists and field naturalists. It presented the conclusions reached by Fisher, Haldane, and especially Wright in their highly mathematical papers in a form that was easily accessible to others. It also emphasized that real world populations had far more genetic variability than the early population geneticists had assumed in their models, and that genetically distinct sub-populations were important. Dobzhansky argued that natural selection worked to maintain genetic diversity as well as driving change. Dobzhansky had been influenced by his exposure in the 1920s to the work of a Russian geneticist Sergei Chetverikov who had looked at the role of recessive genes in maintaining a reservoir of genetic variability in a population before his work was shut down by the rise of Lysenkoism in the Soviet Union.[21][22]
+
+Ford's ecological genetics
+Further information: Ecological genetics
+E. B. Ford's work, starting in 1924, complemented that of Dobzhansky. It was as a result of Ford's work, as well as his own, that Dobzhansky changed the emphasis in the third edition of his famous text from drift to selection.[30] Ford was an experimental naturalist who wanted to test natural selection in nature. He virtually invented the field of research known as ecological genetics. His work on natural selection in wild populations of butterflies and moths was the first to show that predictions made by R. A. Fisher were correct. In 1940, he was the first to describe and define genetic polymorphism, and to predict that human blood group polymorphisms might be maintained in the population by providing some protection against disease.[31]
+
+Mayr's allopatric speciation
+
+Ernst Mayr
+Further information: Allopatric speciation
+Ernst Mayr's key contribution to the synthesis was Systematics and the Origin of Species, published in 1942.[32] Mayr emphasized the importance of allopatric speciation, where geographically isolated sub-populations diverge so far that reproductive isolation occurs. He was skeptical of the reality of sympatric speciation believing that geographical isolation was a prerequisite for building up intrinsic (reproductive) isolating mechanisms. Mayr also introduced the biological species concept that defined a species as a group of interbreeding or potentially interbreeding populations that were reproductively isolated from all other populations.[21][22][33] Before he left Germany for the United States in 1930, Mayr had been influenced by the work of German biologist Bernhard Rensch. In the 1920s Rensch, who like Mayr did field work in Indonesia, analyzed the geographic distribution of polytypic species and complexes of closely related species paying particular attention to how variations between different populations correlated with local environmental factors such as differences in climate. In 1947, Rensch published Neuere Probleme der Abstammungslehre. Die transspezifische Evolution (1959 English translation of 2nd edition: Evolution Above the Species Level).[34] This looked at how the same evolutionary mechanisms involved in speciation might be extended to explain the origins of the differences between the higher level taxa. His writings contributed to the rapid acceptance of the synthesis in Germany.[35][36]
+
+George Gaylord Simpson was responsible for showing that the modern synthesis was compatible with paleontology in his book Tempo and Mode in Evolution published in 1944. Simpson's work was crucial because so many paleontologists had disagreed, in some cases vigorously, with the idea that natural selection was the main mechanism of evolution. It showed that the trends of linear progression (in for example the evolution of the horse) that earlier paleontologists had used as support for neo-Lamarckism and orthogenesis did not hold up under careful examination. Instead the fossil record was consistent with the irregular, branching, and non-directional pattern predicted by the modern synthesis.[21][22]
+
+The botanist G. Ledyard Stebbins extended the synthesis to encompass botany including the important effects of hybridization and polyploidy in plants in his 1950 book Variation and Evolution in Plants.[21]
+
+Postscript
+Main article: Extended evolutionary synthesis
+In 2007, more than half a century after the modern synthesis, Massimo Pigliucci called for an extended evolutionary synthesis to incorporate aspects of biology that had not been included or did not exist in the mid-20th century.[37][38]
+
+See also
+icon	Evolutionary biology portal
+Book icon	
+Book: Evolution
+Developmental systems theory
+Gene-centered view of evolution
+History of evolutionary thought
+Objections to evolution
+Particulate inheritance
+Polymorphism (biology)

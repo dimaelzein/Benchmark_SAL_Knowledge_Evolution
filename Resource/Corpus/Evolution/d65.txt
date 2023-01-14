@@ -1,0 +1,312 @@
+Chance — Probability Alone Should End the Debate
+Questions:
+Evolutionary theory 'routinely says' randomness predominates over the processes responsible for producing all life forms. This implies we are here by chance. Is this really the case?
+Has anyone calculated the possibility—actually the probability—for our being here?
+Do the calculations use realistic parameters?
+Is every aspect of the problem considered objectively, even by giving some benefit for any doubt (e.g., in favor of life's formation even by chance)?
+What results come from the calculations? Is there room for different sorts of outcomes; perhaps even opposing answers?
+Are we here by chance?
+Short Answer :
+Have you ever heard of anyone making a reasonable computation to calculate the possibility for evolution's occurrence? If such calculations were to indicate life is possible by chance, then all the better for evolutionary thinkers. But, what if what is treated as possible according to the academic texts turns out to be improbable—even to the point of being decidedly impossible? A brief account—primarily based on a book by Dr. Lee Spetner—appears here to illustrate an extended effort to cover a reasonable and comprehensive computational analysis. We acknowledge you can find both agreement and critique of Spenser's work. No single source of information suffices to conclude our session at the window. But this is truly a noteworthy addition to our perspective building. And note too, we follow this example because of Spenser's care in illuminating arguments. In fact, other sources echo the same computational conclusion as illustrated here.
+
+The short answer is that by adding all the variables together, plugging in values for mutation rates and other aspects calculated for evolutionary steps—according to values pulled from the scientific literature—we see the chances for life become something well beyond vanishingly small. In a word: impossible! That's what the numbers tell us.
+
+You may recall our example of the three legged stool in the feature article on astronomy. Well, here is the third leg being pulled out from under evolution.
+
+Tweet this page address!
+
+Tweet
+Consider This :
+Chance takes on a central role in the 'standard story' according to Darwin's theory on evolution. But since biological life forms—species of animals, plants, etc.—reveal a sense of design and organization, evolution relies on a mechanism called natural selection to explain what stays and what lesser forms fade away. What seems to be selected is the trait or traits that hold some advantage to an organism's ability to survive. Also assumed is that any selected trait can be passed to the next generation (i.e., inherited by genetic means) without being lost. Furthermore, the next assumption is that the advantages work best when they help a species to 'out do' other species—it's that survival of the fittest concept you have likely heard of before now. Survival implies reproduction and increasingly larger populations within a species over time. Again, at least that is the general idea.
+
+Descent from more primitive forms to more complex organisms also entails changes that according to the more modern and genetically-based approach—known as neo-Darwinism—stem from mutations that produce small changes in organisms. The mutation is a genetic change we might see externally, but the change could have an affect on the internal workings of an organism, too. So, color, size, shape changes come about by genetic changes which in turn are created by mutations. The idea is that small changes build up over time and eventually yield a vastly different forms—and thus a new species appears. Again, that's the general concept.
+
+Well, if mutations occur and natural selection is at work, then evolution is simply a process of waiting for enough chance changes to occur and with enough time new species appear. We'll touch on evolution in the form of a 'tree of life' and as a hierarchy of different types later. That gets into classifying the forms that science finds in nature. But what we need to ask concerns how chance might be responsible for getting us to all those different species that science has named, grouped, and classified.
+
+Note: Unfortunately we encounter a bit of confusion with terms. The discussion on producing a new species from a predecessor species requires clarification. Elsewhere we will refer to phyla. Each phyla represent a distinct grouping of organisms—with each group containing a number of related species. So, enough change in a single species within a phylum can give rise to a new species. But going from a species within one phylum to another species in another distinct phylum is the larger jump. Dr. Spenser's example given below talks about the probability of the latter type of jump when he is assessing the odds of making it from an existing species to a new species. We are saying you can get a new bird species from another bird species. This we can find documentation of this in the scientific literature. What cannot be demonstrated without assumption is, for example, the jump from reptile to bird. We see reports that imply or state this is the case, but the evidence and now the probability of this having happened leaves doubt in place of absolute proof.
+
+Simply put, could chance events give us the world's present array of diverse life forms? Was there enough time in the earth's natural history to make way for all the chance changes and subsequent appearances of modern life? Remember, earlier we noted that life appeared rapidly on the primitive earth. Later we'll run into the notion that waves of life forms appear in brief time spans at various points in time. How might chance events account for rapid bursts of appearance (i.e., the origin) for numerous and very different organisms? What happened to small changes over long periods of time? We'll talk about that later. But first we might ask here, regardless of time, could chance play the role that evolutionists assume?
+
+According to the central axiom of Darwinian theory, the initial elementary mutational changes upon which natural selection acts are entirely random, completely blind to what ever effect they may have on the function or structure of the organism in which they occur, "drawn", in Monod's words, from "the realm of pure chance". It is only after an innovation has been disclosed by chance that it can be seen by natural selection and conserved. Denton (ETC) Page 308
+
+Innovation is a tricky word. To build a different organ—eye, feather, spleen, limb, or whatever—really requires a lot of little changes (i.e., mutations) appearing together. How do hundreds of chance events get so coordinated to all come at the right time? No one knows! It's simply assumed.
+
+From the Cambridge Platonists to David Hume, the idea that the world should not be seen as God's handiwork had been building for centuries. Better for the world to be the result of a mechanistic process—God's secondary causes for the reverent, the universe's natural laws for the skeptic. Darwin summarized the notion in his letter to Gray: "I am inclined to look at everything as resulting from designed laws, with the details, whether good or bad, left to the working out of what we may call chance." Hunter (DG) Page 140
+
+Top
+So, Darwin's money is on chance to win!
+Should we join Darwin in such thinking. We don't demonstrate chance by capturing examples of it anywhere. Specifically, chance that builds on small incremental changes over time. We see chance is declared at work when explaining a structure, characteristic, or functional result—but this is presumed an innovation. How reasonable is the presumption? So, what if we turn the exercise around and view this from the other end ... what does that take? Dr. Lee Spetner does just that by looking forward with the help of computations ...
+
+Not By Chance
+This feature article will depend heavily on on recently published book, Not By Chance, by Dr. Lee Spetner (see reference listing).
+We strongly recommend you read his text.
+His presentation is geared to the public at large with a relatively easy to read approach. That's important and we'll only glean a slice of the logic and excellent points he offers in his complete text. There are two main points we wish to highlight from his work:
+
+First, Dr. Spetner takes time to perform comprehensive calculations to disclose exactly what the role of chance is in evolution according to Darwin or the neo-Darwinists.
+Second, his commentary based on observations concerning mutations tells us something about how effective—or ineffective as the case may be—mutations are in being a true mechanism for making evolution work as described by the standard story.
+To start, let's review a few of the many points made by Dr. Spetner concerning chance.
+
+Darwin's theory of natural selection is the following. There are many small variations already in population, and new ones are appearing all the time. He assumed these variations are heritable. An organism whose heritable traits give it an advantage will have offspring with the same traits and the same advantage. If the advantage helps it survive better and reproduce more than the others, then it's offspring will tend to increase more than others. Spetner (NBC) Page 13
+
+fig 122
+Dr. Spetner uses a few terms and abbreviations in his text that we can quickly address here. The newer ideas on evolution that arose in the early 1900s, as science learned more about inheritance of traits and genetic principles is associated with what is called neo-Darwinism. Dr. Spetner uses the abbreviation or terms as follows:
+
+NDT to represent the 'neo-Darwinian Theory' of evolution
+'brady' as anyone who believe evolution works by small changes over longer periods of time as opposed to a ...
+'tachy' who is someone who believes that rapid change can occur within episodes or brief periods of time.
+Chance does plays a role in the operational definitions of each of these three terms.
+
+Spetner notes how calculations made by Fisher provide a first 'reality check' on evolution from a mathematical perspective. And there may be more to this than what Fisher, et al., accomplished ... certainly this is one of the motivating factors behind Dr. Spenser's efforts to do further calculations, for example:
+
+... The mathematics laid down by Ronald Fisher and Sewall Wright were meant to show that Mendel's results did not contradict the NDT. ... They did not look into how likely are the events the NDT says are random. Spetner (NBC) Page 76
+
+The latter statement is Spenser's core issue! Use the power of calculation to investigate as far as possible. But Fisher stopped short.
+
+A theory built on random events must be checked against the probabilities of those events—that's the first check that should be made. Why wasn't that check made? When the theory was being established in the 30's and 40's, the molecular basis of mutations was unknown. The DNA as the repository of genetic information was not discovered until a decade later. Indeed, the neo-Darwinians did not think there was a problem with the probability of mutations. But there is a big problem with it. Spetner (NBC) Page 76
+
+Why didn't science perform the vital calculations to check out evolutionary theory in the first place? Why indeed! What if the calculations were not going to be kind to Darwin or the neo-Darwinian Theory (NDT)! Was science just assuming any calculations that might have been made would only prove what scientist thought was the obvious case—i.e., evolution has to work or how else would we be here in the first place! But if the calculated result wouldn't agree, then what? What becomes of all those assumptions? Spetner wanted to make sure the calculations were made and then let the chips fall where they may! He was going to do it regardless of what others might want to assume!
+
+He notes that Sir Ronald Fisher was an evolutionist, an expert mathematician, and a party to initiating neo-Darwinism.
+
+Ironically, Fisher notes that even favored mutants are eliminated from populations by random effects! Single mutation events have a small chance of surviving. Thus many positive mutations would have to occur for there to be any chance of evolution (see Spetner (NBC) Page 54).
+
+Fisher's result contradicts Darwin's intuitive notion of natural selection preserving even the slightest variation and increasing its numbers until it takes over the population. Darwin erroneously thought that even the smallest improvements would be selected. [A Darwin quotation attesting this very point follows in Spenser's text] Spetner (NBC) Page 55
+
+Spetner explains the reasons for looking at evolution from a mathematical perspective. He also notes the work of a well respected evolutionist and this source sets the probability analysis in motion. Critical thinking here reveals that Fisher's work actually helps Spetner reveal a flaw in the common thinking about how chance operates. First, Fisher's analysis of natural selection reveals Darwin's mistake. Ironically, Fisher along with the neo-Darwinians carried this error forward leading to the assumption that "adaptive variations were highly probable." (Spetner (NBC) Page 56)
+
+When a Neo-Darwinian evolutionists write for students or for the public they often gloss over the point Fisher made. For example, Theodosius Dobzhansky, who was a highly respected geneticist and a leading evolutionist, wrote in his widely used textbook:
+
+"If the carriers of one genotype produce on the average 1,000 offspring when the carriers of another genotype produce 999, the difference in the adaptive values will in time bring about a change in the genetic composition of the population [Dobzhansky 1951, p 79].
+
+What he said holds only if there were many of the first genotype at the outset. If there was only one mutation, the chances can be 500 to 1 that it would disappear before it could influence the population's genetic structure. Spetner (NBC) Page 56
+
+Top
+How mutations create change in a species
+... in brief and in general terms ...
+
+Spetner next considers how a mutation may or may not survive within a population. A mutation potentially brings a positive trait into the population—but perhaps only to one or several individuals. So, think about all the members—the entire population—that represents a species. A trait resulting from a mutation may have some desirable selective value (SV) but only if it spreads throughout the population at large. And over time it may take many generations to achieve this result. But what about the potential loss of this new found trait, it could happen as fast as the trait first appears. Evolutionists seem to assume positive traits will just be selected naturally to the point of a granted spread throughout the entire population ... but there is no reason to make such an assumption!
+
+Larger populations—say thousands to hundreds of thousands or more members—have a greater chance of experiencing new mutations, but it's just as likely that a new trait will never spread throughout a vast population. Conversely, a small population holds far less potential to experience mutations, because there are fewer individuals to 'encounter' these changes. The smaller population might rapidly take on a new trait, but again mutations would be rare by comparison to the odds for the members in a larger population.
+
+When humans breed animals—for example, cows, pigeons, dogs, or whatever—new traits can be selected and bred to the point of making a new population with just that trait. Human intelligence is driving this process—not chance. Darwin thought natural selection achieved similar progress over long periods of time. But as we've just noted, there is no real guarantee that chance alone will foster spreading a trait to an entire large population without being lost as quickly as it appears.
+
+Where do mutations occur?
+Think of DNA as made up of a string of units like a string of letters in a sentence (each unit is chemically a nucleotide). The sense of the sentence depends on the order of letters. The sense in DNA comes with the specific order of the nucleotides.
+
+Okay, thinking of nucleotides is sometimes kind of hard to relate to. So, there are many scientists and authors who use an analogy—where the nucleotides are like letters in words. The words make sense if and only if the letters are in the proper sequence. In DNA, nucleotides can be changed by mutations much like a word experiences a change by the replacement of only one letter. This is known as a point mutation for DNA. But think of the difficulty in keeping the sense of a novel—if everytime the text is reprinted—we see random changes to letters in words, but only one change at a time. Once the text is reprinted we would have to decide if the altered copy make sense or not. Which copy 'survives' this change (i.e., still makes functional sense). One or many point mutations may occur within DNA during reproduction of an organism—like one or more letter changes in the novel—but it's all for nothing if the product is nonsense.
+
+And there is an implied coordination of changes if this is going to lead to sensible result with mutations or changes to follow—how is a matrix of complex changes coordinated by chance!. Mutations are changes that are essentially errors compared to the prior sequence of nucleotides in DNA. To mis-copy a sequence is a 'copy error.' Such a change alters the meaning of the molecule like a changed letter alters a word to nonsense or another word altogether. But is that change of any use unless other vital changes accompany it? In fact mutations really beg the necessity of other changes elsewhere in order for something to work and not be fatal to the plant or animal in question. We are not saying mutations do not happen. But as explained later, a loss of specificity appears to result—not an enhancement leading to optimizing some adaptation. So, in order for evolution to work there have to be a number of correlated adaptations occurring together. But this is a requirement that's unlikely to be met. But the Darwinian and neo-Darwinian approach is that mutations come as small changes, gradually over time. Still, might there be some point where the intermediate steps threaten to be fatal or are lost before being part of a final adaptation?
+
+Because the copying error is the smallest possible mutation, they were happy to adopt it as the source of the variation for their theory. But a copying error is not infinitesimally small. In my example of the novel I made it the smallest change possible by changing a single letter. I can't change a less than one letter. The same is true for living organisms—they can't change my less than one nucleotide. Spetner (NBC) Page 60
+
+Top
+Spetner makes a number of critical observations:
+When chromosomes are copied ... cells have mechanisms to reduce copying errors
+Most mutations are recognized to be harmful and too many mutations in a gene cause damage and not enhanced benefits—so mutation rates need to be slow to make evolution work on the genetic level... thus as we are taught evolution must take time.
+There's a lot of room for variability in DNA. You could measure it by counting all the possible DNA sequences. For mammals, for example, there are about 10 24,082,400 such sequences. I'll call this number the variability number. Spetner (NBC) Page 63
+A population of even hundreds of thousands of members could not contain all the potential or possible sequences (that is, the genomes comprise all the possible combinations of genes [i.e., expressing the traits like color, size, shape of an organism])
+Suppose the population is even a billion. The fraction of all sequences that could be stored in the population would then be a billion divided by 10 24,082,400, or 1/10 24,082,391. This is the fraction of the DNA sequences that can be stored directly in the population. The number is so close to zero it's negligible. The genome variety found in a population is in no way a match for the potential variety of the genome. Spetner (NBC) Page 64
+
+What about in humans?
+There are some a 100,000 genes in the human genome. Of these, about 6,700 come in two versions in the same person, one on each member of a chromosomes pair. There are 26,700, or about 102,017, different possible combinations. That huge number is far bigger than any population. In fact, it's very much larger than the number of all the protons in the universe. As far as anyone knows, a meiotic division of a cell could result in one of those many combinations. Spetner (NBC) Page 64
+
+fig 234
+
+Can the variation be random?
+Spetner observes:
+
+Bradys think of small changes building up over time and thus evolution occurs over long periods of time, or in Spenser's words:
+
+The bradys hold that large evolutionary changes occur through a long chain of small steps. This is the process we have called cumulative selection. Spetner (NBC) Page 91
+
+Cumulative a word used here to mean all the small steps work without detriment to the species! This brings on a big assumption without evidence!
+
+The NDT [Neo-Darwinian Theory] also sees evolution as a random process
+
+Tackys see potential for single large random changes (see article on fossils and discussion on the biological burst of life forms as observed during the Cambrian explosion, as well as at other times in ancient natural history). [see Spetner discussion on pages 89 and following for proposed mechanisms and critical questions related to rapid evolutionary changes] We are left to ask how so much new information appears in life forms in so little time!
+
+I think the mutations that drive evolution are mainly in regulatory genes. They might include the genetic rearrangements described above, but we don't know enough about them yet. I think these mutations lead to large changes in the phenotype, but they cannot be random. To compare them with the cowboy's poker game, I would say they're not just the result of luck. They're dealt from a stacked deck. My thinking on this point is very different from the NDT, and therefore from the Darwinian paradigm. I'll return to this point in Chapter 7. Spetner (NBC) Page 90
+
+Spetner challenges the idea that evolution is a random process. Genomes appear to be repositories of so much information that we might even think that some new genetic expressions are merely contained within the information base already found in an organism. In fact, Spetner later proposes that environmental factors stimulate genetic expressions that are contained within the population. If this occurs then no new information is needed, mutations are not needed, but instead resident information shows itself as if it were newly created. That's one proposal that eliminates a need for randomness in our explanations for evolution.
+
+For cumulative selection to work, a lot of good mutations have to occur by chance. At each step of cumulative selection, a mutant with a positive selective value has to appear. It also has to be lucky enough to survive and eventually to take over the population. Then another good mutation has to appear for the next step, and so on. The neo-Darwinians seem to think the chance of all this happening is large enough to make evolution work. But no one has ever shown that to be so. No one has ever shown that such a thing is likely—or even possible! Spetner (NBC) Page 91
+
+We often use the word impossible to mean a very small chance, or something very improbable. Just how improbable an event must be to be called impossible depends on who's judging. Spetner (NBC) Page 94
+
+Dr. Denton puts it this way ...
+
+For as we have seen, in the case of every kind of complex functional system the total space of all combinatorial possibilities is so nearly infinite and the isolation systems so intense, that it would truly be a miracle to find one by chance. Darwin's rejection of chance saltations as a route to a new adaptive innovations is surely right. For the combinatorial space of all organic possibilities is bound to be so great, that the probability of a sudden macromutational event transforming some existing structure or converting de novo some redundant feature into a novel adaptation exhibiting, that "perfection of coadaptation" in all its component parts so obvious in systems like the feather, the eye or the genetic code and which is necessarily ubiquitous in the design of all complex functional systems biological or artefactual, is bound to be vanishingly small. Ironically, in any combinatorial space, it is the very same restrictive criteria of function which prevent gradual functional change which also isolate all functional systems to vastly improbable and inaccessible regions of the space. Denton (ETC) Page 319
+
+Top
+Probable, Possible, Impossible—Time to Calculate
+The most instructive exercise conducted by Spetner involves setting up a calculation, running the calculation, considering the implications for the results, and making added adjustments to give some benefit for any doubts ... and then to look at the results overall.
+
+To get an idea of how improbable something is, he describes the odds of getting all heads when simultaneously tossing 150 coins. ''This event will have a chance of one in 2150, or one in about 1045.'' [NOTE: One set of all 150 coins being heads in 1045 = that is one chance in this many coin tosses 1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000]
+
+The kind of events that are supposed to run evolution take millions of years and large populations. There can't be many trials of this magnitude from which to find a winner. I'll compare the chances of some of the events of evolution with this event, which most people would call impossible. Spetner (NBC) Page 95
+
+Now we see a comparison in the making. If it's virtually or absolutely impossible to get all heads for those 150 flipped coins, then how similar are the odds for getting all the steps and changes needed to get from one species to the next? If the odds look as improbable for creating the new species as it is to get all heads for the 150 coins ... then both events might be considered equally impossible. Spetner sets off to find out what is needed to make his calculation:
+
+Summarized from Spetner (NBC) Page 96:
+For now, let's look at evolution through the eyes of a brady. What is the chance of the whole series of steps occurring?
+To calculate, we have to know:
+
+What the chance is of getting a mutation
+What fraction of the mutations have a selective advantage
+How many replications there are in each step of the chain of cumulative selection
+How many of those steps their have to be to achieve a new species
+If we get values for these parameters we can find in the chance of evolving a new species.
+
+Note that not any copying error can serve a typical step in cumulative selection. To be a part of a typical step a mutation must:
+
+1. have a positive selective value, and
+
+2. add a little information to the genome.
+
+The basic point is Spenser's analysis identifies the necessary components to make a reasonable calculation. From his pages 96 & 97 and following we see:
+
+''We already have the first of these parameters the mutation rate. The mean mutation rate for animals is 10-10.''
+
+''Note that we don't know if mutations can all be of the minimum size of one nucleotide and still satisfy the above two requirements.* But let me assume it is possible so I can proceed, even if it means giving away this point to the evolutionary side of the argument.''
+
+[* None of the point mutations that have been observed satisfying these requirements.]
+
+''G. Ledyard Stebbins, one of the architects of the NDT, has estimated that to get a new species would take about 500 steps [Stebbins 1966].''
+
+''Using the numbers cited by the experts, I find that one small evolutionary step would comprise about 50 million births.''
+
+We see that 500 steps—i.e., unique mutations—will be required to get from one species to the next. We get that number from earlier in the discussion above.
+
+What I mean when I say "to make the theory work" is that cumulative selection should lead to a new species by successfully completing 500 steps. But the completion of the steps is a random event—it's a matter of chance. We can only calculate the chance that it will occur. We shall have to adopt some level of chance of achieving a new species as our criterion that the theory works. Then we can a ask how many potentially adaptive mutations there must be to get to that level of chance. Spetner (NBC) Page 98
+
+A few more factors need defining and then we are set to do a calculation.
+
+First, based on an estimate by Richard Lewontin of Harvard University, for each species alive today there are 1,000 species that are extinct. So, to get a new species is a chance of 1 in 1,000. To this Spetner adds another factor of 1,000 because species are known to change little over time (this is called stasis). 1,000 times 1,000 = 1,000,000 ...
+
+Let's then set the level of chance to one in a million. Thus we adopt the criterion that evolution can work if the chance of achieving a new species in 500 steps is at least one in a million. If the chance is less than that, we shall say that evolution does not work. Spetner (NBC) Page 99
+
+The following might be a bit tricky to follow, but we'll give you a quote to illustrate how Spetner thinks through one of his steps leading to his final calculation.
+
+Now let's find in the chance that a mutation in a particular nucleotide will occur and take over the population in one step. What's the chance that a mutation occurs in a specific nucleotide of the genome during one evolutionary steps? The chance of a mutation in a specific nucleotide in one birth is 10-10, and there are 50 million births in an evolutionary step. The chance of getting at least one of such mutation in the whole step is about 50,000,000 times 10-10, or one in two hundred. There is an equal chance that the base will change to any one of the other three. Then the chance of getting a specific change in a specific nucleotide is a third of that, or one in six hundred .
+
+Note that I have taken the mutation at each step to be a change in a single nucleotide. I don't know if there is always, at each stage, a single nucleotide that can change to give the organism positive selective value and to add information to it. No one really knows. But I have to assume it can if I am to get on with this study of cumulative selection.
+
+That's a pretty strong assumption to make, and there's no evidence for it. But if the assumption doesn't hold, the NDT surely won't work. Although we don't know if it holds, let's see if the NDT can work even with the assumption. Spetner (NBC) Page 100
+
+There are a number of places in Spenser's discussion—and lengthy treatment in one chapter—to address issues stemming from the thinking and writings of Dr. Richard Dawkins. We can't give a complete accounting of the rebuttals Spetner develops to address points made by Dawkins. You can best appreciate this by reading Spenser's complete text (context is very important in accounting for his responses to Dawkins' many assumptions). But the issue of a species accumulating small changes over time is one of Dawkins' assumptions that Spetner refutes. Again, unless mutations survive long enough to spread throughout a population, then its more likely the mutation will vanish. Just because a mutation occurs is no guarantee it sticks over generations or time.
+
+Sir Ronald Fisher did much of the original work in population genetics, and his work is still the standard in the field. He found from his studies that even good mutations are likely to disappear from the population. He said:
+
+"A mutation, even if favorable, will have only a very small chance of establishing itself in the species if it occurs once only. [Fisher 1958, p. 84]
+
+He noted that if evolution is to work, many adaptive mutants have to appear. Only in large numbers could mutants survive the vagaries of selection and takeover the population. But adaptive mutations are just too rare for that.
+
+How many mutants would have to appear to ensure their survival? It's a matter of chance; there's no way to ensure their survival. We can calculate the chance that a mutation will survive if we know the selective value.
+
+What is a typical selective value for the kind of evolution I am a discussing? In the opinion of the late George Gaylord Simpson, who was generally acknowledged as the dean of evolutionists, a "frequent value" is about a tenth of a percent. He felt that a hundredth of a percent "... may be less than the average" [Simpson 1953, p. 119]. I shall therefore choose 0.1% as a typical selective value. Spetner (NBC) Page 102
+
+In fact we get a picture that mutations have to run wild to even test their prospects for persisting and thereafter for their ability to factor into an adaptive feature for any species. But here, just to be 'fair,' we see Spetner give some wiggle room for evolution.
+
+Fisher's calculations show that for only one mutation with a tenth of a percent selective value the odds are 500 to one against its survival. There would have to be almost 350 such mutants to have a 50 % chance of survival. There would have to be more than 1100 of them to have a 90 % chance.
+
+For just a moment let's look at the chance of a species evolving into a new one if at each step there is only one potential copying error that can be adaptive. What we've found above is the chance of just one of the small steps occurring. To get a new species, 500 of them have to occur without any failures. As we shall soon see, for successful evolution the probability of each has to be very nearly one. The chance of 500 of these steps succeeding is 1/300,000 multiplied by itself 500 times. The odds against that happening are about 3.6 x 102,738 to one, or the chance of it happening is about 2.7 x 10-2,739. That's a very small chance! It's more than 2,000 orders of magnitude smaller than the chance of the event I call impossible. Spetner (NBC) Page 103
+
+Even if we string 500 successful mutations together over time, we end up with odds that don't seem to favor evolution in the slightest!
+
+... So we see that evolution will work only if there are at least a million potential adaptive mutations at each step.
+
+... if a new species is to evolve from an old one, two conditions have to hold. They must apply to any stage in evolution. These considerations are:
+
+1. An adaptation that adds information to the genome can always arise through a change in a single nucleotide.
+
+2. At each stage of evolution there are about a million nucleotides in which a change will satisfy the first assumption.
+
+I could have put it these two conditions together and expressed them as one. But I'd rather look at them separately because they make to distinct points. Unless these conditions hold, the NDT will not work. To make the NDT work, I must assume these conditions hold. I'll call them the Darwinian Assumptions. Spetner (NBC) Page 104
+
+There are more conditions to be met. Remember, each isolated mutation doesn't necessarily have to relate to any previous or subsequent mutation. Each event could be so independent as to not contribute to some correlated end point (e.g., the making of a new species by macroevolution). But to work additional conditions apply, mutations must ...
+
+1. They must be able to be part of a long series in which the mutation in each step is adaptive.
+
+2. The mutations must, on the average, add a little information to the genome.
+
+... Curiously, no mutations that have selective value are known to satisfy this condition. They either reduce the information in the genome, or they seem to add too much.
+
+Some microevolution does not involve the mutation. It instead uses the variation already in the population. The evolution of industrial melanism in and the peppered moth is an example. Spetner (NBC) Page 106
+
+Our account is brief. The points we are reviewing are sound. But further study will reveal to you the matrix of concerns comprehensively presented by Spetner. Addressing the proposition of evolution is itself a matrix of facts, assumptions, and views from the Darwinian and neo-Darwinian camps. Once we consider the traditional Darwinian view, as above, we next have to cover the neo-Darwinian (i.e., the recent genetic and molecular) perspective.
+
+None of the above examples show the kind of mutations that the NDT needs. In fact, there are no known cases of evolution that meet the conditions of cumulative selection. There are some known cases of evolution with copying errors, but they show only a kind of microevolution that one cannot extend to macroevolution. None of them adds information. All that I know of, actually lose information. There are no known as examples of copying errors that have been observed and that have been studied on the molecular level that qualify to be a step in cumulative selection. We shall therefore find we have to reject Darwinian Assumption 1, and consequently we shall have to reject the NDT. Spetner (NBC) Page 107
+
+You'll find details on rejecting Darwinian Assumption 1, and others, in Spenser's text. But for the moment, let's be clear. Macroevolution is assumed such that we are told ancestor species (simple cells on primitive earth) gave rise to all the life forms we see today. The calculations say this is not happening. But microevolution occurs ... so we are saying evolution of a fashion does occur. This gives us a path from one species to the next, but more like from bird to bird, or fish to fish, or horse to horse, but not bacteria to man. The shorter range evolution known as microevolution has been extrapolated to define macroevolution. We have documented microevolution, but as noted here and on other pages in this Science Area, there are problems in producing certainty for macroevolution. In fact, the evidence says macroevolution does not occur. This is the point Spetner is making with the math.
+
+Dr. Spetner reminds us that not only is there a first of 500 steps to his example, a step that is one of a million possible steps, but there are all the remaining steps counting down to the last of the 500 steps leading to a new species.
+
+The process has a huge amount of freedom. If an evolutionary path were to begin a second time from the same point, the first outcome would not repeat. The odds against it repeating is a million multiplied by itself 500 times, or 103,000, to one. By comparison, the odds against the event called impossible are only 1045 to one. The species resulting from the second path would almost certainly be different from the first. Spetner (NBC) Page 108
+
+Spetner furthermore has us think of the evolutionary process as working through a maze. At every level a new mutation ... and by the time we escape the maze all the mutations have to be acquired without being fatal or disappearing. The following might be a bit technical, but think of the phenotype as features we see (e.g., height, hair color) and genotype as the genetic information stored in the DNA. When the information of the genotype is expressed, we see it in the phenotype. In terms of the maze ...
+
+Let the maze be built on the basis of the phenotype—it will still have an enormous number of paths. The maze for the phenotype may have fewer branches at each node than the maze for the genotype. There may be less than a million—maybe only ten thousand. In that case there would be 10 2,000 branches. The odds against coming out the same place twice would still be enormously larger than the odds against what we called the impossible event. Since we would still have to call it impossible, we have to rule out phenotypic, as well as genotypic, convergence. Spetner (NBC) Page 114
+
+In general terms, a phenotypic change is something we can see as a difference in appearance. The outward change should also relate to a change in the genetic information (genome) inside the organism's cells.
+
+Spetner continues in a discussion with examples that the neo-Darwinians cannot explain. And his probability analysis continues to show as impossible and not merely improbable. Intriguing, these examples further tip the scales against the standard storyline for evolution. Spenser's point is this is not obvious when evolutionists don't want to do the math. But making the calculations makes an incredible point. One we dare not miss.
+
+To have a chance of at least one in a million of getting one adaptive recombination in 10 trillion replications, there would have to be 10 2017/ 1019 adaptive ones. That means that 10 1998 potential recombinations would have to be adaptive.
+
+With this number of adaptive possibilities, there would be a one-in-a-million chance that one of them will appear in the population during the million generations. Actually, to get this chance of an adaptive recombination that will survive in the population, we need somewhat more than 101998. But never mind. That number is already too big to allow convergence.
+
+I hope I have shown you here why the NDT doesn't work. I have shown it through an example. Fred Hoyle, astronomer, mathematician, Fellow of the Royal Society, and retired professor at Cambridge University, together with Chandra Wickramasinghe, chairman of the Department of Astronomy and Applied Mathematics of the University of Cardiff, have arrived at the same result in a more general mathematical way. They have presented a mathematical disproof of the NDT in a small book of only 34 pages, entitled Why Neo-Darwinism Does Not Work. They call what they have done a "simple and decisive disproof of the 'Darwinian' theory." [Hoyle and Wickramasinghe 1982]. Spetner (NBC) Page 119
+
+Top
+Like it or not, this computational assessment leaves us with a conclusion.
+The NDT's claim is the same as Darwin's. It claims to explain how all life evolved from some simple beginning. It claims to explain how all the complexity of life evolved in a natural way as a process that occurs through a combination of chance and the known laws of nature. It, too, claims to have substituted chance for design.
+
+I have shown so far that on a theoretical grounds random mutations cannot form the basis of evolution. The information of life could not have been built up the way the NDT says it was. Evolutionists have not succeeded in finding a random source of the variation that will make the NDT work. Spetner (NBC) Page 120
+
+Others Agree
+The following quotes are offered to indicate Spetner is not alone. We readily agree that these are taken from their greater context. So, we also encourage you to look up the sources as cited and read further.
+
+From Denton:
+
+The inability of unguided trial and error to reach anything but the most trivial of ends in almost every field of interest obviously raises doubts as to its validity in the biological realm. Such doubts were recently raised by a number of mathematicians and engineers at an international symposium entitled "Mathematical Challenges to the Neo-Darwinian Interpretation of Evolution", a meeting which also included many of leading evolutionary biologists. The major argument presented was that Darwinian evolution by natural selection is merely a special case of the general procedure of problem solving by trial and error. Unfortunately, as the mathematicians present at the symposium such as Schutzenberger and Professor Eden from MIT pointed out, trial and error is totally inadequate as a problem solving technique without the guidance of specific algorithms, which has led to the consequent failure to simulate and Darwinian evolution by computer analogues. Denton (ETC) Page 314
+
+Think of Spenser's calculations in terms of getting a new protein to be correct and functional. Look at what it takes to make this happen!
+
+There are, in fact, both theoretical and empirical grounds for believing that the a priori rules which govern function in amino acid sequence are relatively stringent. If this is the case, all the evidence points in this direction, it would mean that functional proteins could well be exceedingly rare. The space of all possible amino acid sequences (as with letter sequences) is unimaginably large and consequently sequences which must obey particular restrictions which can be defined, like the rules of grammar, are bound to be fantastically rare. Even a short unique sequences just ten amino acids long only occur once by chance in about 1013 average-sized proteins; unique sequences twenty amino acids long once and about 1026 proteins; and unique sequences thirty amino acids long once in about 1039 proteins! Denton (ETC) Page 323
+
+From Bradley and Thaxton:
+
+Neglecting the problem of reactions with non-amino acid chemical species, the probability of getting everything right in placing one amino acid would be 0.5 * 0.5 * 0.5 = 0.0125. The probability of properly assembling N such amino acids would be .0125 * .0125 * ... continued for N terms of .0125. If a functional protein had one hundred active sites, the probability of getting a proper assembly would be .0125 multiplied times itself one hundred times, or 4.9 * 10-191. Such improbabilities have led essentially all scientists who work in the field to reject random, accidental assembly or fortuitous good luck as an explanation for how life began. Bradley and Thaxton (CH) Page 190
+
+FREE PDF of Mystery of Life's Origin (compliments of the authors) or purchase copy via link at the bottom of this page
+
+Free Book Click Here
+A most significant text that is a must read for all readers. Follow the scientific explorations and the conclusions that tell why DNA is more than a molecule, but IS information by design and beyond mere chance product of an abiotic origin.
+
+Purchase Book Click Here
+
+Top
+Oller and Omdahl state (and in agreement with the quoted point made above by Denton ...) with regard to a symposium entitled " Mathematical challenges to the Neo-Darwinian interpretation of evolution" held on April 25th it and 26, 1962:
+
+In "Algorithms and the Neo-Darwinian Theory of Evolution" Marcel P Schutzenberger of the University of Paris calculated the probability of evolution based on mutation and natural selection. Although with many other noted scientists, he concluded that it was "not conceivable" because the probability of the chance process accomplishing this is zero: "there is no chance (< 10,000-1000) to see this mechanism appear spontaneously and, if it did, even less for it to remain. ... Thus, to conclude, we believe that there is a considerable gap in the Neo-Darwinian theory of evolution, and we believe this gap to be of such a nature that it cannot be bridged within the current conception of biology." Oller and Omdahl (CH) Page 274
+
+From the perspective of making functional DNA ...
+
+... In a the October 1969 issue of Nature, Frank Salisbury of Utah State University, then on leave at the Division of Biomedical and Environmental Research at the U.S. Atomic Energy Commission, examined the chances of occurrence of one of the most basic chemical reactions for the continuation of life. This reaction involves the formation of a specific DNA molecule. (It is important to realize that Salisbury was assuming that life already existed. His calculations do not refer to the chance of the origin of life from dead matter—something infinitely more improbable—but to the continuance of already-existing life.) Oller and Omdahl (CH) Page 276
+
+Dr. Salisbury calculated the chance of this molecular evolution on a possible 1020 planets —all with hospitable biologic conditions. Remember, this number of planets is infinitely more than the number estimated that could exist in the universe. He allowed 4 billion years for the chance existence of this molecule on all of these planets. This is not a calculation for life, but only calculating the chance of one appropriate DNA molecule.
+
+Salisbury concluded that the chances of this one tiny DNA molecule's coming into existence over 4 billion years, with conditions just right, on just one of these almost countless number of hospitable planets, including the earth, as one chance in 10415. This figure far exceeds the standard of Borel's law, which says that beyond a certain point improbable events never happen, regardless of the time span involved. Indeed, 10+50 planets would pack the known universe, yet the chance that life could evolve from dead matter on any one of them is still beyond possibility. Oller and Omdahl (CH) Page 276
+
+Added Perspective:
+All the descriptions we've encountered—from within the Darwinian camp and those bringing arguments from other perspectives—all seem to agree that to rely on chance alone to explain life leaves something to be desired. It's simply not a strong argument—in fact, its merely an assumption. If you read Dr. Spenser's book, you'll see that it takes a review of many aspects of the probabilities that concern life to really cover all the ground necessary to come to the conclusion that life is not by chance.
+
+Given the encouragement to read the sources we illustrate here, we hope that you at the very least see the serious and condemning implications that come from calculating the theoretical aspects to life's appearance on earth. If we were not to slip back into assumptions based on our perceptions ... the factors described from astronomy, the problems with simply getting chemicals to arise on a primitive planet—not to mention the lack of explanation for some spontaneous arrangement into more complex features that lead to protocells—and the impossible odds for chance ... we'd be faced with all the more evidence we need to see life is not merely the result of evolution as described by Darwin or the Neo-Darwinists who followed him.
+
+There are many more examples that you might like to add to the Window's perspectives ... and so we invite you to continue page to page here as you explore the WindowView. If we fail to clearly demonstrate one point or other, we will still have gone along way to layering perspective upon perspective to built a lager view. In ages past a few arguments offered weak resistance to the Darwinian position. But that has changed. That some do not accept the change is not the point. If you explore to the end of what we offer here and understand we are only offering a portion of what can be examined, then you will have enough to make the case. You may wish to read more about all this and this is good. Be aware book list is only a small portion of the titles available to you.
+
+Quotations from "The Creation Hypothesis" (CH) edited by J. P. Moreland are used by permission of InterVarsity Press, P.O. Box 1400, Downers Grove, IL 60515. www.ivpress.com All rights reserved. No portion of this material may be used without permission from InterVarsity Press.
+
+Quotations from "Not By Chance" (NBC) written by L. Spetner, are used by permission granted by Dr. Lee Spetner.
+
+Quotations from Dr. Michael Denton's "Evolution: A Theory in Crisis" are used by permission of Adler and Adler Publishers Inc., 5530 Wisconsin Ave, Suite 1460, Chevy Chase, MD 20815

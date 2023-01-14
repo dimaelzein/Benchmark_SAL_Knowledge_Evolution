@@ -1,0 +1,140 @@
+Theory of Evolution
+Module B, Anchor 3
+Basic Evolutionary Theory:
+1. Explain what the term “evolution” means. Provide an example.
+Evolution – change in species over time. Example – whales evolved from a land mammal into a
+marine mammal.
+2. What is natural selection? How does natural selection relate to evolution?
+The process by which some organisms survive and reproduce and others do not. Natural
+selection is the mechanism by which evolution occurs.
+3. Describe the conditions necessary for natural selection to occur.
+Struggle for existence – some organisms live, others die
+Variation and adaptation – organisms are not all alike, organisms that are well-suited to survive
+in their environment possess adaptations
+Survival of the fittest – those organisms best adapted will survive and reproduce at higher rates
+than those who are not.
+4. How does natural variation affect evolution? What are the sources of genetic variation within
+populations? Explain how each increases genetic variation.
+Without natural variation, all organisms would be identical. Therefore, no organism would have
+an advantage over another. If a change occurred in the ecosystem the entire species would be
+wiped out. Genetic variation arises from:
+Recombination during sexual reproduction – genes are put into new combinations during
+Meiosis, producing new phenotypes
+Mutation – mistakes are made in the copying of DNA
+Lateral gene transfer – genes are passed between prokaryotic organisms
+5. How does natural selection account for the great diversity of organisms on the Earth today?
+Organisms adapted to their environments, creating a wide variety of organisms suited to various
+niches within various environments.
+6. An inherited characteristic that increases an organism’s ability to survive and reproduce in its
+specific environment is called a(n)
+B. adaptation
+7. How well an organism survives and reproduces in its environment can be described as its
+A. fitness
+8. How are fitness and adaptation related?
+Fitness is the ability to survive and reproduce. This is made possible through the use of
+adaptations which make an organism better suited to its environment.
+9. Why is reproduction, as opposed to simply survival, needed for fitness?
+An organism cannot affect the species as a whole without producing offspring
+10. What is the role of the environment in determining fitness?
+The environment determines what traits make an organism more fit. For example, a trait
+allowing organisms to store water would increase fitness in a desert environment. In a
+rainforest, this trait would not be advantageous.
+11. Why does natural selection work only on heritable characteristics, as opposed to acquired
+characteristics?
+Acquired characteristics cannot be passed on to offspring, therefore they cannot affect the
+genetic make-up of the population. For example, dying your hair purple does not give you genes
+for purple hair. Therefore, your children will not have purple hair.
+12. What is the principle of common descent?
+All life is descended from one common ancestor.
+13. Use the theory of natural selection to explain how two unrelated organisms, such as sharks
+and dolphins, come to possess very similar physical adaptations.
+The organisms occupy similar niches in similar environments. Therefore, the same types of
+adaptations are advantageous to them. This would lead to the possession of very similar
+physical traits.
+Natural Selection and Genetics:
+1. The combined genetic information of all members of a particular population forms a:
+A. gene pool
+2. How is evolution defined, genetically speaking?
+Change in allele frequency.
+3. Explain what the term relative frequency means, include an example illustrating your answer.
+The frequency of an allele in relation to the other alleles in the gene pool. For example, fur
+color in rabbits comes in grey and white. There are 65 grey alleles and 35 white alleles. The
+frequency of the grey allele is .65; the frequency of the white allele is .35.
+How does evolution change the relative frequency of alleles in a gene pool? Why does this
+happen?
+Natural selection selects against particular phenotypes. The frequency of the alleles controlling
+those phenotypes is decreased. The frequency of other alleles in the gene pool goes up in
+response.
+4. The frequency of a particular allele changes from 30% to 10%. Is this population evolving?
+Why or why not?
+Yes. The allele frequency has changed significantly.
+5. Does natural selection work directly or indirectly on genotype? Explain your answer.
+Phenotype. An albino rabbit dies because it is white and stands out to predators more than a
+brown rabbit. It does not die because it has a white allele.
+6. Compare and contrast evolution in single-gene vs. polygenic traits.
+Single gene traits – measured by change in allele frequency
+Polygenic – measured by shift in phenotypes, as the genetics behind various phenotypes are
+extremely complicated.
+7. List and describe the three types of selection which occur when polygenic traits are evolving.
+Directional – organisms on either end of the bell curve become more fit, shifting the average to
+one side or the other
+Stabilizing – organisms at either end of the curve become less fit, exaggerating the already
+existing norm.
+Disruptive – organisms at both ends of the curve become more fit, creating two distinct
+phenotypes.
+8. What is genetic drift? List and describe the two types of genetic drift.
+Allele frequencies change by chance, as opposed to natural selection.
+Founder effect – a small group of organisms colonizes a new habitat. By chance, there genetic
+make-up is different than the original population as a whole
+Bottleneck effect – the population is quickly and dramatically reduced. The surviving organisms
+have a different allele frequency than the original population.
+9. Compare and contrast genetic drift and natural selection.
+Both result in changes to allele frequencies, but natural selection is not due to chance.
+10. What is genetic equilibrium?
+The allele frequencies within a population remain stable.
+11. What are the conditions required in order to maintain genetic equilibrium? Explain each.
+Large population – reduces effect of genetic drift
+No mutation – does not introduce new alleles into the population
+Random mating – no particular group is leaving more offspring
+No movement in or out of the population – individuals arriving may bring new alleles,
+individuals leaving may remove alleles
+No natural selection – natural selection changes allele frequencies do to variations in fitness.
+12. Which of the following conditions is MOST likely to result in changes in allele frequencies
+in a population?
+B. small population size
+Speciation:
+1. What constitutes a species?
+Individuals who can mate and create fertile offspring.
+2. What is necessary for speciation to occur? Why is this necessary?
+Reproductive isolation – allows differences in the genetics of a population to build up until they
+can no longer produce fertile offspring.
+3. List and describe the types of reproductive isolation.
+Geographic – populations are separated by a physical barrier
+Behavioral – populations are physically able to mate, but do not due to behavioral issues (ex –
+different courtship rituals)
+Temporal – populations mate at different times (one in April, one in June)
+Mechanical – reproductive organs do not fit correctly
+4. Can two populations be separated by more than one isolating mechanism?
+Yes
+5. Describe the genetic changes which occur between populations after reproductive isolation
+has occurred.
+As the individuals mate, changes occur to their genetic material. Since they are not reproducing
+together, these differences do not become shared in their offspring. This makes them less and
+less similar.
+Evidence for Evolution:
+1. Explain how each of the following provide evidence for evolution:
+Vestigial structures – Structures which once had a function, but no longer do. They would not
+be present unless they were once used.
+Homologous structures – same structure, different function. Ex – wing of bat, flipper of whale,
+arm of human. Would not be structurally similar if they didn’t have a common ancestor.
+Analogous structures – Unrelated organisms with similar physical structures. Show how
+organisms adapt to their environment.
+Biogeography – Organisms that are unrelated but live in similar environments have similar
+adaptations due to their similar needs
+Fossils – Provide a visual record of how organisms change over time
+Embryology – Vertebrate embryos look very similar in the womb, possessing traits their adult
+counterparts lack. They would not have these parts if they did not once use them.
+Molecular biology – The number of differences in an amino acid sequence can be calculated to
+determine how long ago the organism shared a common ancestor.
+2. If species A and B have very similar genes and proteins, what is probably true?
+A. Species A and B share a relatively recent common ancestor

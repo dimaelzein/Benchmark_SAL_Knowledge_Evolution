@@ -1,0 +1,156 @@
+Selección natural
+
+Ilustraciones realizadas por el ornitólogo John Gould sobre ejemplares recogidos por Charles Darwin para ilustrar las variaciones del pico de los pinzones entre distintas islas del archipiélago de las Galápagos. Actualmente representan un ejemplo clásico de diversificación por selección natural en condiciones de aislamiento insular.
+La selección natural es un fenómeno de la evolución que se define como la reproducción diferencial de los genotipos de una población biológica. La formulación clásica de la selección natural establece que las condiciones de un medio ambiente favorecen o dificultan, es decir, seleccionan la reproducción de los organismos vivos según sean sus peculiaridades. La selección natural fue propuesta por Darwin como medio para explicar la evolución biológica. Esta explicación parte de tres premisas; la primera de ellas el rasgo sujeto a selección debe ser heredable. La segunda sostiene que debe existir variabilidad del rasgo entre los individuos de una población. La tercera premisa aduce que la variabilidad del rasgo debe dar lugar a diferencias en la supervivencia o éxito reproductor, haciendo que algunas características de nueva aparición se puedan extender en la población. La acumulación de estos cambios a lo largo de las generaciones produciría todos los fenómenos evolutivos.
+
+En su forma no inicial, la teoría de la evolución por selección natural constituye el gran aporte1​ de Charles Darwin (e, independientemente, por Alfred Russel Wallace), fue posteriormente reformulada en la actual teoría de la evolución, la síntesis moderna. En biología evolutiva se la suele considerar la principal causa del origen de las especies y de su adaptación al medio.
+
+La selección natural puede ser expresada como la siguiente ley general, tomada de la conclusión de El origen de las especies:
+
+Existen organismos que se reproducen y la progenie hereda características de sus progenitores, existen variaciones de características si el medio ambiente no admite a todos los miembros de una población en crecimiento. Entonces aquellos miembros de la población con características menos adaptadas (según lo determine su medio ambiente) morirán con mayor probabilidad. Entonces aquellos miembros con características mejor adaptadas sobrevivirán más probablemente.
+
+Darwin, El origen de las especies
+El resultado de la repetición de este esquema a lo largo del tiempo es la evolución de las especies.
+
+Índice 
+1	En la teoría moderna
+2	Aptitud
+2.1	Tipos de selección natural
+2.2	Selección sexual
+3	Ejemplos de selección natural
+4	Evolución por selección natural
+4.1	Procesos evolutivos y la selección natural
+4.1.1	Transferencia horizontal de genes, y selección natural
+4.1.2	Epigenética, y selección natural
+4.2	Especiación
+5	Posibles excepciones
+6	Véase también
+7	Referencias
+8	Bibliografía
+9	Enlaces externos
+En la teoría moderna
+
+Gráfico demostrando la resistencia de una población a un cambio en el ambiente y su población antes y después del mismo. Nótese que mientras los rojos oscuros fueron favorecidos por este cambio ambiental, una variación distinta puede favorecer a los amarillos o intermedios.
+En la teoría sintética la selección natural no es la única causa de evolución, aunque sí la que tiene un papel más destacado. El concepto de selección natural se define ahora de un modo más preciso: como la reproducción diferencial de los genotipos en una población. Desde el momento en que existen diferencias en éxito reproductivo de las distintas variantes genéticas, existe la selección natural. Por ejemplo: si los individuos más verdosos en una población de insectos-hoja aportan unos tres descendientes a la siguiente generación, y los individuos marrones aportan como media 1,5 descendientes, está habiendo selección a favor de los verdes. Las diferencias en éxito reproductivo pueden ocurrir por diversas causas (diferente fertilidad, riesgo de muerte por depredadores, atractivo sexual, capacidad para explotar los recursos alimenticios, etc.).
+
+Figuras importantes del síntesis, y los tres fundadores de la genética de las poblaciones, fueron Ronald Fisher, quién escribió The Genetical Theory of Natural Selection en 1930, J.B.S. Haldane, quién introdujo el concepto del «costo» de la selección natural,,2​ y Sewall Wright, quién elucidó sobre la selección y la adaptación,3​
+
+Generalmente, existe una correlación entre la eficacia reproductiva de los portadores de un genotipo y la adaptación al medio que éste les otorga. Por tanto, los rasgos que confieren ventajas adaptativas comúnmente son seleccionados a favor y propagados en las poblaciones (en algunos casos, un genotipo podría otorgar éxito reproductivo sin aportar mayor adaptación al medio, y sería seleccionado igualmente). La teoría de la selección natural aportó por primera vez una explicación científica satisfactoria para múltiples enigmas científicos del mundo biológico, especialmente el de la "apariencia de diseño" que existe en los seres vivos. Permitió, por tanto, que la Biología pudiera prescindir de los elementos divinos y sobrenaturales y se convirtiera así en una auténtica ciencia.
+
+Hoy en día, la evolución por selección natural se estudia en diversos tipos de organismos, mediante experimentos de laboratorio y de campo, y se desarrollan métodos para averiguar qué genes han estado recientemente sometidos a la acción de la selección natural y con qué intensidad.
+
+Aptitud
+Artículo principal: Aptitud biológica
+El concepto de aptitud es clave en la selección natural. A grandes rasgos, los individuos que son más aptos tienen mayor potencial de supervivencia, similar a la popular frase «supervivencia del más apto». Sin embargo, y como ocurre con el término selección natural, el significado preciso es más sutil. Richard Dawkins lo evita totalmente en sus últimos libros, aunque dedica un capítulo de su libro El fenotipo extendido a discutir sobre los distintos sentidos en que el término se usa. La teoría evolutiva moderna define la aptitud no sobre la base de cuánto vive el organismo, sino sobre la base de cuánto se reproduce. Si un organismo vive la mitad que otros de su especie, pero en comparación con el resto, el doble de sus descendientes llegan a la edad adulta; entonces sus genes sobrevivirán y se propagarán a la siguiente generación.
+
+Aunque la selección natural opera sobre los individuos, los efectos del azar hacen que la aptitud sólo pueda ser definida en promedio para los individuos de una población. La aptitud de un determinado genotipo corresponde al efecto medio sobre todos los individuos con ese genotipo. Los genotipos de muy baja aptitud causan que sus portadores tenga muy poca —o ninguna— descendencia en promedio. Se pueden citar como ejemplos muchas enfermedades genéticas humanas, como la fibrosis quística.
+
+Como la aptitud es una cantidad promediada, es también posible que una mutación favorable que se dé en un individuo no llega a propagarse al grupo si el individuo fallece antes de la edad adulta por otros motivos. La aptitud depende totalmente del entorno. Condiciones como la anemia de células falciformes son muy inaptas en la población humana general. Sin embargo, la anemia de células falciformes confiere al portador inmunidad a la malaria por lo que su aptitud en entornos con altas tasas de infección de malaria es muy alta.
+
+Tipos de selección natural
+La selección natural puede actuar sobre cualquier rasgo fenotípico heredable y cualquier aspecto del entorno puede producir presión selectiva, esto incluye la selección sexual y la competición con miembros tanto de la misma como de otra especie. Sin embargo, esto no implica que la selección natural siga siempre una dirección y que resulte en evolución adaptativa. La selección natural produce a menudo el mantenimiento del statu quo mediante la eliminación de las variantes menos aptas.
+
+La unidad de selección puede ser el individuo u otro nivel dentro de la jerarquía de organización biológica como los genes, las células y los grupos familiares. La cuestión sobre si la selección natural actual a nivel de grupo (o especie) para producir adaptaciones que benefician a un grupo mayor, sin vínculos familiares, suscita aún un tenue debate. Así mismo, existe un cierto debate sobre si la selección a nivel molecular anterior a mutaciones genéticas y a la fertilización del zigoto debe considerarse selección natural convencional puesto que tradicionalmente se ha llamado selección natural a una fuerza exterior y ambiental que actúa sobre un fenotipo después del nacimiento. Algunas revistas científicas distinguen entre selección natural y selección genética llamando informalmente a la selección de mutaciones como preselección.4​
+
+La selección a otros niveles, como el gen, puede resultar en una mejora para el gen y al mismo tiempo en un perjuicio para el individuo portador del gen. Este proceso se denomina conflicto intragenómico. En conjunto, el efecto combinado de todas las presiones a los distintos niveles (gen, individuo, grupo) es lo que determina la aptitud de un individuo y por tanto el resultado de la selección natural.
+
+La selección natural ocurre en cada etapa de la vida de un individuo. Un organismo ha de sobrevivir hasta la edad adulta para poder reproducirse. La selección de aquellos que alcanzan la etapa adulta es llamada selección de viabilidad. En muchas especies los adultos han de competir entre sí para conseguir parejas sexuales. Este mecanismo se denomina selección sexual y el éxito en la misma determina quienes serán los padres de la siguiente generación. Cuando los individuos pueden reproducirse en más de una ocasión, la supervivencia en la edad adulta aumenta la descendencia. A este proceso se le llama selección de supervivencia.
+
+La fecundidad, tanto de machos como de hembras, puede verse limitada por la "selección de fecundidad". Así, la viabilidad de los gametos producidos variara. Los conflictos intragenómicos derivan en selección genética. Finalmente, la unión de algunas combinaciones de óvulos y esperma será estadísticamente más compatible que otras. A esto se le llama selección por compatibilidad.
+
+Existen 4 Tipos a veces considerados 3 de selección natural, clasificados según los individuos que sobreviven en cada tipo de selección, es decir, según cuántos sobrevivan:
+
+Selección estabilizadora
+Selección direccional
+Selección disruptiva o Selección balanceada
+Selección sexual
+Selección sexual
+Artículo principal: Selección sexual
+Es útil diferenciar entre selección ecológica y selección sexual. La selección ecológica se refiere a cualquier mecanismo de selección como resultado del entorno. Por otra parte, la selección sexual se refiere específicamente a la competición por la pareja sexual.5​
+
+La selección sexual puede ser intrasexual, que es el caso de competición entre individuos del mismo sexo en una población, o intersexual, que es cuando un sexo controla el acceso a la reproducción mediante la elección de pareja dentro de la población. Normalmente, la selección intrasexual se da en forma de competición entre machos y la intersexual como elección por parte de las hembras de los mejores machos, debido al mayor coste que para las hembras generalmente conlleva la cría. Sin embargo, algunas especies presentan los papeles sexuales cambiados y es el macho el que se muestra más selectivo a la hora de escoger pareja. El ejemplo más conocido es el de ciertos peces de la familia Syngnathidae. También se han encontrado ejemplos similares en anfibios y pájaros.6​
+
+Algunas características presentes sólo en uno de los dos sexos en especies concretas se pueden explicar a través de la presión ejercida por el otro sexo en su elección de pareja. Por ejemplo, el extravagante plumaje de algunos pájaros macho como el pavo real. Así mismo, la agresión entre miembros del mismo sexo se asocia en ocasiones con características muy distintivas como los cuernos del ciervo, que sirven para pelear con otros ciervos. En general, la selección intrasexual se asocia con el dimorfismo sexual, que incluye diferencias en el tamaño del cuerpo de los machos y las hembras.7​ .
+
+Ejemplos de selección natural
+Un ejemplo muy conocido de selección natural es el desarrollo de resistencia a antibióticos en microorganismos. Desde el descubrimiento de la penicilina en 1928 por Alexander Fleming, los antibióticos se han usado para combatir las enfermedades de origen bacteriano. Las poblaciones naturales de bacterias contienen una gran variación en su acervo génico, principalmente como resultado de mutaciones. Cuando se enfrentan a un antibiótico, la mayoría mueren enseguida. Sin embargo, algunas tienen mutaciones que las hace menos débiles a ese antibiótico concreto. Si el enfrentamiento con el antibiótico es corto, algunos de estos individuos sobrevivirán al tratamiento. Esta selección eliminadora de individuos poco aptos de una población es la selección natural.
+
+Las bacterias supervivientes se reproducirán formando la siguiente generación. Debido a la eliminación de los individuos mal adaptados en la generación pasada, la población contendrá más bacterias que tienen cierto grado de resistencia antibiótica. Al mismo tiempo, surgen nuevas mutaciones de las cuales algunas pueden añadir más resistencia a la bacteria portadora del gen mutante. Las mutaciones espontáneas son poco frecuentes y las ventajosas son aún más infrecuentes. Sin embargo, las poblaciones de bacterias son lo bastante numerosas para que algunos individuos contengan mutaciones beneficiosas. Si una nueva mutación reduce la susceptibilidad al antibiótico, los individuos que la porten tienen más probabilidad de sobrevivir al antibiótico y reproducirse.
+
+Con tiempo y exposición al antibiótico suficientes, acaba apareciendo una población de bacterias resistentes al antibiótico. Esta nueva población de bacterias resistentes está adaptada óptimamente al entorno en que evolucionó. Sin embargo, ha dejado de estar adaptada óptimamente al antiguo entorno en el que no había antibiótico. El resultado de la selección natural en este caso son dos poblaciones que están adaptadas de forma óptima a su ambiente específico pero que están inadaptadas en cierto grado al otro ambiente.
+
+El uso extendido y el abuso de antibióticos ha traído consigo un incremento de la resistencia de los microbios, hasta el punto de que el estafilococo áureo MRSA está considerado una amenaza para la salud8​ debido a su relativa invulnerabilidad a las medicinas existentes. Las estrategias de tratamiento incluyen el uso de antibióticos más potentes. Sin embargo, han aparecido nuevas ramificaciones del MRSA son resistentes incluso a estas medicinas.
+
+Esto es un ejemplo de un campaña armamentística evolutiva, en la que las bacterias evolucionan hacia formas más resistentes y los investigadores médicos desarrollan nuevos antibióticos. Una situación similar ocurre con las plantas e insectos resistentes a los pesticidas. Las carreras armamentísticas ocurren también sin intervención humana. Un caso bien documentado es la difusión de cierto gen en la mariposa Hypolimnas bolina que protege a los machos frente a la muerte ocasionada por la bacteria Wolbachia. Se sabe que este gen se ha desarrollado tan sólo desde el año 2002.9​
+
+Evolución por selección natural
+Artículo principal: Evolución biológica
+Un requisito para que la selección natural conduzca la evolución adaptiva, nuevos rasgos y especiación, es la presencia de variación genética heredable que comporte diferencias de aptitud (es decir, que la variación genética resulte en individuos más y menos aptos para sus circunstancias). La variación genética es el resultado de mutaciones, recombinaciones y alteraciones en el cariotipo (número, forma, tamaño y organización interna de los cromosomas). Cualquiera de estos cambios puede tener un efecto que sea muy ventajoso o desventajoso, pero en general los efectos grandes son poco comunes. Los cambios en el material genético solían considerarse neutrales o cuasineutrales porque ocurrían en el ADN no codificante o resultaban en sustituciones sinónimas (la proteína sintetizada por el gen mutado era a efectos prácticos la misma que la del gen sin mutar). Sin embargo, estudios recientes han demostrado que muchas mutaciones en el DNA no codificante sí tienen efectos perniciosos.10​11​ La tasa de mutación y el efecto en el individuo dependen del organismo concreto, sin embargo, a partir de datos basados en análisis sobre humanos se considera que la mayoría de las mutaciones son ligeramente perjudiciales.12​
+
+Por definición, los individuos más aptos tienen más probabilidad de contribuir con descendientes a la siguiente generación, mientras que los menos aptos tendrán menos descendientes o morirán antes de alcanzar la edad adulta. Como resultado, los alelos que en promedio conllevan mejor adaptación (aptitud) son más abundantes en la siguiente generación, mientras que los alelos que tienden a perjudicar a los individuos portadores, también tienden a desaparecer. Si las presiones selectivas -temperatura, abundancia de agua y cualquier otra condición del entorno- se mantienen relativamente constantes, los alelos beneficiosos se propagan por la población transformándose en los dominantes (en el sentido de más abundantes) y los alelos perniciosos desaparecen. En cada generación aparecen nuevas mutaciones y recombinaciones que producen un nuevo espectro de fenotipos. Por lo tanto, cada nueva generación se enriquece con la abundancia de alelos que contribuyen a los rasgos que fueron anteriormente favorecidos por la selección natural, mejorando así gradualmente estos rasgos durante generaciones sucesivas.
+
+Algunas mutaciones ocurren en los genes reguladores. Estos cambios pueden tener un gran efecto en el fenotipo del individuo porque estos genes se encargan de regular la función de muchos otros genes. La mayoría -aunque no todas- las mutaciones en los genes reguladores producen zigotos inviables. Ejemplos de mutaciones en los genes reguladores en el hombre que no son letales ocurren en los genes HOX, que pueden causar la formación de una costilla en las cervicales o de múltiples dedos. Cuando estas mutaciones resultan en una mejora de la aptitud, la selección natural las favorecerá y se esparcirán en la población.
+
+Los rasgos establecidos no son inmutables. Rasgos que son muy efectivos en un ambiente determinado pueden volverse poco efectivos si las condiciones cambian. Si la presión selectiva sobre un rasgo desaparece, éste tiende a adquirir más variaciones y a deteriorarse, incluso transformándose en un vestigio. En muchas ocasiones la estructura vestigial puede mantener cierta funcionalidad limitada o ser la base de otros rasgos ventajosos (fenómeno conocido como preadaptación). Por ejemplo, el ojo es un órgano vestigial del topo pero que todavía aporta cierta funcionalidad para percibir la duración del día y la noche.13​
+
+Procesos evolutivos y la selección natural
+Transferencia horizontal de genes, y selección natural
+Si un organismo obtiene nuevo material genético no proveniente de sus padres (ancestros), una vez insertado el material genético en el organismo; ya sea mediante transferencia horizontal de genes, por procesos tales como elemento virales endógenos, simbiogénesis, etc; a través de sucesivas generaciones, esta nuevas secuencias igualmente pueden sufrir mutaciones aleatorias del mismo modo que el resto del genoma, por lo que la selección natural podrá actuar del mismo modo sobre ellas. Un ejemplo de ello es que, entre los genes involucrados en el desarrollo de la placenta humana, está involucrado un gen, el de la sincitina, cuyo origen es un elemento viral endógeno.14​
+
+Epigenética, y selección natural
+Del mismo modo, aunque el proceso epigenético no implican un cambio en la secuencia de nucleótidos del ADN, sino que consisten en un cambio en la expresión de los genes; la selección natural igualmente, a partir del resultado biológico de dicha expresión de genes, actuará sobre el proceso epigenético y sobre el organismo que lo sufre.
+
+Especiación
+Artículo principal: Especiación
+La especiación es el proceso por el que una especie se escinde en dos especies diferentes. La especiación requiere apareamiento selectivo, el cual conlleva un flujo genético reducido. El apareamiento selectivo puede ser el resultado de:
+
+1. Aislamiento geográfico 2. Aislamiento etológico (de comportamiento) 3. Aislamiento temporal
+
+Por ejemplo, un cambio en el entorno físico (aislamiento geográfico por una barrera externa, como un río o una montaña) correspondería al caso 1. Un cambio en el camuflaje sería un ejemplo del caso 2. Finalmente un cambio en la época de celo se correspondería con el caso 3.
+
+Con el tiempo, estos subgrupos aislados divergen radicalmente convirtiéndose en especies diferentes, bien por diferencias en la presión selectiva, bien porque aparecen mutaciones distintas en cada grupo o bien por el llamado efecto fundador. Según este efecto, uno de los subgrupos podría haber comenzado ya con algún alelo beneficioso de forma fortuita. Un mecanismo de especiación menos conocido es el de hibridación. Está bien documentado en plantas y ocasionalmente se observa en grupos con abundantes especies como los cíclidos.15​ Este tipo de mecanismo podría reflejar un tipo de cambio evolutivo conocido como equilibrio puntuado, que sugiere que el cambio evolutivo, y en particular la especiación, ocurren normalmente de forma rápida después de largos periodos estáticos (sin apenas cambios).
+
+Los cambios genéticos dentro de cada grupo acarrean incompatiblidad genética entre los genomas de los dos subgrupos. Con lo que el flujo génico se reduce todavía más. El flujo génico cesa completamente cuando las mutaciones distintivas de cada grupo quedan fijadas. Tan sólo con dos mutaciones (una en cada subgrupo) puede llegar a producirse la especiación. Basta con que estas mutuaciones tengan un efecto neutral o positivo cuando ocurren aisladas y uno negativo cuando ocurran juntas. A partir de ahí, la fijación de estos genes en cada subgrupo conduce a dos poblaciones reproductivas aisladas, que según el concepto biológico de especie, son en efecto dos especies diferentes.
+
+Posibles excepciones
+Según Ernst Mayr, la selección natural podría tener una acción diferente o limitada en los siguientes casos:16​
+
+En primer lugar, los mecanismos de selección natural se han descrito casi exclusivamente en animales complejos y plantas (y otros grupos con reproducción sexual). Sin embargo, existen indicios de que la selección puede ser bastante distinta en los casos en los que los límites de la individualidad son mucho más borrosos. Es el caso de las colonias de invertebrados y de los organismos uniparentales, especialmente las plantas, las protistas y las procariotas (Véase el artículo Unidad de selección).
+En segundo lugar, la primera etapa de la selección se basa en la variación fenotípica aleatoria, pero se ha descubierto una serie de mecanismos genéticos que producen una variación no aleatoria. Es el caso de la deriva meiótica, el conflicto intragenómico y determinados "genes egoístas". Una variación que fuera drásticamente no aleatoria podría sobrepasar la acción de la selección.
+Véase también
+Selección sexual
+Selección de parentesco
+Selección artificial
+Evolución biológica experimental
+Referencias
+ Sampedro, Javier. Deconstruyendo a Darwin, Crítica, 2002, ISBN 978-84-8432-910-7, pag. 22
+ Haldane JBS (1932) The Causes of Evolution; Haldane JBS (1957) The cost of natural selection. J Genet 55:511-24 [1].
+ Wright, S (1932). «The roles of mutation, inbreeding, crossbreeding and selection in evolution». Proc 6th Int Cong Genet 1: 356-66.
+ Universidad de Arizona (26 de enero de 2011). «Evolution by mistake: Major driving force comes from how organisms cope with errors at cellular level». ScienceDaily.
+ Andersson, M (1995). Sexual Selection. Princeton, New Jersey: Princeton University Press. ISBN 0-691-00057-3.
+ Eens M, Pinxten R. (2000). Sex-role reversal in vertebrates: behavioural and endocrinological accounts. Behav Processes 51(1-3):135-147. PMID 11074317
+ Barlow GW. (2005). How Do We Decide that a Species is Sex-Role Reversed? The Quarterly Review of Biology 80(1):28–35. PMID 15884733
+ «MRSA Superbug News». Archivado desde el original el 22 de noviembre de 2015. Consultado el 6 de mayo de 2006.
+ Sylvain Charlat, Emily A. Hornett, James H. Fullard, Neil Davies, George K. Roderick, Nina Wedell & Gregory D. D. Hurst (2007). "Extraordinary flux in sex ratio". Science 317 (5835): 214. doi:10.1126/science.1143369. PMID 17626876.
+ Kryukov GV, Schmidt S & Sunyaev S (2005) Small fitness effect of mutations in highly conserved non-coding regions. Human Molecular Genetics 14:2221-9
+ Bejerano G, Pheasant M, Makunin I, Stephen S, Kent WJ, Mattick JS & Haussler D (2004) Ultraconserved elements in the human genome. Science 304:1321-5
+ Eyre-Walker A, Woolfit M, Phelps T. (2006). The distribution of fitness effects of new deleterious amino acid mutations in humans. Genetics 173(2):891-900. PMID 16547091
+ Sanyal S, Jansen HG, de Grip WJ, Nevo E, de Jong WW. (1990). The eye of the blind mole rat, Spalax ehrenbergi. Rudiment with hidden function? Invest Ophthalmol Vis Sci. 1990 31(7):1398-404. PMID 2142147
+ Katzourakis, Aris; Gifford, Blesa et. al (noviembre de 2008). «Syncitin: evolution of human placenta and potencial therapeutic target in cancer». Cancer Therapy 6: 923-930.
+ Salzburger W, Baric S, Sturmbauer C. (2002). Speciation via introgressive hybridization in East African cichlids? Mol Ecol 11(3): 619–625. PMID 11918795
+ Mayr, E. (1997) "The objects of selection" Proc. Natl. Acad. Sci. USA 94 (March): 2091-94.
+Bibliografía
+Darwin, Charles (2007). El origen de las especies. Zulueta, Antonio de (trad.) (1ª ed. 2ª reimp. edición). Alianza Editorial, S.A. pp. 672 págs. ISBN 978-84-206-5607-6.
+Margulis, Lynn; Olendzenski, Lorraine (1996). Evolución ambiental: efectos del origen y evolución de la vida sobre el planeta Tierra. Sole Rojo, Mónica (trad.) (1ª ed. edición). Alianza Editorial. pp. 416 págs. ISBN 978-84-206-2841-7.
+Mayr, Ernst (2004). Una larga controversia: Darwin y el darwinismo. Crítica. pp. 216 págs. ISBN 9788484322542.
+Orgel, Leslie E. (2007). Los orígenes de la vida: Moléculas y selección natural. Emilio López Thome (trad.) (3ª ed edición). Alianza Editorial. pp. 214 págs. ISBN 9788420621388.
+Ruse, Michael (1983). La revolución darwinista. Castrodeza, Carlos (trad.). Alianza Editorial S.A. ISBN 978-84-206-2372-6.
+Sampedro, Javier (2007). Deconstruyendo a Darwin: los enigmas de la evolución a la luz de la nueva genética (1ª ed. edición). Editorial Crítica. pp. 575 págs. ISBN 978-84-8432-910-7.
+Enlaces externos
+ Wikiquote alberga frases célebres de o sobre Selección natural.
+Ejemplo: selección natural y el problema de la resistencia a antibióticos
+Selección natural
+Errores comunes sobre la selección natural
+La selección natural: "me replico, luego existo"
+Hay lo que queda: Sobre la presunta tautologicidad de la teoría de la selección natural.
+Categorías: Origen de la vidaPaleoantropologíaSelección

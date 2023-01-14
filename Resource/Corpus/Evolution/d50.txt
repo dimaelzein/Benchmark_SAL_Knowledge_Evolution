@@ -1,0 +1,83 @@
+Síntesis evolutiva moderna
+
+Charles Darwin
+
+Gregor Mendel
+
+John Sanderson Haldane
+
+Ernst Mayr
+La síntesis evolutiva moderna (también llamada simplemente nueva síntesis, síntesis moderna, síntesis evolutiva, teoría sintética, síntesis neodarwinista o neodarwinismo) significa en general la integración de la teoría de la evolución de las especies por la selección natural de Charles Darwin, la teoría genética de Gregor Mendel como base de la herencia genética, la mutación aleatoria como fuente de variación y la genética de poblaciones. Los principales artífices de esta integración fueron Ronald Fisher, J. B. S. Haldane y Sewall Wright.
+
+Esencialmente, la síntesis moderna introdujo dos descubrimientos importantes: la unidad de la evolución (los genes) con el mecanismo de la evolución (la selección natural). También representa la unificación de varias ramas de la biología que anteriormente tenían poco en común, especialmente la genética, la citología, la sistemática, la botánica y la paleontología.
+
+Índice
+1	Historia
+1.1	Neodarwinismo
+2	Principios de la síntesis moderna
+3	Avances posteriores
+4	Críticas a la teoría sintética
+5	Publicaciones destacadas
+5.1	Fases fundadoras de la síntesis
+6	Referencias
+Historia
+George John Romanes acuñó el término neodarwinismo para referirse a la teoría de la evolución escogida por Alfred Russel Wallace et al. Wallace rechazaba la idea lamarquista de la herencia de caracteres adquiridos, algo que Darwin, Huxley et al no descartaban. El «neodarwinista» más prominente de la época tras Darwin era August Weismann, que afirmaba que el material hereditario, que él llamaba plasma germinal, se mantenía completamente separado del desarrollo del organismo. Sin embargo, la mayoría de los biólogos consideraba que era una posición extrema, y se discutieron alternativas como variaciones del neolamarckismo, la ortogénesis (evolución «progresiva») y el saltacionismo (evolución por «saltos» o mutaciones).
+
+En 1900 se «redescubrió» la herencia mendeliana, y al principio se consideraba que apoyaba una forma de evolución por «saltos». La escuela biométrica, encabezada por Karl Pearson y Walter Frank Raphael Weldon, se opuso vigorosamente a ella, diciendo que la evidencia empírica indicaba que la variación era continua en la mayoría de los organismos. La escuela mendeliana, encabezada por William Bateson, contestaba que en algunos casos la evidencia mendeliana era indiscutible y que los trabajos futuros revelarían su veracidad general. El mendelismo fue adoptado por muchos biólogos, aunque todavía era muy rudimentario en sus inicios. Su relevancia en la evolución todavía se debatía acaloradamente.
+
+El trabajo de Thomas Hunt Morgan con la mosca del vinagre o de la fruta, Drosophila melanogaster, proporcionó una conexión muy importante entre la biología experimental y la evolución, y también entre la genética mendeliana, la selección natural y le teoría cromosómica de la herencia. En 1910, Morgan descubrió una mosca mutante con los ojos blancos (la Drosophila silvestre tiene los ojos rojos), y averiguó que esta condición —aunque aparecía solo en machos— se heredaba precisamente como un carácter recesivo mendeliano. En los años siguientes, él y sus compañeros desarrollaron la teoría de la herencia mendeliana-cromosómica, y publicaron El mecanismo de la herencia mendeliana en 1915. En esa época, la mayoría de los biólogos aceptaba que los genes situados linealmente en los cromosomas eran el mecanismo de herencia principal, aunque seguía sin estar claro cómo podía ser esto compatible con la selección natural y la evolución gradual. El trabajo de Morgan fue tan popular que se considera el sello de la genética clásica.
+
+Este problema fue resuelto parcialmente por Ronald Fisher, que en 1918 publicó un artículo titulado The Correlation Between Relatives on the Supposition of Mendelian Inheritance,1​ que mostraba, con un modelo, cómo la variación continua podía ser el resultado de muchos loci discretos. Se suele considerar que esto es el punto inicial de la síntesis, ya que Fisher proporcionó un modelo estadístico riguroso para la herencia mendeliana, satisfaciendo las necesidades (y los métodos) de las escuelas biométrica y mendeliana. Fisher también resumió un modelo de la selección sexual en el fisherian runaway (modelo de despegue de Fisher) y de las proporciones de los dos sexos en el principio de Fisher.
+
+Un alumno de Morgan, Theodosius Dobzhansky, fue el primero en aplicar la teoría cromosómica de Morgan y la matemática de la genética de poblaciones a poblaciones naturales de organismos, en particular sobre poblaciones de Drosophila melanogaster. Su trabajo Genetics and the Origin of Species se suele considerar como el primer trabajo maduro del neodarwinismo. Este trabajo, junto con trabajos de Ernst Mayr (Systematics and the Origin of Species – sistemática), G. G. Simpson (Tempo and Mode in Evolution – paleontología) y G. Ledyard Stebbins (Variation and Evolution in Plants – botánica), están considerados como los cuatro trabajos canónicos de la síntesis moderna. C. D. Darlington (citología) y Julian Huxley también escribieron sobre el tema; en 1942, Huxley acuñó los términos síntesis evolutiva y síntesis moderna en su trabajo Evolution: The Modern Synthesis.
+
+Neodarwinismo
+A finales del siglo XIX, el término neodarwinismo se refería a la escuela panseleccionista de Wallace y Weismann: frente a Darwin, que había admitido una pluralidad de mecanismos evolutivos, los neodarwinistas defendían la exclusividad de la selección natural como mecanismo del cambio orgánico. Se enfrentaban así con los neolamarquistas, que abogaban por la ley lamarquista del uso y el desuso.
+
+Hoy el término neodarwinismo se asocia a la síntesis evolutiva moderna de los años treinta.
+
+Principios de la síntesis moderna
+De acuerdo con la síntesis moderna establecida en los años treinta y cuarenta, la variación genética de las poblaciones surge por azar mediante la mutación (ahora se considera que está causada por errores en la replicación del ADN) y la recombinación (la mezcla de los cromosomas homólogos durante la meiosis). La evolución consiste básicamente en los cambios en la frecuencia de los alelos entre las generaciones, como resultado de la deriva genética, el flujo genético y la selección natural. La especiación podría ocurrir gradualmente cuando las poblaciones están aisladas reproductivamente, por ejemplo por barreras geográficas (especiación alopátrica), o por cambios dentro de una misma población (especiación simpátrica).
+
+La teoría sintética defiende que los cambios graduales y la selección natural sobre ellos son el mecanismo principal del cambio evolutivo, rechazando otros mecanismos que defienden otras teorías:
+
+El saltacionismo considera el origen repentino de nuevas especies.
+El lamarckismo considera la herencia de caracteres adquiridos.
+La ortogénesis considera una fuerza intrínseca a la materia orgánica que conduciría a un progreso evolutivo.
+El equilibrio puntuado considera que los cambios graduales solo explican la microevolución, mientras que la macroevolución se produce por cambios bruscos.
+Avances posteriores
+La síntesis evolutiva moderna siguió desarrollándose y refinándose tras su establecimiento inicial en los años treinta y cuarenta. El trabajo de W. D. Hamilton, George C. Williams, John Maynard Smith y otros condujo al desarrollo de la visión de la evolución centrada en los genes durante los años sesenta. La síntesis actual ha extendido el ámbito de la idea darwinista de la selección natural, concretamente para incluir los descubrimientos científicos posteriores y conceptos desconocidos para Darwin como el ADN y la genética, que permiten análisis rigurosos, en muchos casos matemáticos, de fenómenos como la selección de parentesco, el altruismo y la especiación.
+
+Críticas a la teoría sintética
+Artículo principal: Historia de las objeciones y críticas a la teoría de la evolución
+Poniendo a un lado argumentaciones no científicas como los movimientos creacionistas, que niegan la evolución (tales como la propuesta del diseño inteligente); las críticas fundamentadas dentro del ambiente científico, plantean que la teoría sintética no explica satisfactoriamente algunos procesos biológicos. Fenómenos como el de la transferencia genética horizontal entre los procariotas2​ llevan a considerar un replanteamiento de algunas hipótesis o incluso la revisión completa del cuerpo conceptual de la evolución.3​
+
+Sin embargo, el consenso de la comunidad científica los considera solo como desacuerdos y nuevas ideas sobre puntos específicos, y la teoría misma no ha sido rebatida en el campo de la biología, siendo comúnmente descrita como la «piedra angular de la biología moderna».4​5​
+
+Un ejemplo más extremo y muy minoritario de estos llamados paradigmas es la visión llevada por la bióloga estadounidense Lynn Margulis (1938-2011), quien va más allá de su teoría de la simbiogénesis, para postular la teoría de que la simbiosis es la fuente principal de la variación heredada, mediante la cual se combinan genomas enteros. Sin embargo, a diferencia de su teoría sobre el origen de las células eucariotas, la teoría de Margulis sobre la simbiosis entre microorganismos como importante fuerza de la evolución, no goza de popularidad dentro de la comunidad científica por carecer de evidencia contundente a su favor[cita requerida].
+
+Publicaciones destacadas
+Fases fundadoras de la síntesis
+Primera fase:
+
+Fisher, R. (1930). The Genetical Theory of Natural Selection. ISBN 0-19-850440-3.
+Capítulo 1 online
+Capítulo 6 online
+Haldane, J. B. S. The Causes of Evolution. Longman, Green and Co., 1932; reimpresión de la Princeton University Press. ISBN 0-691-02442-1.
+Wright, S. (1931). «Evolution in Mendelian populations», en Genetics 16: págs. 97-159.
+Segunda fase:
+
+Dobzhansky, T. (1937). Genetics and the Origin of Species. Columbia University Press, ISBN 0-231-05475-0.
+Mayr, E. (1942). Systematics and the Origin of Species. Columbia University Press. Reimpresión de Harvard University Press. ISBN 0-674-86250-3.
+Huxley, J. S. (ed.). The New Systematics. Oxford University Press, 1940. ISBN 0-403-01786-6.
+Huxley, J. S. (1942). Evolution: The Modern Synthesis. Allen and Unwin, 1942. ISBN 0-02-846800-7.
+Simpson, G. G. (1944). Tempo and Mode in Evolution. Columbia University Press, 1944 ISBN 0-231-05847-0.
+Stebbins (1950). Variation and Evolution in Plants.
+Dawkins, Richard. The Blind Watchmaker (el relojero ciego). W.W. Norton and Company, reimpresión 1996. ISBN 0-393-31570-3
+El relojero ciego. Barcelona: Labor, 1989. ISBN 84-335-5737-8. 260 págs.
+Futuyma, D. J. in Evolutionary Biology, Sinauer Associates, 1986; pág. 12
+Gould, S. J. (1983). «The hardening of the Modern Synthesis». En Grene, Marjorie (ed.), Dimensions of Darwinism. Cambridge (Reino Unido): Cambridge University Press, págs. 71-93.
+Gould, S. J. (2002). The Structure of Evolutionary Theory. Cambridge (Massachusetts): Harvard University Press. 1433 págs.
+La estructura de la teoría de la evolución. Barcelona: Tusquets (Metatemas), 82. 1426 págs., 2004. ISBN 84-8310-950-6.
+Mayr, E.; y Provine, W. B. (eds.) (1980). The Evolutionary Synthesis: Perspectives on the Unification of Biology. Harvard University Press, 1980. ISBN 0-674-27226-9.
+Smocovitis, V. Betty (1996). Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology, Princeton University Press, 1996. ISBN 0-691-03343-9.

@@ -1,0 +1,347 @@
+CHARLES DARWİN VE EVRİM TEORİSİ
+Kozmopolit Aydınlar
+
+
+Evrim Teorisi Nedir?
+
+
+Evrim Teorisi, evrimleşmenin bir sonucu olarak türlerin değişimini ve yeni türlerin oluşumunu, evrime etki eden faktörler ve mekanizmalar ile açıklayan teoridir. Bunun yanında evrim teorisi türlerin oluşumuna dair noktaları son bilimsel araştırmaların getirdiği sonuçlar ve yeni bulgular ile açıklamaya çalışır. Charles Darwin’in ilk kez 1859’da yayınlanan “Türlerin Kökeni” isimli kitabında, Darwin’in daha ziyade doğal seçilimler temelinde açıklayarak tanımladığı biyolojik evrim teorisinin bazı detaylarında, zaman içinde yapılan daha derin bilimsel araştırmaların sayesinde gelişmeler ve ilerlemeler olmuştur. Özellikle evrimin mekanizmaları ve birbirleriyle olan etkileşimleri hakkında da daha başka evrim teorilerinin oluşabilmesini mümkün hale getirmiştir.
+
+Bir olgu olarak Evrim, aynı zamanda ilke olarak da bilim dünyası içinde gerçekliği hakkında tartışmasız olup evrimin tanımlanmış olan mekanizmaları arasında hangilerinin daha ağır bastığı veya daha çok evrime etki ettiği, bunun yanında hangi faktörlerin hangi oranlarda evrim süreçlerinde etkili olduğu, bu çeşitli evrim kuramlarının incelediği ve açıklama getirdiği alanlardır. Evrimin nasıl olduğuna dair araştırmaların açıklanmasında bu yüzden değişik evrim teorilerinden bahsedilir.
+
+Modern biyolojide bu evrim teorilerinden birine örnek verecek olursak, Evrim teorisini tamamlayan Ortak Ata Teorisi, bu konuda Dünya üzerinde yaşayan ya da soyu tükenmiş olan birçok canlının, hangi ortak bir atadan geldiğini inceler ve bunu bir soy ağacı oluşturarak açıklamaya çalışır. Canlıların sınıflandırılmasına dair filogenetik sistem ise bu konuda elde edilen fosil ve genetik bulguları değerlendirerek Ortak Ata Teorisini destekler ve türler arasındaki akrabalık derecelerini genetik ve anatomik benzerlikler düzeyinde inceler. Moleküler evrim ise elde edilen genetik bulguları genomlar ve alleller yardımıyla değerlendirerek yine Ortak Ata Teorisini ve dolayısıyla Evrim Teorisini destekler. Modern biyolojide canlılığın gelişimi ve oluşumu önemli bir konuma sahip olduğu ve bu konuda incelenen fenomenler birbirleriyle ilişkili olduğu için, biyolojinin tüm bu alt disiplinleri de Evrim teorisi için anlamlı olabilecek bilgileri elde ederek evrimin daha iyi anlaşılmasına katkıda bulunurlar. Genetik, Morfoloji, Hücre Biyolojisi, Anatomi, Biyokimya, Davranış Biyolojisi, Ekoloji ve Gelişim Biyolojisi, biyolojinin evrimi destekleyen alt disiplinlerine örnek verilebilirler.
+
+
+
+EVRİM TEORİSİNİN TARİHÇESİ
+
+Evrime dair görüşler, canlıların ortak bir ataya sahip olabilecekleri ve değişim gösterdiklerine dair bilinen kayıtlar, en az M.Ö. 6. yüzyıla, Miletli Yunan DüşünürAnaksimander‘e kadar gitmektedir. Tek tanrılı dinlerin öne sürdüğü yaratılış hikayelerine dayanılarak dünyadaki canlılığın tek seferde yaratıldığına ve bu türlerin sabit bir şekilde hiç bir değişme göstermeden günümüze kadar geldiklerine inanılmıştı. Orta Çağda ise “yaratılışçılk” inancına aykırı düşünce geliştirmek engizisyon zihniyeti tarafından yasaklanmıştı. Ancak 18. yüzyılda farklı bilim insanları ve araştırmacılarca bunun doğru olabileceğine dair şüpheler duyulmaya başladı. Bugün bildiğimiz anlamdaki Evrim kavramı ise Fransız Compt de Buffon‘a aittir. Buffon bu konuda 1749-1804 arasında 44 eser vermiştir. Buffon’un eserlerinde bilinmeyen ise “evrim olgusunu” veren ve neden olan süreçlerdi. Özellikle 18. yüzyılda bu konularda bir düşünce zenginliği gözlemlenmiş ve 1809’da Lamarck, türlerin oluşmasını ebeveynlerin hayattayken edindikleri kalıtımlar ve uyum sağlama yoluyla oluştuğunu söyleyen görüşünü belirtmiştir. Bu görüşler İngiltere’de siyasi ve dini düzeni tehdit eden görüşler olarak görülmüş ve oradaki bilim kurumlarınca da bu görüşler ilk önce tehlikeli olarak görülmüş, tepki çekmişti.
+
+1858 yılında ise hem Charles Darwin, hem de Alfred Russel Wallace eş zamanlı olarak Linnean Society of London’da (Londra Linne Derneğinde) iki farklı çalışmada, türlerin doğal seçilim yoluyla evrim geçirdiklerine dair teorilerini ortaya koyarak ilk kez yayınladılar ve buna Evrim teorisi denildi. Fakat bu yayın ilk önce fazla dikkat çekmedi. Bir yıl sonra 1859 yılında ise Darwin, “Türlerin Kökeni” isimli kitabını yayınladı ve bu kitabında Evrim teorisini daha iyi açıkladığı ve evrim süreçlerine dair daha derin açıklamalar getirdiği için artık bilim dünyasında da giderek daha çok kabul görmeye ve evrimin gerçekliği kabul edilmeye başladı.
+
+
+
+Darwin’in buna karşın açıklayamadığı şey ise, canlıların bu özelliklerini nesillerden nesillere nasıl aktarabildikleri ve bu özelliklerin sahip olduğu farklı varyasyonlarının soya çekimde neden birbirlerine karışmadığı idi. Çünkü o zamanda Gen ve DNA henüz bulunmamıştı ve Darwin de dolayısıyla bunların genetik temellerini bilemiyordu. Bu mekanizmayı açıklayan bilgileri ise 1865’de Gregor Mendel sağladı. Mendel’in araştırmaları ise belirli özelliklerin önceden söylenebilir ve kesin tanımlanabilir bir şekilde gelecek nesillere kalıtımla nasıl bırakıldığını açıklıyordu. Fakat Mendel de henüz DNA ve genlerin olduğunu bilmiyordu.
+
+Biraz daha geriye gidersek, Darwin’den önce Jean Baptiste Lamark’a (1744-1829) göre tüm canlılar ortak bir kökenden gelmekte ve canlının yaşadığı ortamda meydana gelen çevresel bir değişiklik, bu ortama uymaya çalışan canlı türünün tüm (veya çoğu) üyelerinde bir değişikliğe neden olmaktaydı. Mesela Lamark’a göre kullanılan organlar gelişiyor, kullanılmayan organlar ise köreliyordu. Yeni kazanılan bu özellik ise gelecek nesillere kalıtım ile aktarılabiliyordu. Bu durum da canlıların türleşmesine ve türlerin değişimine yol açıyordu. Bilinen en ünlü örneğe göre zürafaların boyunları yüksek dallardaki yaprakları yiyebilmek için uğraşmaları sonucunda uzamıştır ve bu özellik sonraki nesillere aktarılıp o türün özelliği olmuştur.
+
+Charles R. Darwin (1808-1882) ve Alfred R. Wallace’e (1823-1913) göre de tüm canlılar ortak bir kökenden geliyordu. Canlı türlerinin değişime uğramasının ve çeşitlenmesinin sebebi ise Lamark’ın öne sürdüğü gibi çevre değişiklikleriyle kazanılan özelliklerin ve becerilerin gelecek nesillere kalıtım yoluyla aktarılması değil, herhangi bir türün bireyleri içinde zaten var olan farklılıklar ve değişkenliklerden, bu bireylerden çevre şartlarına daha iyi uyum gösterebilenlerin diğerlerinden daha elverişli şartlar bulup daha çok üreyip çoğalabilmesiydi. Yani Darwin’e göre çevreye uyum gösterebilme ve adaptasyon seleksiyonun sonucuydu, Lamarck’a göre ise çevreye uyum ihtiyacının sonucuydu. Bir yukarıdaki zürafa örneğimize geri dönecek olursak Darwin’e göre uzun boyunlu zürafaların açıklaması; önce kısa boyunlu zürafaların olduğunu, bunların arasında bazı uzun boyunlu zürafaların (varyasyonları) olduğu ve bu uzun boyunlu zürafaların daha iyi beslenebilmelerinden dolayı daha iyi bir avantaja sahip oldukları ve besin kıtlığı olduğu zamanlarda uzun boyunlu olmalarından dolayı yüksek ağaçlardaki yapraklara ulaşarak hayatta kaldıkları, kısa boyunlu olanların ise doğal seleksiyon sonucu zaman içinde gitgide azalarak yok olduklarını söyler. Bu anlamda Darwin’e göre rastgele varyasyonlar daha önce de vardır ve doğanın düzenleyici etkisi olan doğal seleksiyon sonra devreye girer. Bunun gibi Lamark, mağarada yaşayan ve gözleri kör olan hayvanların o ortama uymak zorunda kaldıkları için böyle olduklarını söylerken, Darwin ise gözleri kör olanların mağarada yaşayabildiklerini ileri sürüyor, fakat kör olmanın sebebini açıklamıyordu.
+
+
+
+Darwin, evrime etki eden faktörlerin kabaca, günümüzde olduğu gibi geçmişte de aynı şekilde, eşit oranlarda ve sabit bir şekilde etkili olduğunu düşünüyordu. Fakat bu konuda yanılıyordu. Bu şekilde daha önce Jeoloji biliminin babası sayılan Charles Lyell’in (1797-1875) yer bilimsel süreçleri açıklamak için kullandığı “Güncellik Prensibi”‘ni de yanlışlıkla devralmış oldu. Darwin’in doğal seçilim konusunda yazdıkları evrim teorisinin temelinde yatmasına rağmen, Darwin kalıtsal varyasyonlar ile çevrenin etkisi sonucu meydana gelen değişiklikler arasındaki farklılığın ve bu faktörlerden tam olarak hangisinin daha ağırlıklı rol oynadığının tam olarak bilincinde değildi. Evrimin mekanizmasının anlaşılması ancak daha sonraki yıllarda, Mendel’in çalışmalarının başka bilim adamlarınca keşfinden sonra mümkün oldu. Buna rağmen hala günümüzde de evrime etki eden faktörlerden hangilerinin hangi durumlarda daha çok rol oynadığı bilim dünyasında tartışılmaktadır ve her geçen gün bu ilişkilere dair yeni bilgi ve bulgular da ortaya çıkarılmaktadır. En önemlisi 20. yüzyılın ilk yarısında, populasyon genetiğin ortaya çıkardığı sonuçlar, Darwin’in evrim teorisinin gelişmesinde önemli katkılarda bulunmuş, bunun yanında Modern Evrimsel Sentez Kuramının oluşmasını sağlamıştır. 1950′li yıllardan sonra ise moleküler biyoloji de evrim araştırmalarına dahil olmuş ve 1970′li yıllarda da sosyal-biyoloji çerçevesinde seleksiyon ve seçilim süreçleri hakkında fayda – maliyet analizleri yapma suretiyle daha tutarlı veriler elde edilebilmiştir [Sosyal biyoloji; ağırlıklı olarak biyolojide evrimsel süreçleri inceleyen davranış biyolojisinin bir dalıdır. İnsan da dahil olmak üzere her türlü canlı formların sosyal davranışlarının biyolojik temellerini inceler. Sosyobiyoloji terimi 1975’de Edward Osborne Wilsonn‘un “Sociobiology – The New Synthesis“ (Sosyobiyoloji – Yeni Sentez) adlı eserinde kavramlaşmıştır].
+
+
+
+Darwin ile Mendel’in arasındaki görüş farklılıkları ve anlaşılmayan noktaları ise 1930 yılında Biyolog Ronald Fisher çözerek açıklığa kavuşturdu. Ronald Fisher’in çalışmaları bu anlamda Darwin’in açıkladığı doğal seleksiyon mekanizması ile Mendel’in kalıtım kurallarını birleştirerek başarıyla sentezledi ve evrim süreçlerine etki eden mekanizmaların birbirleriyle de ilişki içinde olduğunun anlaşılmasını sağladı. Fisher’in bu çalışmalarına da Sentetik Evrim Teorisi ya da diğer adıyla Yeni Darwincilik (Neo Darwinizm) adı konuldu. Daha sonra Ernst Mayr bu bulguları değerlendirerek bu bilgilerin Hücre Biyolojisi ve Populasyon Biyolojisi alanlarında da kullanılabilmesini sağladı. DNA’nın 1944’de ilk kez Oswald Avery tarafından bulunması ve bunun genetik materyal olduğunun anlaşılması, sonra 1953’de James Watson ile Francis Crick‘in DNA yapısını çözmeleri ile de bu sefer kalıtımın fiziksel ve maddesel temelleri olduğu anlaşıldı ve evrim mekanizmalarında genetiğin rolüne dair daha çok açıklamalar getirilebildi. O zamandan beri genetik ve moleküler biyoloji evrim biyolojisinin de temel unsurlarıdır. Buna rağmen bir bütün olarak evrim teorisi en çok ABD’de ve hıristiyan köktendinciler tarafından red edilmektedir (Kreasyonizm veya Yaratılışçılık). Avrupa’daki hıristiyan kiliseler ve oluşumların çoğu ise Evrim teorisini desteklemekte ve kabul etmektedirler (Teistik Evrim veya Evrimsel Yaratılışçılık). Evrim Teorisinin ülkemizdeki kabul görme oranı ise çok düşük olup bu oran ABD’dekinden daha azdır.
+
+
+
+EVRİM TEORİLERİ
+
+Katastrofizm (Kıyamet Kuramı): Paleontoloji’yi büyük oranda geliştiren Fransız anatomist Georges Cuvier (1769-1832) tarafından ileri sürülen ve katmanlar arasındaki her bir sınırın, zaman olarak, sel baskınları ve kuraklık gibi felaketlere karşılık geldiğini ve o dönemde yaşayan türlerin çoğunun ortadan kalkmış olduğunu savunan hipotezdir. Ancak katastrofizmde olaylar birbirine evrimsel olarak bağlı değildir (George Cuvier katmanları incelerken, her katmandaki fosilin bir üstteki katmandaki fosil ile uyuşmadığını görmezden gelir); bu katmanlaşmaların nedeni teolojik bir nedene bağlanır. Yani bu felaketler Nuh Tufanı gibi Tanrı’nın bir cezası gibi görülür.
+
+Lamarkizm (Lamarck’ın Evrim Kuramı): Lamarck tarafından canlı türlerin değişimine ilişkin olarak ortaya atılan varsayım. Bu varsayıma göre, Lamarck, çevredeki yavaş değişikliklerin canlılarda yeni ihtiyaçlar doğurduğunu, bu ihtiyaçlar sonucunda canlıların hareketlerinin bedenlerinde değişiklikler oluşturduğunu ve bu değişikliklerin sonraki nesillere aktarıldığını söyler. Kullanılan organlar sinirsel sıvıdan daha çok faydalanıp gelişiyor, buna karşın kullanılmayan organlar körelir. Mendel’in ve Weismann’ın çalışmaları, Lamarck’ın Evrim Teorisi’nin kalbi olan ‘sonradan kazanılan özelliklerin aktarılması’ fikrinin yanlışlığını gösterdi ve Lamark’ın sonradan kazanılan özelliklerin aktarılabildiğini göstermek için yapılan tüm deneyler sonuç vermedi. Bu teori günümüzde geçerli değildir.
+
+Darwinizm (Darwin’in Evrim Teorisi): Darwin, Lamarck’tan 50 yıl sonra ‘Türlerin Kökeni’ adlı eserini (1859) yazdıktan sonra Lamark’ın görüşleri yeni formatlarla savunulmaya devam edilmiş ve Darwin de sonradan kazanılan özelliklerin aktarılabileceğini düşünmüş olsa da bu mekanizma, onun teorisinde, Lamarck’ta olduğu kadar önemli değildir. Lamarck’ın anlatımında çevresel değişiklikler öncedir, bunlar canlıdaki değişime sebep olur. Darwin’de ise rastgele varyasyonlar önce vardır, doğanın düzenleyici etkisi olan doğal seleksiyon sonra devreye girer. Bu konuda Prof. Dr. Cemal Yıldırım,
+
+“Biyolojideki kullanımları içeren “Darwincilik”, dar anlamda, doğal seleksiyon düzeneğini vurgulayan görüşün adıdır. Buna göre, tüm canlı türler, organizmaya doğal koşullarda ayıklanmaktan kurtulma ve çoğalma olanağı sağlayıcı varyasyonların doğal seleksiyonuyla gelişir. Darwincilik doğal seleksiyon tezini yoklanması gereksiz, doğruluğu apaçık bir ilke saydığı ölçüde bilimsel bir kuram olmaktan uzaklaşmakta, ideolojik bir öğreti kimliği kazanmaktadır. Ancak hemen belirtmeli ki, bu öğretisel eğilim geçmişte kalmış bir olaydır. Bugünkü anlamıyla “Darwincilik” bilimsel evrim kuramıyla özdeştir”.(Evrim Kuramı ve Bağnazlık)
+
+Darwinizm tartışması genellikle doğal seleksiyonun sağladığı evrim konusunda yoğunlaşmıştır. Darwinizm sözcüğü yaradılışçılar tarafından bilimsel bir yaklaşımdan ziyade bir ideolojiymişcesine kullanılır. Fakat Biyolog E.O. Wilson`a göre “Bilim adamları Darwinizm demez”.
+
+Modern Sentetik Teori: Darwin’in Evrim Kuramı ile Mendel’in kalıtım kuramını modern moleküler biyoloji ve matematiksel popülasyon genetiği ışığında birleştiren modern evrim kuramının adıdır. Modern sentezin ana katkısı kalıtımın ve dolayısıyla evrimin temel birimi olan genler üzerine yeni edinilen bigilerle evrimin mekanizması, yani doğal seçilim arasındaki bağlantıyı kurmuş olmasıdır. Modern sentezin dayandığı genel bulgular 1930 ve 40’larda ortaya çıkan ve bugün kısmen DNA kopyalanması sırasındaki hatalarla oluştuğu bilinen mutasyon ve rekombinasyondur. Bunların dışında modern sentez, gen havuzunun genetik kayma ve gen akımı gibi mekanizmalarla değişime uğradığını ortaya koymuştur. Modern senteze göre, popülasyonlar çevresel nedenlerle (örneğin coğrafi engeller) birbirinden ayrıldığında türleşme meydana gelir. (Wikipedia)
+
+Diğerleri:
+
+Sıçramalı Denge Teorisi (Punctuated Equilibrium)
+
+Kladistizm (Cladistics)
+
+Ortak Yaşam Teorisi (Mitokondri Teorisi)
+
+Karmaşıklık Teorisi
+
+Panspermia Hipotezi
+
+Heteretrof Hipotezi
+
+Ototrof Hipotezi
+
+
+
+EVRİM TEORİSİNDE GÜNCEL GELİŞMELER
+
+Bilimin, türlerin gelişimi ve evrimi hakkında bugün sahip olduğu bilgiler, bilimin çeşitli disiplinlerinden elde edilen verilerin birleştirilerek değerlendirilmesinden elde edilmektedir. Bu bulgular, türler çeşitliğinin nedenini evrime ve üreme, varyasyon, seçilim gibi bir dizi evrim faktörlerine dayandığını göstermektedir. Evrim hakkındaki konuşmalar ve yapılan bilimsel konferanslar bu faktörlerin ön koşulları ve detayları çerçevesinde gerçekleşmektedir. Bu anlamda Evrim teorisi şu temeller üzerinde oturmaktadır:
+
+Evrim her zaman gerçekleşir
+Evrim tersine döndürülemez (Louise Dolla Kuralları). Bazı genetik yapılar veya özellikler sahip oldukları eski durumlarını kopyalama yoluyla günümüze eski halleriyle dönebilirler ama baz aldıkları genler artık aynı yapıya sahip değillerdir.
+Evrimin son bir hedefi yoktur veya herhangi nihai bir amaca yönelik değildir.
+Evrim, eko sistemlerinden moleküler yapılarına kadar organizmaların tüm seviyelerinde çalışır
+Çeşitli Evrim Teorileri aynı hipotezleri ortaya çıkarmıştır. Bu hipotezler;
+
+Bir türe ait olan bireyler ve fenotipler, daima birbirinden farklı derecelerde çevreye uyum gösterirler
+Evrim, canlıların özelliklerinin sadece kalıtsal olduğu durumlarda gerçekleşir. Diğer bir deyişle evrim, ebeveynler özelliklerini sonraki yavru kuşaklara aktardığında ve bu özellikler populasyonda kalıcı olduğunda gerçekleşir
+Çevresel etmenlerin canlılar üzerinde devamlı süren etkileri sonucu, bazı organizmalar ve onların genetik planları da (genotipleri) seçilime uğrar. Bu genetik plan da bir türün bireylerinden oluşan popülasyonda egemen olur. Yani zaman içinde Genotipler (genetik plan) ve Fenotipler (bireyler) değişim gösterir.
+Theodosius Dobzhansky 1973’te bunu şöyle ifade etmiştir:
+
+“Nothing in Biology makes sense, except in the light of evolution” (Evrim ışığı olmaksızın biyolojide hiçbir şeyin anlamı yoktur)
+
+Evrim Teorisinin 19. yüzyıldaki erken dönemlerinde, daha ziyade kalıtsal fenotipik özelliklerin nasıl korunduğu ve bu özelliklerin gelecek nesillere nasıl aktarıldığı konusunda bilimciler arasında fikir farklılıkları varken, bugün bilimciler bunun büyük ölçüde hücre çekirdeklerindeki genler ve mitokondriler üzerinden gerçekleştiğinde fikir birliği içindedirler. Ek olarak bu konuda annesel ve babasal efektler ve faktörler hakkında da tartışılmaktadır. Bunun yanında uygun olan farklı fenotip özelliklerin çevrenin dışında da seçildikleri birden çok durumların ve mekan ya da yerlerin olduğu da bilinmektedir. Bu seçilimler mesela farklı genlerin birbirleriyle rekabet etmesi sonucu halihazırda genomlarda, bazı durumlarda gen ifadesinin transkripsiyondan sonra düzenlendiği gen ekspresyonlarında, yapısal kısıtlar nedeniyle embriyonik gelişimde, av-avcı ilişkileri bağlamında veya popülasyondaki kültürel fenomenlerde olabilmektedir. Bu son konu araştırmaya dair güncel tartışmaların günümüzdeki odak noktasıdır.
+
+Levent Alper, 02.03.2011
+
+KAYNAKÇA:
+
+“Introduction of Evolution” – Wikipedia
+
+“Evolution Mensch” – Rosemarie Benke-Bursian, Gondram Yayınları, Bindlach 2006
+
+“Evolution und Biologische Vielfalt” – Prof. Dr. Wilfried Probst, Bibliografisches İnstitut & F.A. Brockhaus, Mannheim 2008
+
+“1oo Prüfungsfragen Abitur Biologie” – Prof. Dr. Wilfried Probst, Bibliografisches İnstitut AG, Mannheim 2009
+
+“Biologie – Kompaktwissen Oberstufe” – Walter Kleesattel, Cornelsen Verlag, Berlin 2007
+
+Görseller: Prof. Dr. Battal Çıplak, Akdeniz Üniversitesi, Fen ve Edebiyat Fakültesi, Biyoloji Bölümü, Antalya
+
+Yukarıdaki makale hakkında forum alanındaki güncel tartışmalara katılmak için tıklayın:
+
+http://www.yaziyaz.net/forum/showthread.php/4779-Evrim-Teorisi-Nedir
+
+About these ads
+Paylaş:
+Facebook
+Twitter
+Yazdır
+E-Posta
+Friendfeed
+StumbleUpon
+Reddit
+Bunu beğen:
+Beğen Yükleniyor...
+
+İlgili
+Posted by Kozmopolit Aydınlar on 09/05/2011 in 5 -EVRİM NE NEDİR?, Evrim Teorisi Nedir? and tagged charles darwin, darvin, darwin, darwin'in evrim teorisi, Darwinizm, Darwinizm nedir, evrim, evrim nedir, evrim teorisi, evrim teorisi nedir, Levent Alper.
+
+3 Yorum
+
+3 responses »
+ Hayrünisa diyor ki:
+29/10/2013, 19:22
+ 3 7 Rate This
+Güzel bir anlatım olmuş. Kısa bir anlatım ve güzel görseller için bunu da öneririm. http://www.vitaminegitim.com/ortaokul/detay/darwin%E2%80%99in-evrim-gorusu?i=TRF1801AN004
+
+Cevapla
+ berkayozcan diyor ki:
+11/05/2014, 17:37
+ 5 5 Rate This
+Şu yazıların da katkısı olacağını düşünüyorum:
+
+Evrim Teorisi Hakkında Sıkça Sorulan Sorular
+
+http://www.sonsuzlukkulesi.com/evrim-teorisi-hakkinda-sikca-sorulan-sorular
+
+İnsan’ın Evrimi
+
+http://www.sonsuzlukkulesi.com/insanin-evrimi/
+
+Cevapla
+ Rabia diyor ki:
+27/05/2014, 19:45
+ 3 3 Rate This
+Nasıl ortaya çıktı gibi sorular sorulur yardimci olduysam birşey değil
+
+Cevapla
+Bir Cevap Yazın
+Yorumunuzu buraya yazın...
+Yazı dolaşımı
+← Previous Post Next Post →
+Arama: 
+ 
+
+Bugün En Çok Okunanlar
+Evrim Teorisi Nedir?
+Hayatın Başlangıcı İle İlgili Görüşler
+Adaptasyon ve Evrim
+Evrenin Doğuşu ve İlk Canlılar (Bölüm-1)
+Kimyasal Evrim ve İlk Hücrenin Oluşumu / Levent ALPER
+İnsanla Şempanze Üreyebilir mi?
+Madde ve Evrenin Kökenine Dair 10 Farklı Teori
+Foto Galeri: Prehistorik Canlılar
+İnsanın Evrimi, İlk Primatlardan Modern İnsana..
+Zekâda Kalıtım ve Çevre Faktörleri / Levent ALPER
+Madde ve evrenin evrimi
+Maddenin başlangıcı
+Abiyogenez ve kimyasal evrim
+4,5 Milyar Yıl Önce Abiyogenez ve Kimyasal Evrim
+Tek hücrelilerin evrimi
+3,8 Milyar Yıl Önce Tek Hücreli Prokaryotikler
+Fotosentezin evrimi
+3,0 Milyar Yıl Önce Fotosentezin Evrimi
+Eşeyli üremenin evrimi
+1.2 Milyar Yıl Önce Eşeyli Üremenin Evrimi
+Çok hücrelilerin evrimi
+1,0 Milyar Yıl Önce Çok Hücrelilerin Oluşumu
+Eklembacaklıların evrimi
+ 570 Mil. Yıl Önce İlk Eklem Bacaklılar
+Balıkların evrimi
+ 500 Mil. Yıl Önce İlk Balıklar ve Proto Amfibiler
+Kara bitkilerinin evrimi
+475 Mil. Yıl Önce Bitkilerin Karaya Yerleşmesi
+Sudan karaya geçiş
+420 Mil. Yıl Önce Canlıların Sudan Karaya Geçişi
+Böceklerin evrimi
+400 Mil. Yıl Önce İlk Böcekler ve Tohumlu Bitkiler
+Amfibilerin evrimi
+370 Mil. Yıl Önce İlk Amfibilerin Ortaya Çıkması
+Sürüngenlerin evrimi
+340 Mil. Yıl Önce Sürüngenler Ve Reptiller
+Dinozorların evrimi
+300 Mil. Yıl Önce İlk Dinozorlar ve Evrimi
+Memelilerin evrimi
+200 Mil. Yıl Önce İlk Memelilerin Evrimi
+Kuşların evrimi
+170 Mil. Yıl Önce Sürüngenlerden Kuşlara
+Primatların evrimi
+55 Mil. Yıl Önce İlk Primatların Ortaya Çıkışı
+İnsanın evrimi
+İlk Primatlardan Modern İnsana..
+Evrenin Evrim Kronolojisi
+1 -MADDENİN BAŞLANGICI
+2 -YAŞAMIN BAŞLANGICI
+1) 4,5 Milyar Yıl Önce Abiyogenez ve Kimyasal Evrimin Başlangıcı
+2) 3,8 Milyar Yıl Önce Tek Hücreli Prokaryotikler
+3) 3,0 Milyar Yıl Önce Fotosentezin Evrimi
+4) 2,6 Milyar Yıl Önce Atmosferde Oksijen Oluşumu
+5) 2,1 Milyar Yıl Önce Tek Hücreli Ökaryotikler
+6) 1.2 Milyar Yıl Önce Eşeyli Üremenin Evrimi
+7) 1,0 Milyar Yıl Önce Çok Hücrelilerin Oluşumu
+8) 600 Mil. Yıl Önce Çok Hücreli Kompleks Canlılar
+9) 570 Mil. Yıl Önce İlk Eklem Bacaklılar
+3 -EVRİMSEL BASAMAKLAR
+10) 500 Mil. Yıl Önce İlk Balıklar ve Proto Amfibiler
+11) 475 Mil. Yıl Önce Bitkilerin Karaya Yerleşmesi
+12) 420 Mil. Yıl Önce Canlıların Sudan Karaya Geçişi
+13) 400 Mil. Yıl Önce İlk Böcekler ve Tohumlu Bitkiler
+14) 370 Mil. Yıl Önce İlk Amfibilerin Ortaya Çıkması
+15) 340 Mil. Yıl Önce Sürüngenler Ve Reptiller
+16) 300 Mil. Yıl Önce İlk Dinozorlar ve Evrimi
+17) 200 Mil. Yıl Önce İlk Memelilerin Evrimi
+18) 170 Mil. Yıl Önce Sürüngenlerden Kuşlara
+19) 140 Mil. Yıl Önce Çiçekli Bitkilerin Ortaya Çıkışı
+20) 65 Mil. Yıl Önce Dinozorların Yokoluşu
+21) 55 Mil. Yıl Önce İlk Balinalar Boynuzlugiller Kangurular
+22) 55 Mil. Yıl Önce İlk Primatların Ortaya Çıkışı
+23) 52 Mil. Yıl Önce İlk Yarasaların Ortaya Çıkışı
+24) 15 Mil. Yıl Önce Mamutların Ortaya Çıkışı
+25) 10 Milyon Yıl Önce İlk Çayır Savanlar ile Atların Evrimi
+4 -İNSANIN EVRİMİ
+Alet Teknolojisi
+Ateşin Kullanımı
+Beynin Evrimi
+Bilincin Evrimi
+Dik Duruşun Evrimi
+Dil ve Konuşmanın Evrimi
+Evrimsel Göç Yolları
+5 -EVRİM NE NEDİR?
+Adaptasyon
+Ara Form Nedir?
+Coğrafi İzolasyon Nedir?
+Doğal Seçilim Nedir?
+Evrim Mekanizmaları
+Evrim Nedir?
+Evrim Teorisi Nedir?
+Evrime Etki Eden Faktörler
+Evrimin Kanıtları
+Evrimsel Biyoloji
+Gen Akışı
+Genetik Çeşitlilik Nedir?
+Kalıtsal Sürüklenme Nedir?
+Körelmiş organlar
+Kimyasal Evrim Nedir?
+Makro Evrim Nedir?
+Mikro Evrim Nedir?
+Mutasyon Nedir?
+Popülasyon Genetiği Nedir?
+Türleşme
+6 -EVRİM KURAMLARI
+Alfred Wallace'in Görüşleri
+Charles Darwin'in Görüşleri
+Erken Evrim Düşüncesi
+Georges Cuvier’in Doğal Afetler Hipotezi
+Lamarck'ın Görüşleri
+Modern Evrimsel Sentez
+7 -EVRİM HABERLERİ
+Antropoloji
+Biyoloji
+Fosilbilim
+Genetik
+Jeoloji
+Uzaybilim
+8 -MULTİMEDYA
+Bilim ve Gelecek Yazıları
+Bilim ve Teknik Yazıları
+Duyurular
+Evrim Foto Galerisi
+Evrim Kitapları
+Evrim Sözlüğü
+Evrim Videoları
+Söyleşiler
+Yaşam Ağacı Dergisi
+A -EVRİMSEL FELSEFE
+Dersimiz Evrim
+Evrim vs Akıllı Tasarım
+Sorularla Evrim Teorisi
+B -OTHER LANGUAGES
+Evolution in Deutsch
+Evolution in English
+Teoriya Peresanê Kurdî
+Evrimsel Bağlantılar Türkçe
+Agnostik.org Agnostik.org
+Bilim.ve.Gelecek.Dergisi Bilim.ve.Gelecek.Dergisi
+Bilim.ve.Teknik.Dergisi Bilim.ve.Teknik.Dergisi
+Biyo.RSS.Güncel Biyoloji Haberleri Biyo.RSS.Güncel Biyoloji Haberleri
+Biyo.Web.Biyoloji.Sitesi Biyo.Web.Biyoloji.Sitesi
+Biyoloji.Sitesi.net Biyoloji.Sitesi.net
+Evolusyon.com Evolusyon.com
+Evrim.Ağacı.ODTÜ.Biyoloji Evrim.Ağacı.ODTÜ.Biyoloji
+Evrim.Çalışkanları Evrim.Çalışkanları
+Evrim.Çalışma.Grubu Evrim.Çalışma.Grubu
+Evrim.Haberleri.com Evrim.Haberleri.com
+Evrim.Teorisi.org Evrim.Teorisi.org
+Evrimi.Anlamak Evrimi.Anlamak
+Istanbul.Üniversitesi.Astronomi Istanbul.Üniversitesi.Astronomi
+Paleo.Berkay.Arkeoloji.Sitesi Paleo.Berkay.Arkeoloji.Sitesi
+Richard.Dawkins.Turkey Richard.Dawkins.Turkey
+Evrimsel Bağlantılar İngilizce
+About.Darwin.com About.Darwin.com
+Action.Bio.Science Action.Bio.Science
+Antropus.Web.Magazin Antropus.Web.Magazin
+BBC.Prehistoric.Life BBC.Prehistoric.Life
+BBC.Science & Nature BBC.Science & Nature
+Becoming.Human Becoming.Human
+BerkeleyEduUnderstandingEvolution BerkeleyEduUnderstandingEvolution
+Biology.Online Biology.Online
+Bradshow.Foundation Bradshow.Foundation
+Darwin.Online Darwin.Online
+Darwin.Was.Right.org Darwin.Was.Right.org
+Darwiniana.org Darwiniana.org
+Dinosaurier.Info.net Dinosaurier.Info.net
+Dinosaurs@Fossils Collection Dinosaurs@Fossils Collection
+Ecotao.Human.Evolution Ecotao.Human.Evolution
+Evoled.org.Teach.Evolution Evoled.org.Teach.Evolution
+Evolution.For.Beginners Evolution.For.Beginners
+Evolutionsbiologen.de Evolutionsbiologen.de
+Fossil.Museum Fossil.Museum
+Human.Origins.si.edu Human.Origins.si.edu
+John.Hawks.Weblog John.Hawks.Weblog
+Macro.Evolution.net Macro.Evolution.net
+National.Geographic.Channel National.Geographic.Channel
+NewScientist.com NewScientist.com
+PBS.Public.Broadcasting.Service PBS.Public.Broadcasting.Service
+Richard.Dawkins.net Richard.Dawkins.net
+Scientific.American Scientific.American
+Talk.Origins.org Talk.Origins.org
+Tree.of.Life/Interaktive Tree.of.Life/Interaktive
+Urzeit.Info.net Urzeit.Info.net
+USNationalCenterForScienceEducation (NCSE) USNationalCenterForScienceEducation (NCSE)

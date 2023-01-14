@@ -1,0 +1,16 @@
+Tesla Motors
+In late 2015, electric vehicle manufacturer Tesla rolled out its 7.0 software, giving its cars a suite of autonomous features such as automatized steering, lane change, and parallel parking. Tesla isn't the first or only manufacturer to offer these kinds of autopilot features, but it does have the capability to roll them out faster than its competitors: the company started installing the hardware for semi-autonomous functionality more than a year ago. While other manufacturers had to add new technology and gadgets to their cars for them to be semi-autonomous, all Tesla owners had to do was update their software, as they do for an iPhone or computer. The 7.0 software is constantly gathering data from drivers, so not only can Tesla iterate faster, it can do so based on data captured by thousands of real drivers. In 2016, the 7.1 update will provide autopilot parking--drivers won't even need to be in the car. And Tesla owner Elon Musk expects to come out with a legit self-driving car within three years, which is just slightly sooner than the 2020 deadline set by competitors such as Google and Mercedes.
+Lists
+2020: Top 50
+2017: Energy, Transportation
+2016: Automotive, Energy
+2015: Top 50, Automotive, Consumer Electronics, Social Good, The Internet of Things
+2014: Top 50, Energy, Social Good, Travel
+2013: Top 50
+2012: Top 50
+Data
+Valuation: $28 billion as of November 2015
+Public Or Private: Public
+Staff: About 60,000
+Headquarters: Palo Alto, CA
+Competition: Mercedes-Benz

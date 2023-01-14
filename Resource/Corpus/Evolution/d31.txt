@@ -1,0 +1,119 @@
+La teoría de la evolución
+La evolución biológica es el proceso continuo de transformación de las especies a través de cambios producidos en sucesivas generaciones, y que se ve reflejado en el cambio de las frecuencias alélicas de una población. Charles Darwin, es el padre de la teoría de la evolución por selección natural.
+
+Generalmente se denomina evolución a cualquier proceso de cambio en el tiempo. En el contexto de las Ciencias de la vida, la evolución es un cambio en el perfil genético de una población de individuos, que puede llevar a la aparición de nuevas especies, a la adaptación a distintos ambientes o a la aparición de novedades evolutivas.
+
+A menudo existe cierta confusión entre hecho evolutivo y teoría de la evolución. Se denomina hecho evolutivo al hecho científico de que los seres vivos están emparentados entre sí y han ido transformándose a lo largo del tiempo. La teoría de la evolución es el modelo científico que describe la transformación y diversificación evolutivas y explica sus causas.
+
+
+Charles Darwin y Alfred Russel Wallace propusieron la selección natural como principal mecanismo de la evolución. Actualmente, la teoría de la evolución combina las propuestas de Darwin y Wallace con las leyes de Mendel y otros avances genéticos posteriores; por eso es llamada Síntesis Moderna o Teoría Sintética. En el seno de esta teoría, la evolución se define como un cambio en la frecuencia de los alelos en una población a lo largo de las generaciones. Este cambio puede ser causado por una cantidad de mecanismos diferentes: selección natural, deriva genética, mutación, migración (flujo genético), etc . La Teoría Sintética recibe una aceptación general en la comunidad científica, aunque también ciertas críticas. Ha sido enriquecida desde su formulación, en torno a 1940, por avances en otras disciplinas relacionadas, como la biología molecular, la genética del desarrollo o la paleontología.
+
+El Lamarckismo, la suposición de que el fenotipo de un organismo puede dirigir de alguna forma el cambio del genotipo en sus descendientes, es una posición teórica ya indefendible, en la medida en que es positivamente incompatible con lo que sabemos sobre la herencia; y también porque todos los intentos por hallar pruebas de observación o experimentales, han fracasado.
+
+El creacionismo, la posición de que en un grado u otro, los seres vivos tienen un autor personal consciente (léase Dios), es una posición religiosa o filosófica que no puede probarse científicamente, y no es por tanto una teoría científica. No obstante, en el marco de la cultura popular protestante y anglosajona, algunos se esfuerzan por presentarlo como tal; pero la comunidad científica en su conjunto considera tales intentos como una forma de propaganda religiosa.
+ 
+
+Teoría científica
+La evolución biológica es un fenómeno natural real, observable y comprobable empíricamente. La llamada Síntesis Evolutiva Moderna es una robusta teoría que actualmente proporciona explicaciones y modelos matemáticos sobre los mecanismos generales de la evolución o los fenómenos evolutivos, como la adaptación o la especiación. Como cualquier teoría científica, sus hipótesis están sujetas a constante crítica y comprobación experimental.
+
+Dobzhansky, uno de los fundadores de la Síntesis moderna, definió la evolución del siguiente modo: "La evolución es un cambio en la composición genética de las poblaciones. El estudio de los mecanismos evolutivos corresponde a la genética poblacional."
+
+La síntesis moderna de la evolución se basa en tres aspectos fundamentales:
+
+   1. La ascendencia común de todos los organismos de un único ancestro.
+   2. El origen de nuevos caracteres en un linaje evolutivo.
+   3. Los mecanismos por los que algunos caracteres persisten mientras que otros desaparecen.
+ 
+
+Origen y desarrollo temprano de la vida
+El origen de la vida, aunque atañe al estudio de los seres vivos, es un tema que realmente no es explicado en la teoría de la síntesis moderna de la evolución; pues ésta última sólo se ocupa del cambio en los seres vivos, y no de la creación y los cambios (evolución a moléculas más complejas) e interacciones de las moléculas orgánicas de las que procede.
+
+No se sabe mucho sobre las etapas más tempranas y previas al desarrollo de la vida, y los intentos realizados para tratar de desvelar la historia más temprana del origen de la vida, generalmente se enfocan en el comportamiento de las macromoléculas, particularmente el ARN, y el comportamiento de sistemas complejos.
+
+Sin embargo, sí se está de acuerdo que todos los organismos existentes comparten ciertas características, incluyendo la estructura celular y el código genético; los que estarían relacionados con el origen de la vida.
+
+adn
+secuencia de ADN
+
+Ascendencia común
+A partir de estas semejanzas, los científicos interpretan que ellas indican y serían la evidencia de que todos los seres vivos existentes comparten un "ancestro común", el cual ya había desarrollado los procesos celulares más fundamentales; aunque no hay acuerdo en la comunidad científica sobre la relación específica de los tres dominios de la vida (Archaea, Bacteria, Eukaryota).
+
+Así, a pesar de que los orígenes de la vida nos son todavía desconocidos en su totalidad, otros hitos relacionados a la historia evolutiva de la vida sí son bien sabidos. La aparición de la fotosíntesis oxigénica (hace alrededor de 3000 millones de años) y el posterior surgimiento de una atmósfera rica en oxígeno y no reductora, puede rastrearse a través de depósitos laminares de hierro, y bandas rojas posteriores producto de los óxidos de hierro. Éste fue un requisito necesario para el desarrollo de la respiración celular aeróbica, la cual se cree que emergió hace aproximadamente 2000 millones de años.
+
+En los últimos mil millones de años, organismos pluricelulares simples, tanto plantas como animales, comenzaron a aparecer en los océanos. Poco después del surgimiento de los primeros animales, la explosión cámbrica (un período breve en términos geológicos de diversificación animal sin paralelo y notable, documentado en los fósiles encontrados en los sedimentos en Burgess Shale) vio la creación de la mayoría de los bauplans, o plan tipo, de los animales modernos.
+
+Hace alrededor de 500 millones de años, las plantas y hongos colonizaron la tierra, y fueron seguidos rápidamente por los artrópodos y otros animales, llevando al desarrollo de los ecosistemas terrestres con los que estamos familiarizados.
+Mutación
+Darwin no conocía la fuente de las variaciones en los organismos individuales, pero observó que parecían ocurrir aleatoriamente. En trabajos posteriores se atribuyó la mayor parte de estas variaciones a la mutación. La mutación es un cambio permanente y transmisible en material genético (usualmente el ADN o el ARN) de una célula, que puede ser producida por errores de copia en el material genético durante la división celular y por la exposición a radiación, químicos o virus, o puede ocurrir deliberadamente bajo el control celular durante procesos como la meiosis o la hipermutación.
+
+En los organismos multicelulares, las mutaciones pueden dividirse en mutaciones germinales, que se transmiten a la descendencia, y las mutaciones somáticas, que (cuando son accidentales) generalmente conducen a malformaciones o muerte de células y pueden producir cáncer.
+
+Las mutaciones introducen nuevas variaciones genéticas, siendo la principal fuente de evolución. En la teoría sintética, la mutación tiene el papel de generar diversidad genética sobre la cual actúa la selección natural, y también la deriva. Las mutaciones que afectan a la eficacia biológica del portador, y por tanto son objeto de la selección natural, pueden ser deletéreas (negativas) o beneficiosas.
+
+Las mutaciones beneficiosas son las menos frecuentes, aunque se conocen muchos ejemplos que afectan a rasgos variadísimos, como la resistencia a enfermedades o a estrés, la longevidad, el tamaño, la capacidad para metabolizar nuevas sustancias, una cicatrización eficiente de las heridas, etc. La mayor parte de las mutaciones son mutaciones neutras; no afectan las oportunidades de supervivencia y reproducción de los organismos, y se acumulan con el tiempo a una velocidad más o menos constante.
+
+ 
+
+Recombinación genética
+La recombinación genética es el proceso mediante el cual la información genética se redistribuye por transposición de fragmentos de ADN entre dos cromosomas durante la meiosis –y más raramente en la mitosis–. Los efectos son similares a los de las mutaciones, es decir, si los cambios no son deletéreos se transmiten a la descendencia y contribuyen a la diversidad dentro de cada especie.
+
+ 
+
+Variaciones en la expresión de los genes, involucrados en la herencia
+También existen formas de variación hereditaria que no están basadas en cambios de la información genética. El proceso que produce estas variaciones deja intacta la información genética y es con frecuencia reversible. Este proceso es llamado herencia epigenética que resulta de la trasmisión de secuencias de información no-ADN a través de la meiosis o mitosis; y puede incluir fenómenos como la metilación del ADN o la herencia estructural. Se sigue investigando si estos mecanismos permiten la producción de variaciones específicas beneficiosas en respuesta a señales ambientales.
+
+De ser éste el caso, algunas instancias de la evolución podrían ocurrir fuera del cuadro típicamente darwiniano, que evitaría cualquier conexión entre las señales ambientales y la producción de variaciones hereditarias; aunque recordando que indirectamente el origen del proceso en si mismo estarían involucrados genes, como por ejemplo los genes de la enzima ADN-metiltransferasa, histonas, etc.
+
+
+ 
+Supervivencia diferenciada de características
+Al mismo tiempo que la mutación puede crear nuevos alelos, otros factores influencian la frecuencia de los alelos existentes. Estos factores hacen que algunas características se hagan frecuentes mientras que otras disminuyen o se pierden completamente. De los procesos conocidos que influyen en la persistencia de una característica, o más precisamente, en la frecuencia de un alelo podemos mencionar: la seleccion natural, la deriva genética y el flujo genético.
+ 
+
+tigres luchando
+
+Selección natural
+La selección natural consiste en la reproducción diferencial de los individuos, según su dotación genética, y generalmente como resultado del ambiente. Existe selección natural cuando hay diferencias en eficacia biológica entre los individuos de una población, es decir, cuando su contribución en descendientes es desigual. La eficacia biológica puede desglosarse en componentes como la supervivencia (la mortalidad diferencial es la tasa de supervivencia de individuos hasta la edad de reproducción), la fertilidad, la fecundidad, etc.
+
+La selección natural puede dividirse en dos categorías:
+
+    * La sexual, que ocurre cuando los organismos más atractivos para el sexo opuesto debido a sus características se reproducen más y aumentan la frecuencia de estas características en el patrimonio genético común.
+
+    * La ecológica ocurre en el resto de las circunstancias (habilidad para obtener o procesar alimento, capacidad de ocultación, huida o de defensa, capacidad para resistir fluctuaciones ambientales, etc.)
+
+El papel central de la selección natural en la teoría de la evolución ha dado origen a una fuerte conexión entre ese campo y el estudio de la ecología.
+
+Las mutaciones que no se ven afectadas por la selección natural son llamadas mutaciones neutras. Su frecuencia en la población está dictada por su tasa de mutación, por la deriva genética y el flujo genético. Se entiende que la secuencia de ADN de un organismo, en ausencia de selección, sufre una acumulación estable de mutaciones neutras. El efecto probable de mutación es la propuesta de que un gen que no está bajo selección será destruido por las mutaciones acumuladas. Éste es un aspecto de la llamada degradación genómica.
+
+ 
+
+Deriva genética
+La deriva genética describe las fluctuaciones aleatorias en la frecuencia de los alelos. Esto es de especial importancia en poblaciones reducidas, donde las posibilidades de fluctuación de una generación a la siguiente son grandes. Estas fluctuaciones en la frecuencia de los alelos entre generaciones sucesivas puede producir la desaparición de algunos alelos de una población. Dos poblaciones separadas que parten de la misma frecuencia de alelos pueden derivar por fluctuación aleatoria en dos poblaciones divergentes con diferente conjunto de alelos (por ejemplo, alelos presentes en una población y que desaparecieron en la otra).
+
+ 
+
+Evolución y religión
+Antes de que la geología se convirtiera en una ciencia, a principios del siglo XIX, tanto las religiones occidentales como los científicos descontaban o condenaban de manera dogmática y casi unánime cualquier propuesta que implicara que la vida es el resultado de un proceso evolutivo.
+
+Sin embargo, a medida que la evidencia geológica empezó a acumularse en todo el mundo, un grupo de científicos comenzó a cuestionar si una interpretación literal de la creación relatada en la Biblia Judeo-Cristiana podía reconciliarse con sus descubrimientos (y sus implicaciones). Algunos geólogos religiosos, como Dean William Auckland en Inglaterra, Edward Hitchcock en Estados Unidos y Hugo Millar en Escocia siguieron justificando la evidencia geológica y fósil solo en términos de un Diluvio universal; pero una vez que Charles Darwin publicara su Origen de las Especies en 1859 la opinión científica comenzó a alejarse rápidamente de la interpretación literal de la Biblia.
+
+A partir de 1950 la Iglesia Católica Romana tomó una posición neutral con respecto a la evolución con la encíclica Humani generis del Papa Pío XII. "El Magisterio de la Iglesia no prohíbe el que (según el estado actual de las ciencias y la teología) en las investigaciones y disputas, entre los hombres más competentes de entrambos campos, sea objeto de estudio la doctrina del evolucionismo, en cuanto busca el origen del cuerpo humano en una materia viva preexistente ".
+
+El Papa Benedicto XVI ha afirmado que "existen muchas pruebas científicas en favor de la evolución, que se presenta como una realidad que debemos ver y que enriquece nuestro conocimiento de la vida y del ser como tal. Pero la doctrina de la evolución no responde a todos los interrogantes y sobre todo no responde al gran interrogante filosófico: ¿de dónde viene todo esto y cómo todo toma un camino que desemboca finalmente en el hombre?"
+
+En los países o regiones en los cuales de la mayoría de la población mantiene fuertes creencias religiosas, el creacionismo posee un atractivo mucho mayor que en los países donde la mayoría de la gente posee creencias seculares. Desde los años 1920 hasta el presente en los Estados Unidos, han ocurrido varios ataques religiosos a la enseñanza de la teoría evolutiva, particularmente por parte de cristianos fundamentalistas evangélicos o pentecostales.
+
+Boris V.  para LaReserva.com
+
+Nota del autor: Debo agradecer fuertemente a los lectores que han impulsado este articulo para estar entre los 10 mas visitados de todo el sitio LaReserva.com. Es una doble satisfacción, una obviamente relacionada a la inmensa cantidad de personas que le resultan interesantes mis notas y otra (e intima) relacionada con mi cercania a aquellas mentes que no creen en seres superpoderosos que nos vigilan (y nos castigan por cierto). Muchas gracias de corazón!
+
+ 
+
+
+ 
+
+Tags: EVOLUCIONTEORIA DE LA EVOLUCIONBIOLÓGICACHARLES DARWINALFRED RUSSEL WALLACESÍNTESIS MODERNATEORÍA SINTÉTICALAMARCKISMOCREACIONISMOPROPAGANDA RELIGIOSATEORÍA CIENTÍFICADOBZHANSKYSÍNTESIS EVOLUTIVA MODERNAASCENDENCIA COMÚNMUTACIÓNVARIACIONES GENÉTICASRECOMBINACIÓN GENÉTICAHERENCIASUPERVIVENCIADERIVA GENÉTICAEVOLUCIÓN Y RELIGIÓNCULTURLARELIGION
+Autor
+
+Boris V. Castañeda
+Biólogo Marino y entusiasta investigador de la ciencia

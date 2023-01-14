@@ -1,0 +1,30 @@
+
+
+
+Well Drilling 
+Well ID:  
+ Town: 
+ Driller Registration Number: 
+ExpandedAdvanced Search 
+Date Range 
+Begin Date: 
+[Default] 
+
+End Date: 
+[Default] 
+Choose a Well Type 
+ Cathodic ProtectionInjection 
+DomesticIrrigation 
+GeoconstructionMonitoring 
+Geothermal Closed LoopRecovery 
+Geothermal Open LoopTest Wells 
+Industrial 
+Other Search Options 
+Decommission 
+Deepen 
+Hydrofracture 
+New Well 
+Repair 
+Replacement 
+
+Search Reset GIS Export To Excel 
