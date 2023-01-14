@@ -1,0 +1,324 @@
+Twister
+featured article
+For other uses of the term, see Tornado (disambiguation).
+
+A tornado near Abingdon, Illinois. This image was taken on June 5, 2010. The tornado was classified as EF0 on the Enhanced Fujita Scale.
+A tornado is a mass of air with high angular velocity whose lower end is in contact with the Earth's surface and the upper end with a cumulonimbus cloud or, exceptionally, with the base of a cumulus cloud. It is the cyclonic atmospheric phenomenon with the highest energy density on Earth, although it is short-lived and of short duration (from seconds to more than an hour).
+
+Tornadoes come in different sizes and shapes but are generally funnel cloud shaped, with the narrow end touching the ground and often surrounded by a cloud of debris and dust, at least in its early stages. Most tornadoes have winds that reach speeds between 65 and 180 km/h, are approximately 75 meters wide and travel several kilometers before disappearing. The most extreme can have wind speeds that can rotate at 450 km/h or more, measure up to 2 km wide and remain touching the ground for more than 100 km of travel.
+
+Among the different types of tornadoes are landspouts, multi-vortex tornadoes, and waterspouts. The latter form over bodies of water, connecting to cumulus and larger storm clouds, but they are considered tornadoes because they have characteristics similar to those that form on land, such as their funnel-shaped rotating air current. Waterspouts are generally classified as non-supercellular tornadoes that form over bodies of water.1 These air columns frequently form in intertropical areas near the tropics or in continental areas of subtropical latitudes in temperate zones. , and are less common at higher latitudes, near the poles, or at low latitudes, near the Earth's equator.2 Other tornado-like phenomena that exist in nature include the gustnado, microburst, dust devil, steam.
+
+Tornadoes are detected through pulse Doppler radar as well as visually by storm chasers. They have been observed on every continent except Antarctica. However, the vast majority of tornadoes in the world occur in the American region known as Tornado Alley and is followed by the Corridor of Tornadoes that affects northwestern, central and northeastern Argentina, southwestern Brazil, southern Paraguay and Uruguay. , in Southamerica. Due to its size, Uruguay is the only South American country in which the entire national territory is under the area of influence of the Tornado Corridor. 3 4 5 They also occur occasionally in south-central and eastern Asia, southern Africa, northwestern and southeastern Europe, western and southeastern Australia, and in New Zealand.6
+
+There are several different scales for classifying the strength of tornadoes. The Fujita-Pearson scale evaluates them according to the damage caused, and has been replaced in some countries by the improved Fujita scale, an updated version of the previous one. An F0 or EF0 tornado, the weakest category, causes damage to trees but not structures. An F5 or EF5 tornado, the strongest category, rips buildings off their foundations and can produce significant structural deformation in skyscrapers.7 The TORRO scale ranges from T0 for extremely weak tornadoes to T11 for the strongest known tornadoes.8 They can also Data obtained from Doppler radars and circulation patterns left on the ground (cycloidal marks) should be analyzed and photogrammetry used to determine their intensity and assign a range.9
+
+Index
+1 	Etymology
+2 	Definitions
+2.1 	Funnel cloud
+2.2 	Families and waves
+3 	Features
+3.1 	Shape and dimensions
+3.2 	Appearance
+3.3 	Rotation
+4 	Tornadoes and the Coriolis Effect
+4.1 	Sound and seismology
+4.2 	Electromagnetism, lightning and other effects
+5 	life cycle
+5.1 	Relation to the supercell
+5.2 	Training
+5.3 	Maturity
+5.4 	Dissipation
+6 	types
+6.1 	True tornadoes
+6.1.1 	Multi-vortex tornado
+6.1.2 	Waterspout
+6.1.3 	Landspout
+6.2 	Tornado-like circulations
+6.2.1 	Liked
+6.2.2 	Dust devil
+6.2.3 	Fire Swirl
+6.2.4 	Steam swirl
+7 	Intensity and damage
+8 	Climatology
+8.1 	Association with climate
+9 	Prediction
+10 	Detection
+10.1 	Radar
+10.2 	Location of storms
+10.2.1 	Visual evidence
+11 	Records
+12 	Security
+12.1 	Myths and misconceptions
+13 	Research
+14 	See also
+15 	References
+16 	Bibliography
+17 	external links
+Etymology
+The word “tornado” is a borrowing from English, which came from the Spanish “tronada”, which, according to the RAE, refers to a “thunderstorm”.10 The metathesis is undoubtedly due to a reinterpretation of the word under the influence of «turning».11 12
+
+Definitions
+
+A tornado near Seymour, Texas.
+A tornado is defined in the Glossary of Meteorology as "a violently rotating column of air, in contact with the ground, either hanging from or below a cumuliform cloud, and frequently (but not always) visible as a funnel cloud…”13 In practice, for a vortex to be classified as a tornado, it must have contact with both the ground and the cloud base. However, scientists have not yet formulated a complete definition of the term; for example, there is disagreement as to whether multiple points of contact with the ground from the same funnel constitute different tornadoes.14 The term "tornado" also refers to the wind vortex, not the condensation cloud.15 16
+
+funnel cloud
+Main article: Funnel cloud
+
+This incipient tornado does not have a funnel cloud, however, the rotating dust cloud indicates strong surface winds, and thus is an actual tornado.
+A tornado is not necessarily visible; however, the low atmospheric pressure inside it, which causes the high wind speed —according to Bernoulli's principle—, as well as its rapid rotation (due to cyclostrophic equilibrium) generally cause the water vapor in the air becomes visible by condensing into water droplets, taking the form of a funnel cloud or condensation funnel.17 When a funnel cloud extends at least half the distance between the ground and the base of the cloud—which is usually less than two kilometers—18 it is considered a tornado.19
+
+There is some disagreement about the definition of "funnel cloud" and "condensation funnel". According to the Glossary of Meteorology, a funnel cloud is any rotating cloud that hangs from a cumulus or cumulonimbus, and thus most tornadoes fall under this definition.20 Among many meteorologists, a funnel cloud is strictly defined as a rotating cloud not associated with strong surface winds, and a “condensation funnel” is a term used for any cloud that is rotating below a cumuliform cloud.14
+
+Tornadoes often start out as funnel clouds with no strong surface winds, however, not all of them end up becoming a tornado. Either way, many tornadoes are preceded by a funnel cloud. Most of them produce strong surface winds, while the visible funnel remains high off the ground, making it difficult to tell the difference between a funnel cloud and a tornado at a distance.14
+
+Families and waves
+Main articles: Tornado family, Tornado surge, and Tornado surge sequence
+Occasionally, a single storm produces more than one tornado, either simultaneously or in succession. Multiple tornadoes produced by the same storm are collectively known as a tornado family.21
+
+Sometimes multiple tornadoes spawn from the same storm system. If their activity is not interrupted, this is considered a tornado outbreak, although there are several definitions. A period of several consecutive days with tornado outbreaks in the same area (generated by multiple weather systems) is a tornado outbreak sequence, also known as an extended tornado outbreak.13 22 23
+
+Characteristics
+Shape and dimensions
+
+A wedge tornado in Moore, Oklahoma
+
+A wedge tornado about 1.5 km wide in Binger, Oklahoma.
+
+A wedge tornado in Bennington, Kansas
+Most tornadoes take the form of a narrow funnel, a few hundred meters wide, with a small expanding cloud of debris near the ground, at least in its early stages. Tornadoes can be completely obscured by rain or dust, and if they are, they are particularly dangerous, since even experienced meteorologists might not see them.24
+
+Tornadoes, however, can come in many shapes and sizes. Small and relatively weak landspouts, for example, can be seen as nothing more than a small whirlwind of dust on the ground. Although the condensation funnel may not extend from the ground, if the associated surface winds exceed 64 km/h, the circulation is considered a tornado.15 A tornado with a nearly cylindrical shape and relatively low height is sometimes called a tornado. English stovepipe tornado (literally, "stove pipe tornado").25 Large tornadoes with a single vortex can be seen as huge wedges buried in the earth, and are therefore known as "wedge tornadoes".26 One of these tornadoes it can be so wide that it appears to be a group of dark clouds, being even wider than the distance between the cloud base and the ground. Even experienced storm spotters can have difficulty telling the difference between a wedge tornado and a low cloud in the distance. Many, but not all, of the largest tornadoes are wedge-shaped.27
+
+
+A wind-up tornado in its dissipating phase in Tecumseh, Oklahoma.
+Dissipating tornadoes can look like narrow tubes or ropes, and they often curl or twist into complex shapes. These tornadoes are said to be in their "windup phase," or becoming a "windup tornado." When they take this shape, the length of their funnel increases, forcing the winds within the funnel to weaken due to conservation of angular momentum. around a common center, or they can be completely obscured by condensation, dust, and debris, appearing to be a single funnel.29
+
+In the United States, tornadoes average about 500 feet (150 m) wide and travel about 5 miles (8 km) in contact with the ground.24 However, there is a wide range of tornado sizes. Weak tornadoes, or strong dissipating tornadoes, can be extremely narrow, sometimes only a few meters wide. A tornado was once reported to have a kill zone only 2 m long.24 On the other hand, wedge tornadoes can have a kill zone 1.5 km wide, or even more. A tornado that affected Hallam, Nebraska, on May 22, 2004, was at one point 4 km wide at ground level.30
+
+In terms of track length, the 1925 Tri-State Tornado, which affected parts of Missouri, Illinois and Indiana on March 18, 1925, officially stayed in contact with the ground continuously for 352 km.31 Many tornadoes that appear to travel 100 miles or more are actually a family of rapidly forming tornadoes in succession; however, there is no concrete evidence that this occurred in the case of the Tri-State Tornado.22
+
+Appearance
+Tornadoes can be a wide variety of colors, depending on the environment in which they form. Those that thrive in a dry environment can be virtually invisible, barely distinguishable only by circulating debris at the base of the funnel. Condensation funnels that pick up little or no debris may be gray or white. Traveling over a body of water, as waterspouts do, they can turn very white or even blue. Funnels that move slowly, consuming large amounts of debris and soil, are usually darker, taking on the color of the debris. For their part, tornadoes in the Great Plains can turn red due to the reddish tint of the earth, and tornadoes in mountainous areas can travel over snow-covered terrain, turning bright white.24
+
+
+Photograph of the Waurika, Oklahoma tornado from May 30, 1976, taken around the same time by two photographers. In the photo above, the tornado is lit from the front, with the sun behind the camera, so the funnel looks almost white. In the lower image, where the camera is facing the opposite direction, the tornado is lit from behind, with the sun behind the clouds, giving it a dark appearance.32
+An important factor that determines the appearance of a tornado is the lighting conditions. A tornado that is being lit from behind (seen with the sun behind it) looks very dark. The same tornado, seen with the sun behind the observer, can appear gray or bright white. Tornadoes that form at twilight can be many different colors, featuring shades of yellow, orange, and pink.33
+
+Some factors that can reduce the visibility of tornadoes are dust raised by storm winds, heavy rain or hail, and darkness at night. Tornadoes that occur under these conditions are particularly dangerous, as only weather radar observations, or possibly the noise they make as they approach, serve as a warning to those in their path. In any case, most strong tornadoes form under the base of the storm's updraft, which is free of rain,34 allowing them to be visible.35 In addition, most tornadoes occur during the afternoon, when the sun can penetrate even the densest clouds.22 Likewise, nighttime tornadoes are often illuminated by frequent lightning strikes.
+
+There is evidence, including Doppler on Wheels mobile radar images and eyewitness reports, that most tornadoes have a clear, calm center where pressure is extremely low, similar to the eye of tropical cyclones. This area would be clear (possibly dusty), with relatively calm winds, and would be very dark, as light would be blocked by debris swirling on the outside of the tornado. Those who claim to have seen the inside of a tornado say they did so thanks to the illumination of lightning.36 37 38
+
+Rotation
+Tornadoes are formed by two types of vertical movements of the air: one anticyclonic with a clockwise rotation, formed by cold and dry air that descends, decreasing its radius and therefore increasing its speed of rotation, and another ascending, which constitutes an area cyclonic, whose radius of action increases in a spiral as it rises counterclockwise in the northern hemisphere, and clockwise in the southern hemisphere. Contrary to what happens with the kind of descending anticyclonic funnel, as the hot air rises it widens, thus losing speed and, obviously, energy. Supercells and tornadoes rotate cyclonically in numerical simulations even when the Coriolis effect is ignored.39 40 Low-level tornadoes and mesocyclones owe their rotation to complex processes within the supercell and the environment.41
+
+Tornadoes and the Coriolis Effect
+Notwithstanding what has been indicated, both the upward rotation to the left in the northern hemisphere and the downward rotation to the right also in the northern hemisphere, as well as the formation of rope-type tornadoes and their displacement on their surface trajectory are due to the Coriolis effect. This is due to the great vertical dimension of tornadoes, compared to their width on the surface: the earth's rotation speed at 30° latitude is 404 m/s, as Antonio Gil Olcina points out.42 Logically, this Speed generates an intense effect on the surface, where friction turns the column of air to the right (again in the northern hemisphere) while at height, said speed is much lower as the column or funnel has a much larger diameter.
+
+All tornadoes begin rotating in an anticyclonic direction and are formed by a vertical current of cold, dry air that descends in the form of a spiral that decreases its radius of rotation as it descends, thereby considerably increasing its speed of rotation and giving rise to in compensation, to an upward spiral of hot and dry air but that quickly forms a funnel cloud as that air cools rapidly by rotating in a cyclonic manner, that is, counterclockwise in the northern hemisphere and clockwise in the southern hemisphere (looking from above). The existence of two simultaneous whirlwinds turning in opposite directions at the same point is what explains the asymmetry of a tornado: it always has an open part, without a low-lying condensation cloud (where the cold, dry air descends) and another below. where the hot and humid air rises, which can eventually reach the cloud forming a funnel cloud due to the increase in the turning diameter. Generally, only systems as weak as landspouts and gustnadoes can rotate anticyclonically, and usually only those that form on the anticyclonic side of the trailing edge downdraft in a super cyclonic cell.43 However, in rare cases, anticyclonic tornadoes form in association with the mesoanticyclone of an anticyclonic supercell—in the same way as a typical cyclonic tornado—or as an accompanying tornado, either as a satellite tornado or associated with anticyclonic circulations within a supercell.44
+
+Sound and seismology
+The sounds produced by a tornado are caused by multiple mechanisms. Various sounds produced by tornadoes have been reported over time, often compared to sounds familiar to witnesses and usually as some variation of a rumble. Sounds that are frequently reported include a freight train, rapids or waterfalls, a jet engine, or combinations of these. Many tornadoes are not audible at great distances; the nature and distance of sound propagation depends on atmospheric conditions and topography.
+
+Winds from the tornado vortex and the turbulent constituent eddies, as well as the interaction of air currents with the surface and debris, contribute to the creation of sounds. Funnel clouds also make sounds. Funnel clouds and small tornadoes have been reported to make sounds like the whistles, howls, murmurs or buzzes of countless bees, or electricity, while many tornadoes are also reported to produce a continuous low rumble or irregular sound.45
+
+Since many tornadoes are only audible when very close, noise is not a reliable warning of a tornado. In addition, any strong wind, even a severe hailstorm or the continual thunder of lightning in a thunderstorm, can produce a tornado-like roar.46
+
+Tornadoes also produce inaudible infrasound marks.47 Unlike audible ones, inaudible tornado marks have been isolated; Due to the long-distance propagation of low-frequency sound waves, efforts are being made to develop tornado prediction and detection devices that can also help understand tornado morphology, dynamics, and formation.48 Tornadoes also produce a detectable seismic signature, and Research continues to isolate it and understand its process.49
+
+Electromagnetism, lightning and other effects
+Tornadoes emit in the electromagnetic spectrum, and radio-atmospheric and electric field emissions have been detected.48 50 51 Correlations between tornadoes and patterns of lightning activity have also been observed. Tornadic storms do not contain more lightning than other storms, and some tornadic cells never produce any. Generally, cloud-to-ground (CG) lightning activity decreases when a tornado reaches the surface and returns to its normal level when the tornado dissipates. In many cases, tornadoes and high-intensity thunderstorms exhibit an anomalous increase and dominance of positive polarity in CG-type discharges.52 Electromagnetism and lightning have little or nothing to do directly with what triggers tornadoes (since that these are basically a thermodynamic phenomenon), although there are possibly connections with the storm and the environment affecting both phenomena.
+
+In the past, the presence of luminosity has been reported, and it is probably due to confusion in the identifications with external light sources such as lightning, urban lights and flashes of damaged electrical installations, since internal sources are rarely reported and it is not known. that have been documented. In addition to the winds, tornadoes also present changes in atmospheric variables such as temperature, humidity and pressure. For example, on June 24, 2003, near Manchester, South Dakota, an investigation recorded a pressure deficit of 100 mbar. The pressure gradually decreased as the vortex approached and then dropped extremely rapidly to 850 mbar at the center of the violent tornado before increasing rapidly as the vortex receded, resulting in a "V" shaped pressure plot. At the same time, the temperature tends to decrease and the moisture content to increase in the vicinity of a tornado.53
+
+Lifecycle
+
+This sequence of images shows the birth of a tornado. First, the vortex forms with cold, dry air descending from the edge of the cloud in a clockwise spiral. The effects of this vortex can be seen in the dust cloud on the ground in the image above. In turn, this vortex immediately generates an ascending spiral in an anticlockwise direction, a spiral that gives rise to the cooling of the air and the subsequent condensation forming the cloudy funnel. This tornado, formed near Dimmitt, Texas, was one of the best-observed violent tornadoes in history.
+Relationship to the supercell
+Tornadoes generally develop from a type of storm known as supercells.54 Supercells contain mesocyclones, which are an organized area of rotating air that is located high in the atmosphere, 2 to 10 km wide. In addition to tornadoes, heavy rain, lightning, strong gusts of wind, and hail are common in such storms. While most tornadoes, particularly the strongest (EF3 to EF5 on the Fujita-Pearson Scale), are derived from supercells, some can also form from other air circulations, and are therefore called tornadoes. not supercellular. These types of tornadoes, however, tend to be less intense.55
+
+Training
+Most supercell tornadoes follow a recognizable life cycle. This begins with the origin of the supercell itself, which occurs when a current of cold and dry air descends from the top of a cloud (from the back) to compensate for the warm air that rises from the front to gradually increase the dimensions. of the cloud itself. As the cold air is heavier, layers of unstable air are produced where the cold air descends and forces the warm air to rise, creating the storm. If the temperature differences are large enough, the descent of the cold air can take the form of a whirlpool, invisible because it is dry air: it becomes visible when it reaches the ground and begins to raise dust, leaves and other objects. This sinking air, called a rear flank downdraft (RFD), accelerates as it approaches the ground, dragging the supercell mesocyclone toward it.15 The updrafts, in turn, pull the air around it, increasing rotation and becoming a narrow column, known as a funnel cloud, which increases in diameter and decreases in spin rate as it rises.55
+
+When a column of cold and dry air descends with an anticyclonic turn, that is, with a clockwise turn (coming from the top of a vertically developing cloud) towards the ground due to the greater density of the cold air, a funnel begins to form. condensation (visible by the condensation of humid air when ascending) in the opposite direction (that is, cyclonic), which comes to compensate for the loss of cloud mass that previously descended wall cloud in rotation. As the anticyclonic funnel (RFD) descends and reaches the ground, a gust front is created that can cause damage at a good distance from the tornado. The funnel cloud usually becomes a tornado very soon after the RFD hits the ground.15
+
+Maturity
+Initially, the tornado has a good supply of warm, moist air flowing into it to power it, so it grows until it reaches its mature stage. This can last a few minutes or more than an hour, and it is during this time that the tornado generally causes the most damage and its dimensions reach their maximum, in some cases being more than 1.5 km wide. Meanwhile, the RFD, which at this stage is an area of cool surface winds, begins to settle around the tornado, disrupting the flow of warm air that feeds it.15
+
+Dissipation
+
+Demonstration of a Supercell
+When the RFD completely engulfs the tornado and cuts off its air supply, the vortex begins to weaken, becoming thin, rope-like. This is the dissipation phase, which normally lasts no more than a few minutes, and after which the tornado fizzles out. During this stage the tornado's shape is highly dependent on the main storm's winds, which can cause it to take on unusual shapes.22 32 33 Although the tornado is fading, it is still capable of causing damage. By becoming a thin tube, in the same way that a skater gathers his arms to turn faster, the winds can increase their speed at this point.15
+
+With the tornado having entered its dissipating stage, its associated mesocyclone usually weakens as well, also because RFD cuts off the airflow that feeds it. As the first mesocyclone and its associated tornado dissipate, the storm's flow may concentrate in a new area closer to its center. If a new mesocyclone forms, the cycle can repeat itself, producing one or more new tornadoes. Occasionally, the old mesocyclone and the new mesocyclone produce tornadoes at the same time.
+
+Although this theory about how tornadoes arise, develop, and disappear is widely accepted, it does not explain the formation of smaller tornadoes, such as landspouts or multi-vortex tornadoes. All of them have different mechanisms that influence their development, however, most follow a pattern similar to the one described here.56
+
+Types
+true tornadoes
+multiple vortex tornado
+Main article: Multi-vortex tornado
+
+A multi-vortex tornado outside Dallas, Texas, on April 2, 1957.
+A multi-vortex tornado or multi-vortex tornado is a type of tornado in which two or more columns of moving air rotate around a common center. Multivortex structures can occur in almost any airflow, but are frequently seen in intense tornadoes. These vortices generally create small, more damaging areas along the path of the main tornado.14 15 This phenomenon is different from a satellite tornado, which is a weaker tornado that forms in close proximity to a larger, stronger tornado. contained within the same mesocyclone. The satellite tornado appears to "orbit" around the larger tornado (hence the name), resembling a multivortex tornado. However, the satellite tornado is a different circulation, and is much smaller than the main funnel.14
+
+Waterspout
+Main article: Waterspout
+
+A waterspout near the Florida Keys.
+The waterspout or water hose is simply a tornado that is found over water. However, researchers generally distinguish between tornadic and non-tornadic waterspouts. Non-tornadic waterspouts are less strong but much more common, and are similar in their dynamics to so-called dust devils and landspouts. They form at the bases of cumulus congestus clouds in tropical and subtropical waters. They have relatively weak winds, smooth walls with laminar flow, and generally travel very slowly, if at all. They commonly occur in the Florida Keys, the Río de la Plata, the Río Paraná, and the northern Adriatic Sea.57 58 59 In contrast, tornadic waterspouts are literally "tornadoes on water." They form on it in a similar way to mesocyclonic tornadoes, or they are land tornadoes that reach the water. Since they form from strong thunderstorms and can be much more intense, faster, and longer lasting than non-tornadic waterspouts, they are considered more dangerous.60
+
+landspout
+Main article: Landspout
+
+A landspout near North Platte, Nebraska on May 22, 2004.
+A landspout, also called a non-supercell tornado, funnel cloud tornado, or landspout, is a tornado that is not associated with a mesocyclone. Its name comes from its denomination as a "non-tornadic waterspout on land". Waterspouts and landspouts share several distinguishing characteristics, including their relative weakness, short duration, and a small, smooth condensation funnel that often does not touch the ground. These tornadoes also create a distinctive laminar cloud of dust when they make contact with the ground, because their mechanics are different from those of mesoform tornadoes. Although generally weaker than classic tornadoes, they can produce strong winds that are still capable of causing serious damage.14 15
+
+Tornado-like circulations
+liked
+Main article: Gustnado
+A gustnado (from gust front tornado) is a small vertical eddy associated with a gust front or downdraft. Since they are technically not connected to a cloud base, there is some debate as to whether gustnados are tornadoes. They form when a flow of cold, dry, fast-moving air from a thunderstorm meets a mass of warm, moist, stationary air near the edge of the flow, resulting in a "rounding" effect (exemplified by a cloud in roller). If the lower level wind shear is strong enough, the rotation can become horizontal or diagonal and make contact with the ground. The result is a gustnado.14 61
+
+dust devil
+Main article: Dust devil
+
+A dust devil.
+A dust devil or sand devil, known in English as a dust devil (literally "dust demon") resembles a tornado in that it is a rotating vertical column of air. However, they form under clear skies and rarely reach the strength of the weakest tornadoes. They develop when a strong convective updraft forms near the ground on a hot day. If there is enough wind shear at lower levels, the rising column of warm air can develop a small cyclonic motion that can be seen near the ground. These phenomena are not considered tornadoes because they form during good weather and are not associated with any clouds. They can, however, occasionally cause considerable damage, especially in arid areas.24 62
+
+fire swirl
+Main article: Fire Swirl
+Those circulations that develop near forest fires are called fire eddies or whirlwinds. They are not considered tornadoes except in the rare event that they connect to a pyrocumulus cloud or other cumuliform cloud above them. Fire whirls are usually not as strong as storm-related tornadoes. However, they can cause considerable damage.22
+
+swirl of steam
+Main article: Steam whirlpool
+A steam eddy is a term used to describe a rotating updraft involving steam or smoke. A steam eddy is very rare, but it forms mainly from smoke emitted from the chimneys of a power plant. Hot springs and deserts can also be suitable areas for the formation of a steam devil. This phenomenon can occur over water, when cold arctic air meets relatively warm water.24
+
+intensity and damage
+
+An Example of the Damage Caused by an EF5 Tornado
+
+An Example of Damage Caused by an EF4 Tornado
+
+An Example of the Damage Caused by an EF3 Tornado
+
+An Example of the Damage Caused by an EF2 Tornado
+The Fujita-Pearson scale and the so-called Enhanced Fujita Scale classify tornadoes according to the damage caused. The Enhanced Scale (EF) was a refinement of the old Fujita scale, using wind estimates and better description of damage; however, it was designed so that a tornado rated on the Fujita scale would receive the same numerical rank, and was implemented beginning in the United States in 2007. An EF0 tornado, the weakest on the scale, is likely to damage trees but not structures, while that an EF5 tornado, the strongest, can rip buildings off their foundations, leaving them uncovered and even deform skyscrapers. The similar TORRO scale runs from T0 for extremely weak tornadoes to T11 for the most powerful known tornadoes. Data obtained from pulse Doppler radar, photogrammetry, and ground patterns (cycloidal markings) can also be analyzed to determine intensity and range.14 63 64
+
+Tornadoes vary in intensity regardless of their shape, size, and location, although strong tornadoes are generally larger than weak ones. The relationship with the length of their path and duration also varies, although tornadoes with longer paths tend to be stronger.65 In the case of violent tornadoes, they only present great intensity in a portion of the path, a good part of this intensity coming from subvortices.22
+
+In the United States, 80% of tornadoes are classified as EF0 and EF1 (from T0 to T3). The higher the intensity of a range, the lower its incidence rate, as less than 1% are violent tornadoes (EF4, T8, or stronger).66 Outside of Tornado Alley, and North America in general, violent tornadoes are extremely rare. This appears to be largely due to the overall lower number of tornadoes outside that region, as research shows that the distribution of tornadoes by intensity is fairly similar globally. A few major tornadoes occur each year in Europe, areas of south-central Asia, portions of southeastern South America, and southern Africa.67
+
+Climatology
+
+Areas around the world where tornadoes are most likely to appear.
+More tornadoes occur in the United States than in any other country—about four times as many as are estimated to form in all of Europe, not including waterspouts.68 This is primarily due to the unique geography of the Americas. North America is relatively large, stretching from the intertropical zone to arctic areas, and does not have a major east-west mountain range blocking airflow between these two zones. In the central latitudes, where most tornadoes occur, the Rocky Mountains block moisture and atmospheric flow, allowing drier air to exist in the middle levels of the troposphere, and causing the formation of a low-pressure area at the east of these mountains. An increase in airflow from the Rockies favors the formation of a dry line when the flow is strong at upper levels,69 while the Gulf of Mexico to the east provides abundant moisture in the lower levels of the atmosphere. This unique topography causes many collisions of warm air with cold air, which are the conditions that create strong and long-lasting storms. A large portion of these tornadoes form in that area of the central United States between the Rockies and the Gulf, known as Tornado Alley.3 This area also encompasses parts of Canada, primarily Ontario and Canada. the Canadian prairies, although southeastern Quebec, inland British Columbia, and western New Brunswick are also prone to tornadoes.70 Strong tornadoes also occasionally occur in northeastern Mexico.
+
+On average, about 1,200 tornadoes occur in the United States each year. The Netherlands has the highest number of tornadoes per area of any country with more than 20 tornadoes registered there, which is equivalent to 0.00048 tornadoes per km2 annually, followed by the United Kingdom which has about 33 annually, that is, 0, 00013 per km, and while in Argentina, about 300 per year are recorded, which is 0.0009 per km. In absolute numbers, regardless of land area2;71 72 however, most are small and cause very little damage, the UK experiences more tornadoes than any European country, while Argentina accounts for the most tornadoes of any European country. Latin American country, the second in America (behind the United States), and also in the world including waterspouts, in Argentina as well as in the United Kingdom.68
+
+
+Tornado activity in the United States. The darker areas denote the area commonly known as Tornado Alley.
+
+Location of the Tornado Corridor. In violet the regions with a high frequency of tornadoes, in red the regions with a moderate frequency.
+Tornadoes kill an average of 179 people a year in Bangladesh, by far the most within a single country in the world. This is due to their high population density, poor quality of construction, lack of knowledge about safety measures to combat tornadoes, and other factors.73 74 Other countries in the world that frequently experience tornadoes include Argentina, South Africa, in Brazil on the border with Argentina, Australia and New Zealand, as well as portions of Europe and Asia.6 75
+
+Tornadoes are more frequent during the spring and less frequent during the winter.22 Since spring and fall are transition periods (from warm to cold weather and vice versa) there is a greater chance that cold air will meet warm air, which which causes peaks of activity to be experienced during these seasons.76 However, the right conditions for their formation can occur at any time of the year. Tornadoes can also spawn from the eye of landfalling tropical cyclones,77 which typically occurs in the fall and late summer.
+
+The incidence of tornadoes is highly dependent on the time of day, due to solar radiation.78 Globally, most tornadoes occur in the afternoon, between 3:00 pm and 7:00 pm local time, being the highest point at 5:00 pm.79 80 81 82 However, destructive tornadoes can occur at any time of day. The 1936 Gainesville tornado, one of the most devastating tornadoes in history, struck at 8:30 a.m. local time.22
+
+Association with climate
+There are areas such as the Mediterranean Sea that in turn increases the volume of moisture in the atmosphere. Increased humidity can cause an increase in the appearance of tornadoes, particularly during the cold season.83
+
+Some evidence suggests that the El Niño Southern Oscillation (ENSO) phenomenon is loosely related to changes in tornado activity; this varies by season and region as well as depending on whether the ENSO phenomenon corresponds to El Niño or La Niña.84
+
+Climate changes can affect tornadoes through teleconnections such as changing jet streams and other important weather patterns. Although it is possible that global warming could affect tornado activity,85 such an effect may not yet be identifiable due to its complexity, the nature of the storms, and issues related to the quality of the databases. Furthermore, any effects would vary by region.86
+
+Prediction
+
+Probabilistic maps from the Storm Prediction Center during the height of the tornado surge on April 6-8, 2006. The first map indicates the risk of severe weather in general (including heavy hail, dangerous winds, and tornadoes), while the second map specifically it shows the percentage probability that a tornado will form within 40 km of any point within the enclosed area. The hatched area on the lower map indicates a 10% or greater risk of an F2 or stronger tornado forming within 40 km of any point in the outlined area.
+Weather forecasting is carried out regionally by many national and international agencies. For the most part, they are also responsible for predicting the conditions that favor the development of tornadoes.
+
+In Australia, numerous storm warnings are provided by the Australian Bureau of Meteorology. The country is in the process of upgrading to use pulse Doppler radar systems, having reached its first goal of installing six new radars in July 2006. 87
+
+On the other hand, in the United Kingdom, TORRO (Tornado and Storm Research Organisation) carries out experimental forecasts.88 The Met Office provides official forecasts for this country, while in the rest of the Europe the ESTOFEX project (European Storm Forecast Experiment, or European Storm Prediction Experiment) provides weather forecasts about the probability of bad weather,89 and the ESSL (European Severe Storms Laboratory, or European Severe Storms Laboratory) keeps a database of events.90
+
+Likewise, in the United States, generalized climate predictions are made by the Storm Prediction Center, based in Norman, Oklahoma.91 In this center, probabilistic and categorical predictions are made for the next three days in relation to the severe weather, including tornadoes. There is also a more general forecast that covers the period from the fourth to the eighth day. Just before a severe weather threat, such as a tornado, is expected to occur, the SPC sends out several alerts regarding the phenomenon, in collaboration with the local offices of the National Weather Service of that country.
+
+In turn, in Japan, the prediction and study of tornadoes are carried out by the Japan Meteorological Agency,92 while in Canada, weather warnings and forecasts, including tornadoes, are provided by seven regional offices of the Service. Meteorological Canada, a subdivision of Environment Canada.93
+
+Detection
+Rigorous attempts to warn of tornadoes began in the United States in the mid-20th century. Before the 1950s, the only method of detecting a tornado was for someone to see it. Generally, news of a tornado would not reach a local weather station until after the storm. However, with the advent of weather radar, areas near weather stations would have early warnings of bad weather. The first public warnings of tornadoes appeared in 1950 and the first tornado watches in 1952. In 1953 it was confirmed that chain echoes are associated with tornadoes.94 Recognizing these patterns, meteorologists, being several kilometers away , they were able to detect storms that were likely to produce tornadoes.95
+
+Radar
+Today, most developed countries have a network of meteorological radars, and this is still the main method of detecting possible tornadoes. Pulse-Doppler radar stations are used in the United States and some other countries. These devices measure the speed and radial direction (whether they are approaching or receding from the radar) of a storm's winds, and thus can detect evidence of rotation in storms that are more than 150 km away. When storms are far from a radar, only the upper parts of the storm are observed and important low-lying areas are not recorded.96 The resolution of the data also decreases with the distance between the storm and the radar. Some weather conditions that lead to tornadogenesis are not immediately detectable by radar, and sometimes tornado development can occur faster than a radar can complete a scan and return information. In addition, most of the populated regions of the Earth are now visible from the Geostationary Operational Environmental Satellite (GOES), which aids in tornadic storm forecasting.97
+
+
+A Doppler on Wheels radar sequence of a chain echo and associated mesocyclone in Goshen County, Wyoming on June 5, 2009. Strong mesocyclones appear as adjacent areas of yellow and blue (on other radars, bright red and bright green), and usually indicate the existence of a tornado or its imminent appearance.
+storm location
+In the mid-1970s, the US National Weather Service (NWS) increased its efforts to train individuals to spot storms and identify their main characteristics, such as heavy hail, devastating winds and tornadoes, as well as the damage they cause. The program was called Skywarn, and those who participated in it included local sheriff's deputies, state troopers, firefighters, ambulance drivers, radio operators, civil protection workers, storm chasers, and ordinary citizens. When bad weather is expected, local weather stations request that these storm trackers do the necessary searches and report any tornadoes immediately, so that the office can send timely warning to the population.
+
+Locators are typically trained by the NWS on behalf of, and report to, their respective organizations. Organizations activate public warning systems such as sirens and the Emergency Alert System, and direct their report to the NWS.98 There are more than 230,000 weather locators trained through Skywarn in the United States.99
+
+In Canada, a similar network of volunteer weather locators, called Canwarn, helps locate bad weather, with more than 1,000 volunteers.97 In Europe, several nations are organizing networks of locators under the auspices of Skywarn Europe,100 and the Tornado and Storm Research Organization (TORRO) has maintained a network of locators in the UK since 1974. 101
+
+Storm locators are necessary because radar systems like NEXRAD cannot detect a tornado, only indications that suggest its presence.102 Radars can give a warning before there is visual evidence of a tornado, but information from a spotter can ratify the threat or determine that a tornado's arrival is not imminent.103 A locator's ability to see what a radar cannot is especially important with increasing distance from the radar site, because the radar signal, at traveling in a straight line, it progressively increases its altitude with respect to the ground as it moves away from the radar due to the curvature of the Earth, in addition to the fact that the signal is also dispersed.96
+
+visual evidence
+
+A rotating wall cloud with an obvious downdraft from the rear flank on its extreme left.
+Storm spotters are trained to discern whether or not a storm seen from a distance is a supercell. They generally look to their rear, the main region of updrafts and inflow. Beneath the updraft is a base without rain, and in the next step of tornadogenesis a rotating wall cloud forms. The vast majority of intense tornadoes occur with a wall cloud behind a supercell.66
+
+Evidence that it is a supercell comes from the shape and structure of the storm, and other cumulonimbus characteristics such as a vigorous column of updrafts, an emerging top above the cloud base that persists for a long time, a firm base and a corkscrew appearance. Beneath the storm and closer to where most tornadoes are found, evidence of a supercell and the possibility of a tornado include inflow bands (particularly curved), the strength of the inflow, the temperature and humidity of the air surrounding it. enters, how much air enters and exits the storm, and how far the leading edge precipitation core and wall cloud are from each other. Tornadogenesis is most likely at the interface of the updraft and trailing flank downdraft, and requires a balance between inflow and outflow.15
+
+Rotating wall clouds, which spawn tornadoes, generally precede them by five to thirty minutes. Rotating wall clouds are the visual manifestation of a mesocyclone. Unless it occurs at a low level, tornadogenesis is highly unlikely unless a backflank downdraft occurs, which is usually visibly evidenced by evaporation from a cloud adjacent to the corner of a wall cloud. A tornado usually occurs when this happens or shortly after; first, a funnel cloud comes down to the surface and in almost all cases, by the time it goes halfway down, a surface eddy has already developed, meaning a tornado is on the ground before condensation connects the circulation from the surface with the storm. Tornadoes can also occur without wall clouds, under flanking lines. Locators observe all parts of a storm, as well as the cloud base and the surface.104
+
+records
+
+Map with the routes of the tornadoes in the Super Surge of 1974.
+
+Another Super Surge tornado in Cincinnati
+The most extreme tornado on record was the Tri-State Tornado, which tore through parts of Missouri, Illinois, and Indiana on March 18, 1925. It would possibly have been classified as an F5 tornado, although tornadoes were not classified at that time. It holds the records for having traveled the longest distance (352 km), the longest duration (about 3.5 hours), and the fastest forward travel speed for a major tornado (117 km/h) worldwide. In addition, it is the deadliest tornado in US history (695 dead).22 It was also the second costliest tornado in history at the time, but has already been surpassed by many others without normalizing. When costs are normalized for wealth and inflation, it remains the third most expensive tornado today.105 The deadliest tornado worldwide was the Daulatpur-Saturia tornado in Bangladesh on April 26, 1989, which killed approximately to 1,300 people106 ([tornadoproject.com/alltorns/bangladesh.html]). Bangladesh has had at least 19 tornadoes in its history that have killed more than 100 people, which is at least half of the total in the rest of the world.
+
+Most of the records set for tornado surges are for the so-called Super Outbreak, which affected much of the central United States and a small area of southern Ontario in Canada between April 3 and 4, 1974. Not only did this surge feature an incredible 148 tornadoes in just 18 hours, but several of them were also violent; seven were of F5 intensity and twenty-three were F4. This surge had sixteen tornadoes on the surface at the same time at its strongest. More than 300 people, possibly as many as 330, were killed by tornadoes from this wave.107
+
+Although it is almost impossible to directly measure the wind speed of the most violent tornado (conventional anemometers would be destroyed by strong winds), some tornadoes have been scanned by mobile Doppler radar units, which can provide an accurate estimate of wind speed. of a tornado. The highest measured tornado speed, which is also the highest wind speed ever measured on the planet, is 484 ± 32 km/h in the F5 Moore, Oklahoma tornado. Although the measurement was taken about 100 feet above the surface, it demonstrates the power of the strongest tornadoes.108
+
+Outside the United States there have also been significant waves of tornadoes. Other very active severe weather areas have recorded significant tornado events, such as Northern Europe and central and southern South America. One of the most important waves of tornadoes worldwide is the "Tragic Tuesday the 13th", named by Argentine meteorologists and fans, the most important wave of tornadoes recorded outside the United States; During the night of April 13, 1993, around three hundred tornadoes with intensities between F0 and F3 were recorded in the province of Buenos Aires, Argentina. Another significant tornado wave was the so-called "USSR Tornado Surge" of 1984, in which an F5 category tornado was recorded in Ivanovo, Russia (then part of the Soviet Union).
+
+Storms that produce tornadoes can have strong updrafts, sometimes exceeding 150 mph. Debris kicked up by a tornado can reach the main storm and be carried a great distance. A tornado that hit Great Bend, Kansas in November 1915 was an extreme case, where a "debris rain" occurred 80 miles from town, a sack of flour was found 110 miles away, and a canceled check from the Bank of Great Bend it was found in a field outside of Palmyra, Nebraska 491 km to the northeast.109 Waterspouts and tornadoes have been used as a possible explanation for occasions when fish and other animals have rained down.110
+
+Security
+Although tornadoes can strike at any moment, there are precautions and preventative measures that people can take to increase their chances of surviving a tornado. Authorities such as the Storm Prediction Center advise having a plan against tornadoes. After a tornado watch is issued, shelter should be sought in a basement or in a room located in the innermost part of a sturdy house as this greatly increases the chances of survival.111 In tornado-prone areas, many buildings They have special storm shelters. These underground rooms have helped save thousands of lives.112
+
+Some countries have weather agencies that provide tornado forecasts and raise the alert level for a possible tornado (in the same way that tornado watches and warnings do in the United States and Canada). Weather radio stations also provide alerts when a severe weather warning is released for your local area, although these types of radio stations are generally found only in the United States.
+
+Unless the tornado is far away and visible, meteorologists advise drivers to park their vehicles off the road (so as not to block emergency traffic), and seek safe shelter. If there isn't one nearby, setting yourself up deep in a ditch is the next best thing.
+
+Myths and misconceptions
+
+Salt Lake City tornado on August 11, 1999. This tornado debunked several myths, including the idea that these phenomena cannot occur in areas like Utah.
+One of the most persistent myths associated with tornadoes is that opening windows will reduce the damage caused by the tornado. Although there is a marked drop in atmospheric pressure inside a strong tornado, it is unlikely that the drop in pressure would be enough to cause the building to explode. Some research shows that opening windows can actually increase the severity of tornado damage. Regardless of the validity of this blast theory, it is better to spend your time seeking shelter and not opening windows. A violent tornado, however, can destroy a home regardless of whether its windows are open or closed.113 114
+
+Another common belief is that highway overpasses are adequate shelter from tornadoes. In contrast, an overpass is a dangerous place to shelter.115 In the 1999 Oklahoma tornado outbreak of May 3, 1999, three freeway overpasses were struck by tornadoes, and each of those three locations had one death, along with many seriously injured. The area under the overpasses is believed to cause a wind tunnel effect, where the speed of the tornado's wind and the debris it carries and passes through it is increased.116 By comparison, during the same tornado surge , more than 2,000 homes were completely destroyed, with another 7,000 damaged, and even then only a few dozen people died in their homes.115
+
+An old belief is that the corner of a basement closest to the southwest provides the most protection during a tornado. The safest place, really, is the end or corner of an underground room opposite the direction the tornado is moving (usually the northeast corner), or a room that isn't underground but is as far inside as possible. property. Taking shelter under a sturdy table, in a basement, or under a staircase increases the chances of survival even more.113 114
+
+Finally, there are areas where people believe they are protected from tornadoes, either by a large river, hill, or mountain, or even by supernatural forces.117 Tornadoes have been known to cross large rivers, scale mountains, and affect valleys. .118 As a general rule, there is no area that is "safe" from tornadoes, although there are areas that are more susceptible than others, although it is the exception in places surrounded by mountains.24 113 114
+
+Research
+
+An On Wheels Doppler unit observing a tornado near Attica, Kansas.
+
+Damage caused by the 1886 Madrid tornado, an F3 intensity tornado
+Meteorology is a relatively young science and even more so the study of tornadoes. Although they have been studied since the 19th century and with greater emphasis since the mid-20th century, there are still aspects of them that are a mystery.119 Scientists have a fairly accurate idea of the development of storms and mesocyclones,120 121 and of the meteorological that lead to their formation; however, the passage from supercell (or other formative processes) to tornadogenesis and the differentiation of tornadic and non-tornadic mesocyclones are aspects that are still not fully understood and are the focus of much of the research.76
+
+Mesocyclones in the low levels of the atmosphere and the widening of the vorticity in the low levels that becomes the tornado are also being studied,76 mainly what the processes are and what is the relationship between the medium and the convective storm. Intense tornadoes have been observed forming simultaneously with a mesocyclone above (rather than successive mesocyclogenesis) and some intense tornadoes have occurred without a mid-level mesocyclone. In particular, the role of downdrafts, primarily the rear flank downdraft, and the role of baroclinic boundaries are important topics of study.122
+
+Reliably predicting tornado intensity and longevity continues to be a problem, as do details concerning the characteristics of a tornado during its life cycle and tornadolysis. Other important research topics are tornadoes associated with mesovortices within linear storm structures and within tropical cyclones.123
+
+Scientists still do not know the exact mechanisms through which most tornadoes form, and occasionally some still appear without a prior tornado warning.124 Analyzes of observations from both stationary and mobile, surface and airborne instruments , and remote and on-site, generate new ideas and refine existing notions. The use of mathematical models also provides greater understanding as new observations and discoveries are integrated into our physical understanding and then tested through computer simulations that validate the new notions while producing entirely new theoretical discoveries, many of them which would otherwise be almost indeductible. Likewise, the development of new forms of observation and the installation of finer spatial and temporal observation networks have helped to have a greater understanding and better predictions.125
+
+Research programs, including study projects such as the VOTEX project, the TOTO deployment, Doppler On Wheels (DOW), and dozens of other programs, hope to answer many of the questions that still plague meteorologists.48 Universities, government agencies such as the National Severe Storms Laboratory, meteorologists from the private sector and the National Center for Atmospheric Research are some of the organizations in active research, which have various sources of funding, both private and public, with the National Science Foundation standing out in this regard. 102 126
+
+
