@@ -1,0 +1,413 @@
+altitude sickness
+From Wikipedia, the free encyclopedia
+The current version of the page has not yet been reviewed by experienced contributors and may differ significantly from the version reviewed on January 2, 2015; checks require 32 edits.
+Current version show/hide details
+altitude sickness
+LhotseMountain.jos.500pix.jpg
+ICD-10
+T70.2
+ICD-9
+993.2
+DiseasesDB
+8375
+
+Medline Plus
+000133
+
+Altitude sickness (altitude hypoxia) is a painful condition associated with oxygen starvation due to a decrease in the partial pressure of oxygen in the inhaled air, which occurs high in the mountains, as well as when flying on aircraft that are not equipped with a pressurized cabin (for example, paragliders, hang gliders, balloons with an unpressurized gondola), starting at about 2000 meters and above the level of the oceans [1].
+
+A variation of altitude sickness is mountain sickness, in the occurrence of which, along with a lack of oxygen, such aggravating factors as physical fatigue, cooling, dehydration, ultraviolet radiation, severe weather conditions (for example, frequent showers), and sudden changes in temperature during the day also play a role ( from +30 °C during the day to −20 °C at night [2]), etc. But the main pathological factor in altitude sickness is hypoxia.
+
+A person is able to adapt to high-altitude hypoxia, athletes specifically train their ability to adapt in order to increase athletic performance. The maximum possible for long-term adaptation (hours - tens of hours) to hypoxia are considered to be heights at a level of about 10,000 meters. A longer stay of a person at such heights without breathing oxygen devices is impossible. Longer - causes death.
+
+Content
+1 Factors affecting the development of altitude sickness
+2 The height of the development of mountain sickness
+3 Pathogenesis
+3.1 Periodic breathing
+3.2 Mechanisms of edema
+3.3 Changes in other organs and systems[12]
+3.3.1 Digestive system
+3.3.2 Vision
+3.3.3 Dehydration
+3.3.4 Other changes
+3.3.5 Mental changes
+4 Clinic
+4.1 Acute mountain sickness
+4.1.1 Mild
+4.1.2 Medium
+4.1.3 Severe
+4.2 Alpine pulmonary edema
+4.2.1 First stage
+4.2.2 Second stage
+4.2.3 Third stage
+4.3 Alpine cerebral edema
+4.3.1 First stage
+4.3.2 Second stage
+4.3.3 Third stage
+4.4 Acute mountain sickness
+4.5 Chronic mountain sickness
+5 Prevention
+5.1 Acclimatization
+5.2 Pharmacological prophylaxis
+6 Treatment
+6.1 Treatment of acute mountain sickness
+6.1.1 Mild and moderate
+6.1.2 Severe
+6.2 Treatment of pulmonary edema
+6.3 Treatment of cerebral edema
+7 See also
+8 Notes
+9 Links
+Factors affecting the development of mountain sickness
+Altitude classification and characteristic physiological changes[3]
+Intermediate heights (1500-2500 m):
+Physiological changes are noticeable. Saturation (saturation) of blood with oxygen> 90% (normal). The likelihood of altitude sickness is low.
+
+High altitudes (2500-3500 m):
+Mountain sickness develops with a rapid ascent.
+
+Very high altitudes (3500-5800):
+Mountain sickness develops frequently. Saturation (saturation) of blood with oxygen < 90%. Significant hypoxemia (decrease in the concentration of oxygen in the blood) during exercise.
+
+Extreme altitudes (> 5800 m):
+Severe hypoxemia at rest. Progressive deterioration despite maximum acclimatization. Permanent presence at such heights is impossible.
+
+The altitude at which altitude sickness develops varies due to the influence of numerous factors, both individual and climatic.
+
+The following individual factors influence the development of mountain sickness:
+
+individual resistance of people to a lack of oxygen (for example, among mountain dwellers);
+gender (women tolerate hypoxia better);
+age (young people do not tolerate hypoxia);
+physical, mental and moral condition;
+fitness level;
+speed of climb;
+the degree and duration of oxygen starvation;
+intensity of muscle effort;
+past "high-altitude" experience.
+The following factors provoke the development of altitude sickness and reduce the tolerance for high altitudes:
+
+the presence of alcohol or caffeine in the blood;
+insomnia, overwork;
+psycho-emotional stress;
+hypothermia;
+poor quality and irrational nutrition;
+violation of the water-salt regime, dehydration;
+excess body weight;
+respiratory and other chronic diseases (for example, tonsillitis, bronchitis, pneumonia, chronic purulent stomatitis);
+blood loss.
+The following climatic factors contribute to the development and faster progression of mountain sickness.
+
+Low temperatures - with increasing altitude, the average annual air temperature gradually decreases by 0.5 °C for every 100 m of altitude (0.4 °C in winter, 0.6 °C in summer). In winter, at equal heights, the incidence is more frequent than in summer (see pathogenesis for reasons). A sharp temperature drop also has an adverse effect.
+Humidity - at high altitudes, due to low temperatures, the partial pressure of water vapor is low. At an altitude of 2000 m and above, the air humidity is half that at sea level in the same locality. At high mountain altitudes, the air becomes almost dry (the partial pressure of saturated water vapor is negligible). This leads to increased fluid loss from the body through the skin and lungs and, consequently, to dehydration.
+Wind - high in the mountains, the wind can reach hurricane force (over 200 km / h), which supercools the body, exhausts physically and mentally, and makes it difficult to breathe.
+The height of the development of mountain sickness
+The combination of the above factors leads to the fact that the height of the development of mountain sickness for different people and in different conditions is very different. Some begin to suffer from oxygen deficiency already at an altitude of 2000 m, while others do not feel its effect even at 4000 m.
+
+The majority of healthy, non-acclimatized inhabitants of the plains begin to feel the effect of altitude in the region of 2500-3000 m, and during strenuous physical work even at lower altitudes. At an altitude of about 4000 m, even absolutely healthy people develop a slight malaise, and acute mountain sickness is recorded in 15-20% of climbers. At altitudes of 6500-7000 m, full acclimatization, apparently, is impossible at all, and therefore the participants of expeditions to the eight-thousander mountains note numerous functional disorders and progressive signs of altitude sickness [4]. In high-altitude mountaineering, there is a term "lethal zone" or, in other words, "death zone". It was introduced by the head of the Swiss expedition of 1952 to Everest, E. Wyss-Dunant, who expressed the opinion that there are limits, the stay above which is disastrous for climbers. At altitudes above 8000 m, a person can stay at the expense of internal reserves for no more than 2-3 days, gradually losing resistance to the action of altitude. True, the experience of recent Himalayan expeditions, during which many participants, after successful gradual acclimatization, did not use oxygen devices, somewhat expands our understanding of the limits of adaptation to oxygen deficiency [4].
+
+The height of the onset of mountain sickness depends on the climate and air humidity[5]
+
+in the mountains of a humid maritime climate:
+Kamchatka - 1000-1500 m
+Patagonia - 1000-1500 m
+Alps - 2500-3000 m
+Caucasus - 3000-3500 m
+Andes - 4000 m
+in the mountains of dry continental climate:
+Tien Shan - 3500 m
+Pamir - 4500 m
+Himalayas - from 5000 m
+Pathogenesis
+The human body functions best at sea level, where atmospheric pressure is 101.325 kPa or 1013.25 mbar (i.e. 1 atm). The concentration of oxygen (O2) in air at sea level is 20.9% at a partial pressure of O2 (PO2) of 21.2 kPa. In healthy people, at the same time, hemoglobin is saturated with oxygen, which binds to red blood cells [6]. After a person rises to a height of about 2100 meters above sea level, the saturation of the body with oxyhemoglobin (hemoglobin protein associated with oxygen) begins to fall. [1].
+
+Atmospheric pressure decreases exponentially with increasing altitude, while the proportion of O2 remains constant up to about 100 km, due to which PO2 also decreases exponentially with increasing altitude. At the height of the base camp on Mount Everest - 5000 m above sea level - the pressure of PO2 is about half of the pressure of PO2 at sea level, and only a third - at the top of Everest, at an altitude of 8.848 m [7]. When PO2 drops, the human body responds with adaptive reactions - high-altitude acclimatization.[8].
+
+Adaptive reactions are aimed, on the one hand, at maintaining a normal oxygen supply to organs and tissues, and, on the other hand, at a more economical use of energy and vital activity in conditions of oxygen starvation. These compensatory responses include:
+
+enhanced pulmonary ventilation;
+an increase in the oxygen capacity of the blood due to the release of erythrocytes from the blood depots - the spleen, liver. With prolonged exposure to hypoxia, an increase in the amount of hemoglobin is observed;
+increase in minute volume of circulating blood, acceleration of blood flow.
+There are also reactions at the tissue level:
+
+capillarity increases;
+myoglobin increases;
+the systems of regulation of redox processes are being improved, etc.
+When climbing to altitudes up to 2000-4000 m, oxygen deficiency in healthy people is compensated without any (at least visible) harm to health.
+
+Periodic breathing
+As a result of hyperventilation of the lungs, the content of carbon dioxide in the blood decreases, as a result of which respiratory alkalosis develops (blood plasma and body fluids acquire an alkaline reaction). This is due to the fact that the decrease in blood CO2 Pa below 35 mm Hg. Art. shifts the reaction of liquids to the alkaline side by reducing the concentration of free H + ions:
+CO2 + H2O -> HCO3− + H+
+Due to the "washout" of CO2, the regulation of respiration is disturbed, since an excess of carbon dioxide in the blood excites the respiratory center. This leads to respiratory disorders, due to the suppression of the activity of the respiratory nervous subsystem of the body at low concentrations of CO2. While a person is awake, his consciousness gives a signal s for a breath. In sleep, when mind control weakens, a phenomenon called periodic breathing or Cheyne-Stokes breathing occurs: breathing stops for a few seconds (up to 10-15), after which it resumes, at first with a vengeance. The first event is associated with the reaction of the brain to a lack of CO2, the second - with a reaction to a critically low level of O2. In practice, it looks like a person wakes up because he is suffocating, climbers note this sensation as extremely unpleasant [2].
+
+However, having caught his breath, the person comes to his senses and can continue to sleep peacefully. Despite the unpleasant sensations, this is a normal reaction of the body to altitude, and this symptom alone is not a sign of altitude sickness [9].
+
+Edema mechanisms
+With a further rise, hypoxia increases, since the compensatory functions of the body no longer provide sufficient compensation. The lack of oxygen in the surrounding air leads to a decrease in the partial pressure of oxygen in the lungs and to a decrease in arterial oxygen saturation, resulting in pulmonary and cerebral edema.
+
+There is a point of view that the basis of the clinical manifestations of acute mountain sickness is the growing swelling of the brain [10].
+
+In humans, the most sensitive and vulnerable to hypoxia are the tissues of the brain and the tissue of the lung alveoli, since the latter receive oxygen directly from the air. It is the insufficient supply of oxygen to these tissues that is the cause of the development of edematous processes in them. The main sources of pulmonary and cerebral edema:
+
+increased pressure in the vessels and capillaries due to their spasm, water retention in the body and stagnation of blood in the venous system;
+increased permeability of the capillary wall, which leads to the release of liquid plasma components into the intercellular space;
+increase in the permeability of the cell membrane - hypoxia disrupts the selective permeability of cell membranes, as a result of which the ion concentrations begin to equalize outside and inside the cell, that is, the cell loses K + ions and is overloaded with Na +, Ca + 2 ions;
+decrease in the osmotic pressure of the blood plasma - equalization of the sodium concentration (0.9%) in the body leads to watering of the cells and thickening of the blood.
+Other mechanisms join the hypoxic mechanism:
+
+A lack of potassium in the myocardium leads to arrhythmia, to a weakening of the pumping function of the heart, which is manifested in the stagnation of venous blood in the small (with pulmonary edema) or in the large (with cerebral edema) circulation;
+An increase in body temperature (fever) - in response to hypothermia, edema, exacerbation of chronic inflammatory processes, etc., the body temperature rises. This immune stereotype, “useful” under normal conditions, in conditions of lack of oxygen further exacerbates hypoxia, since with an increase in body temperature, the need for oxygen increases. It was established [by whom?] that at 38 ° C the need for oxygen doubles, and at 39.5 ° C it increases 4 times.
+Due to the increase in the permeability of the walls of the pulmonary capillaries and alveoli, foreign substances (protein masses, blood elements and microorganisms) penetrate into the alveoli of the lungs;
+The action of cold - cold air acts by three mechanisms:
+in severe frost and wind, cold air has to be inhaled in small portions that burn the lungs and throat, which increases hypoxia;
+in the cold, hypoxic edema is also accompanied by edema from hypothermia. In supercooled tissues, the permeability of cell membranes is also impaired (therefore, frozen tissues swell);
+due to the cold, chronic inflammatory diseases are exacerbated, which accelerate and aggravate pulmonary edema.
+Therefore, at low temperatures, pulmonary or cerebral edema occurs more quickly - at high altitudes and in severe frost, this period can be only 8-12 hours instead of the usual 24 hours.
+Cerebral edema is an excessive accumulation of water in the tissues of the brain, and the source of water is mainly blood flowing through microvessels and cerebral capillaries.
+
+Pulmonary edema is the accumulation of light blood plasma in the tissues of the lungs, and then in the lumen of the alveoli: when inhaling, the plasma that fills the lumens froths, sharply reducing the useful volume of the lungs [11].
+
+As a rule, cerebral edema and pulmonary edema develop at night (the peak of the crisis most often occurs at 4 am), due to:
+
+increased venous return to the upper half of the body when moving from a vertical to a horizontal position;
+a decrease in the activity of the central nervous system, which, superimposed on respiratory acidosis, leads to a weakening of the respiratory function (see above);
+increased tone of the vagus nerve, causing bronchospasm.
+From which it should be concluded that:
+
+the horizontal position of the sick person is unacceptable at any time of the day;
+every hour of night time should be used not for sleep (which is not there anyway), but for descent; the condition of the sick person always deteriorates markedly by morning [11].
+The cause of death in cerebral edema is compression of the swollen cerebral cortex by the cranial vault, wedging of the cerebellum into the spinal cord. Cause of death with pulmonary edema - massive foaming, causing asphyxia of the respiratory tract.
+
+The reason for the transience of a lethal outcome is that they develop according to the principle of a vicious circle, when subsequent stages aggravate the original cause, and the initial cause aggravates the effect (for example, compression of the cerebral veins leads to more severe edema and vice versa).
+
+Changes in other organs and systems[12]
+Digestive system
+At altitude, appetite changes significantly, the absorption of water and nutrients decreases, the secretion of gastric juice, which leads to disruption of the processes of digestion and assimilation of food, especially fats. As a result, a person loses weight dramatically (up to 15-22 kg in 6-7 weeks at an altitude of 6000 m). At a height, a person can feel an imaginary feeling of fullness in the stomach, bursting in the epigastric region, nausea, diarrhea that is not amenable to drug treatment.
+
+Vision
+At altitudes of about 4500 m, normal visual acuity is possible only at a brightness 2.5 times greater than normal for flat conditions. At these heights, there is a narrowing of the peripheral field of vision and a noticeable "fogging" of vision in general. At high altitudes, the accuracy of fixing the gaze and the correctness of determining the distance also decrease. Even in mid-mountain conditions, vision weakens at night, and the period of adaptation to darkness lengthens.
+
+Dehydration
+The excretion of water from the body, as is known [source not specified 1595 days], is carried out mainly by the kidneys (1.5 liters of water per day), skin (1 liter), lungs (about 0.4 liters) and intestines (0.2- 0.3 l), only about 3 liters of water per day. With increased muscular activity, especially in hot conditions, the release of water through the skin sharply increases (sometimes up to 4-5 liters). Due to the lack of oxygen and dry air, intense muscular work performed at high altitudes sharply increases pulmonary ventilation and thus also increases the amount of water excreted through the lungs. All this leads to the fact that the total loss of water for participants in difficult high-mountain trips can reach 7-10 liters per day.
+
+Other changes
+Pain sensitivity decreases with increasing hypoxia up to its complete loss.
+
+mental changes
+Many climbers talk about the effect of height on the human psyche. For example, an expeditionary doctor points to a climber who is mentally stable on the plain, biting glass at a height[2]. Reinhold Messner (altitude 8200 m, oxygen-free solo ascent of Everest in 1980) reported an increasing sense of the presence of an invisible companion, to the point of sharing food with him [2]. Mikhail Turkevich, a participant in the first Soviet ascent of Everest, reported that Eduard Myslovsky refused to go further during the descent after he ran out of oxygen, saying that he was fine and wanted to stay in the mountains[13].
+
+Clinic
+The acute form of mountain sickness occurs when non-acclimatized people move quickly (within a few hours) to the highlands, usually to a height of more than 3500 m. Its clinical symptoms develop rapidly. In the subacute form of mountain sickness, they develop less quickly and last longer (up to 10 days). The clinical manifestations of both forms of mountain sickness generally coincide.
+
+Acute mountain sickness
+Easy degree
+Symptoms of a mild degree of altitude sickness appear within 6-12 hours (and sometimes even earlier) after climbing to a new height. At a higher altitude, its symptoms are detected earlier. For many, they first manifest themselves in a deterioration in well-being, some lethargy. For the first time in the mountains, a beginner feels unwell, palpitations, slight dizziness, slight shortness of breath during physical exertion, drowsiness and at the same time falls asleep badly. After 3-4 days, these phenomena, if you do not rise higher, usually disappear. There are no clear objective clinical and neurological symptoms of this form of mountain sickness.
+
+All of the above symptoms are not specific and may be due to many other diseases. Nevertheless, it is considered correct to assume acute mountain sickness if an unacclimatized person who has risen to a height of more than 2500 m begins to have a headache and at least one of the above symptoms appears. If the above symptoms appear after 36 hours of good condition, then the presence of another disease must be excluded.
+
+Average degree
+At altitudes of 2500-3500 m, some people may experience signs of euphoria: high spirits, excessive gesticulation and talkativeness, an accelerated rate of speech, causeless fun and laughter, a carefree, light-hearted attitude to the environment. In the future, the euphoric state is replaced by a decline in mood, apathy, melancholy, and interest in the environment is dulled.
+
+At altitudes of 4000-5000 m, the state of health worsens. A moderate and even severe headache develops. Sleep becomes restless, anxious, with unpleasant dreams, some fall asleep with difficulty and often wake up from a feeling of suffocation (periodic breathing). With physical effort, breathing and heartbeat immediately become more frequent, dizziness occurs. Appetite decreases, nausea occurs, which is intense and can turn into vomiting. The taste changes: you want predominantly sour, spicy or salty foods (which is partly due to dehydration and a violation of the water-salt balance). Dryness in the throat causes thirst. Nosebleeds are possible.
+
+Severe degree
+At altitudes of 5000-7000 m and above, health is rarely good, more often it is unsatisfactory. There is general weakness, fatigue, heaviness throughout the body. Moderate, and sometimes severe pain in the temples, frontal, occipital part of the head does not stop. With sudden movements and inclinations or after work, dizziness occurs. A person falls asleep with great difficulty, often wakes up, some suffer from insomnia. A person with mountain sickness is not able to perform physical activity for a long time due to shortness of breath (“the breath of a driven dog”) and palpitations, working capacity decreases, for example, at an altitude of 8000 m, 15–16% of the working capacity remains from that produced at sea level [12].
+
+Dryness in the throat increases, all the time I want to drink. Coated tongue. A lot of people have a dry cough. Appetite is usually reduced or absent. The number of cases of nausea and vomiting during meals is increasing. Pain in the abdomen and gastrointestinal disorders, bloating are often noted. The rhythm of breathing during nocturnal sleep is disturbed (Cheyne-Stokes breathing). The skin of the face, especially the lips, becomes pale, often bluish, as a result of insufficient oxygenation of arterial blood, which loses its scarlet color. Body temperature rises by 1-2 ° C, chills occur. Increasing cases of bleeding from the nose, mouth, lungs (hemoptysis), sometimes gastric.
+
+Under certain conditions, starting from 4000 m, dangerous forms of mountain sickness can occur due to the disruption of adaptive mechanisms and the development of more serious pathologies: pulmonary edema and cerebral edema.
+
+Alpine pulmonary edema
+Against the background of severe forms of acute mountain sickness, and sometimes suddenly, congestion of blood in the pulmonary circulation and pulmonary edema, as well as acute heart failure, may develop.
+
+Symptoms of high-altitude pulmonary edema, as a rule, appear on the 2-3rd day of stay at high altitude. Fluid comes out of the capillaries of the lungs, which, getting into the lumen of the alveoli, interferes with gas exchange, as a result, hypoxia intensifies and the disease progresses. If left untreated, it can take a matter of hours from the first appearance of symptoms to death by asphyxiation. Its development is facilitated by previous diseases of the respiratory and circulatory organs, chronic or acute respiratory tract infection (for example, tonsillitis, bronchitis, pneumonia, chronic purulent dental diseases), excessive physical activity performed before the onset of stable adaptation.
+
+High-altitude pulmonary edema is the most common cause of death of all mountain-specific diseases. At an altitude of 2700 m, the frequency of high-altitude pulmonary edema is 0.0001% and increases to 2% at 4000 m [3].
+
+In the development of high altitude pulmonary edema, 3 stages are distinguished:
+
+First stage
+It occurs against the background of symptoms of a severe degree of acute mountain sickness:
+
+the patient stands on his feet, but does not move independently;
+lack of urine for more than 8-10 hours;
+symptoms of depression of the respiratory center are observed - rapid pulse and breathing, it is difficult to cough, the wings of the nose are involved in breathing at first, the teeth are clenched;
+chills, fever;
+skin is moist, pale;
+cyanosis: bluish nails, lips, nose, ears.
+The following specific symptoms are also characteristic of pulmonary edema:
+
+dry cough, sore throat;
+complaints of compression below the sternum, retrosternal pain;
+a symptom of "roly-up": because of weakness, the patient tries to lie down, but because of suffocation he is forced to sit down;
+temperature 38-39 °C. If pulmonary edema develops without pneumonia, then the temperature can be 36-37 ° C.
+Second stage
+Usually 8-12 hours after the first symptoms, the second stage of pulmonary edema occurs:
+
+the patient is no longer on his feet;
+cough with frothy sputum;
+rapid pulse, blood pressure constantly rises;
+breathing is noisy, wheezing is heard when listening;
+symptom of "roly-up" or semi-sitting position;
+thirst.
+Third stage
+Develops after another 6-8 hours and 4-8 hours before death:
+
+signs of significant dehydration: thirst increases;
+severe headache;
+temperature increase;
+motor restlessness;
+rales audible at a distance;
+bloody sputum, pink foam from the nose and mouth;
+suffocation;
+arrhythmia, pressure can reach 150-170/90-100 mm Hg. Art.
+Without proper treatment, there is a drop in pressure, collapse, coma, cardiac arrest.
+
+Alpine cerebral edema
+High-altitude cerebral edema can be considered as an extreme manifestation of acute mountain sickness. Fluid comes out of the capillaries of the brain, it increases in volume. In this case, the tissues of the cerebellum are wedged into the spinal cord stem, the vital centers located in it are destroyed and death occurs.
+
+Member of one of Everest expedition Dale Cruz describes his sensations with cerebral edema [2]:
+
+It felt like I was very drunk. I could not walk without stumbling and completely lost the ability to think and speak. I had a few words in my head, but I couldn't figure out how to pronounce them.
+
+There are three stages of cerebral edema:
+
+First stage
+Due to changes in the brain, specific symptoms appear:
+
+head filled with lead, noise in the head, headaches of a bursting nature;
+increased vomiting;
+violation of coordination (ataxia): gait, as, indeed, the behavior of the patient in general, most of all resemble the state of alcoholic intoxication, a person cannot walk in a straight line without staggering;
+lethargy, drowsiness, detachment, apathy;
+the patient fulfills the requests under control and immediately stops the execution until a second reminder;
+in contrast to pulmonary edema, the patient can lie down.
+Second stage
+Usually occurs 8-12 hours after the onset of the first symptoms:
+
+increased headaches, insomnia, thirst;
+speech disorders;
+changes in behavior: a person ceases to be like himself, irrational behavior (aggression, suicide attempt), and the patient may not understand what is happening to him, and actively resist attempts to lower himself, being in a state of euphoria, rush upward;
+stupor, lethargy, detachment, apathy;
+pupil changes: dilation, disappearance of light reaction, gaze fixation, asymmetry.
+Third stage
+Comes in another 6-8 and 4-8 hours before death:
+
+signs of significant dehydration: thirst;
+the headache gets worse;
+temperature increase;
+motor restlessness;
+increased changes in the pupils, dilation of the veins of the fundus;
+numbness of the limbs;
+depression of consciousness, stupor, lethargy, the victim becomes lethargic, drowsy, answers questions in monosyllables and not immediately, may be disoriented in the environment.
+At the end of the third stage, there is a loss of consciousness, respiratory and cardiac arrest.
+
+Acute form of mountain sickness
+The most acute form of altitude sickness, hypoxic asphyxiation, sometimes occurs immediately after people are delivered to high altitudes by helicopter, plane, motor vehicle, or during rapid ascent.
+
+Suddenly there is a feeling of emptiness when inhaling, burning pain in the whole body, ripples in the eyes or darkening, prostration, fear of death appears, loss of consciousness (for example, when the aircraft cabin is depressurized, the pilot loses consciousness after 2 minutes [2]). However, with a rapid descent and the provision of necessary medical care, all phenomena quickly pass.
+
+chronic mountain sickness
+Chronic mountain sickness was described in 1829 by the famous Peruvian scientist Carlos Monge, which is why it is also called Monge's disease. Chronic mountain sickness is much less common, it affects a small part of the highlanders living at altitudes above 3500-4000 m.
+
+It is characterized by a decrease in physical and mental performance, and changes in the central nervous system predominate. Due to the increase in hypoxemia (decrease in the oxygen content in the blood), there is an increase in the volume of circulating blood, its volume in the lungs, an increase in the size of the right half of the heart and liver is noted. The chest becomes barrel-shaped, often you can observe thickening of the fingers ("drumsticks"), pronounced cyanosis. Patients with chronic mountain sickness often complain of coughing, hemoptysis, shortness of breath, pain in the right hypochondrium, and bleeding in the alimentary canal. An important diagnostic sign of Monge's disease is its almost complete disappearance after descent into the flat terrain. In severe manifestations of chronic mountain sickness, the same measures and medications are applied as in acute mountain sickness [14].
+
+Prevention
+Three "golden rules" for the prevention of altitude sickness:
+
+Never ascend with symptoms of altitude sickness;
+If the symptoms of mountain sickness intensify, then you must definitely go down;
+If a climber feels unwell at a height, then in the absence of obvious signs of other diseases, it should be considered that he has acute mountain sickness, and appropriate treatment should be carried out[15].
+The basis for the prevention of acute mountain sickness is an active gradual acclimatization. The rational selection of people, their physical and psychological preparation, the presence of previous high-altitude experience, and pharmacological prophylaxis are also of no small importance.
+
+Acclimatization
+Basic principles of acclimatization:
+
+Above 3000 m every day increase the height of the overnight stay by no more than 300-600 m.
+When climbing over 3000 m, do a day trip every 1000 m.
+Keep in mind that the rate of acclimatization varies greatly from person to person.
+If possible, do not travel by transport (by plane or car) immediately to a high altitude.
+When delivered by transport to a high altitude, do not rise even higher during the first 24 hours.
+"Climb high, sleep low."
+The main acclimatization takes place during the first three days of the trip.
+If symptoms of mountain diseases do not go away, the ascent should be suspended.
+With the increase in symptoms, the descent should be started as soon as possible.
+Pharmacological prophylaxis
+Question book-4.svg
+This section is missing references to information sources.
+The information must be verifiable, otherwise it may be questioned and removed.
+You can edit this article to include links to authoritative sources.
+This mark was set on December 20, 2015.
+For the prevention of acute mountain sickness, the same drugs are usually used as for treatment. When climbing to a height of more than 3000 m, the following drugs can be recommended (recommended daily doses are indicated in brackets):
+
+Acetazolamide (diacarb, diamox) is a diuretic drug that also reduces the production of cerebrospinal fluid in the intracranial space, which reduces intracranial pressure and reduces or eliminates the symptoms that occur with altitude sickness, the prophylactic use of the drug is unreasonable. The presence of bursting headaches, aggravated by straining, bending over, a feeling of pressure on the eyeballs from the inside of the skull, nausea, and even more vomiting indicate an increase in intracranial pressure and in most cases are an indication for taking diacarb. Dosages are individual and for a person who does not take diacarb, they can be from 1/4 to 1 tablet. Side effects of acetazolamide are paresthesia (goosebumps) and increased diuresis (urination). With the appearance of paresthesias and convulsions, potassium preparations can be taken: Panangin up to 6 tablets / day. Usually, the appointment of diakarba involves the simultaneous administration of drugs containing potassium and magnesium salts (asparkam, panangin 1-2 tablets 2-3 times a day, depending on the amount of physical activity, since a significant amount of this salt is also released with sweat). The occurrence of the above symptoms, as well as bloating, which may be caused by a low concentration of potassium salts in the blood and tissues of the body, is an indication for the mandatory intake of potassium salts in double dosages compared to prophylactic ones. It is also required to increase the amount of fluid consumed to avoid dehydration and, as a result, thickening of the blood and deterioration of its fluidity. Acetazolamide is a sulfonamide diuretic, so it should not be used by people who are allergic to this group of drugs. The changes in the body caused by the drug are very significant, and taking diacarb without serious indications (so to speak, with a preventive purpose) is a gross mistake.
+Dexamethasone (4 mg every 6 hours) reduces the severity and severity of acute mountain sickness during a sharp ascent to altitudes above 4000 m. Prophylactic administration can be started a few hours before ascent. Dexamethasone is not the drug of first choice for the prevention of altitude sickness due to its side effects. Its use is justified only in persons with acetazolamide intolerance, predisposed to the development of mountain sickness, and if a rapid climb is planned. Dexamethasone relieves the symptoms of acute mountain sickness for several hours, but does not contribute to acclimatization.
+Dibazol is a vasodilator with adaptogenic properties (0.5 tablets of 10 mg).
+Viagra - a few years ago, a study was started on the use of Viagra as a preventive agent. Viagra improves peripheral blood circulation, including in the lungs.
+Vitamins, trace elements and amino acids:
+
+Ascorbic acid (vitamin C), which has antioxidant properties, reduces the accumulation of underoxidized metabolic products that appear during hypoxia. The daily requirement for it under normal conditions is 70-100 mg, and during acclimatization it is advisable to increase the dose several times (up to 500 mg 2 times a day).
+Antioxidant properties also have tocopherol (vitamin E) (200 mg 2 times a day) and lipoic acid (300 mg 2 times a day).
+Calcium pangamat - has a distinct antihypoxic effect (2 tablets, 50 mg each).
+Calcium pantothenate - (vitamin B5) normalizes metabolic processes (1 tab. 100 mg each).
+Potassium orotate - normalizes the functioning of the liver and heart, microcirculation in the capillaries (table 1).
+Glutamic acid is an amino acid, a participant in metabolic processes (Table 2).
+Methionine is an amino acid that normalizes the work of the liver during hypoxia, the absorption of fats (Table 3).
+Panangin (asparkam) - potassium-magnesium salt of aspartic amino acid, antiarrhythmic agent, conducts K +, Mg2 + ions into cells (table 1-2).
+Riboxin - enhances the effect of potassium orotate, has a beneficial effect on the heart and liver (table 1-2).
+Of the nutrients, carbohydrates significantly increase resistance to hypoxia, so at altitude, to prevent mountain sickness, more glucose, sugar and other easily digestible carbohydrates should be used, but not more than 300-400 g per day. From drinks, canned orange juice, a warm solution of lemon juice in powder, chamomile tea can be recommended. At altitude, you should not drink excessively strong tea. It excites the nervous system and thereby contributes to the development of insomnia.
+
+Coca in the form of tea and leaves for chewing, contrary to popular belief, contains very little cocaine and in moderation promotes acclimatization. Therefore, while in the Andes, do not neglect the advice of guides offering its use.
+
+The prophylactic efficacy of the following drugs has not been proven:
+
+Ginkgo biloba (bilobil) extract, tablets, capsules.
+Analgesics from the group of non-steroidal anti-inflammatory drugs - aspirin, ibuprofen, paracetamol, etc.: in separate studies showed a slight superiority compared with placebo [source not specified 627 days].
+The following drugs are ineffective for the prevention of altitude sickness: spironolactone, furosemide, codeine.
+
+Alcohol at an altitude of more than 3000 m, even in small doses, reduces the respiratory rate and increases hypoxia, so the use of alcoholic beverages in the high mountain zone should be prohibited.
+
+Treatment
+Treatment of acute mountain sickness
+Easy and medium degree
+It must be emphasized that a mild degree of mountain sickness, despite the unpleasant sensations, is usually only a condition that physically limits a person without any lingering consequences. Fundamentals of treatment of mild manifestations of mountain sickness:
+
+relaxation;
+liquids (juices, teas);
+weak analgesics (aspirin, ibuprofen, paracetamol);
+remedies for nausea (aeron, sour fruits - apples, oranges, lemons, apricots) and vomiting (intramuscular administration of metoclopramide (raglan));
+if necessary, acetazolamide 125-250 mg twice a day for 3 days.
+Under favorable circumstances, the symptoms usually disappear after 2-4 days.
+
+Severe degree
+The most effective method of treatment is to lower the victim down. Any possibility of independent movement of the victim, which does not allow the development of apathy, indifference and hypothermia, should be fully used.
+In extreme cases, an oxygen mask should be used (preferably mixed with carbon dioxide: O2 + 5-7% CO2). It is effective to use a portable hyperbaric pressure chamber (compression chamber), which is a sealed bag into which air is forced by a hand pump or compressor.
+Acetazolamide 125–250 mg twice daily for 3 days.
+Dexamethasone 8 mg orally followed by 4 mg every 6 hours throughout the day.
+The temperature should be lowered with antipyretic drugs to 37 ° C.
+Do not use narcotic analgesics (promedol, morphine) and alcohol.
+Treatment of pulmonary edema
+The most important method of dealing with pulmonary edema is the immediate descent down. Descent even a few hundred meters can lead to improvement.
+The use of a portable hyperbaric chamber is effective. In extreme cases, an oxygen mask should be used.
+The victim must be given a semi-sitting position.
+If systolic blood pressure (“upper”) is more than 90 mm Hg. Art., then intramuscularly it is necessary to enter 2-3 ampoules of furosemide.
+Nifedipine (initially 10 mg orally, then 20 mg slow-release nifedipine every 12 hours) is effective for the prevention and treatment of high-altitude pulmonary edema.
+Place a nitroglycerin tablet under the tongue (with systolic blood pressure over 90 mmHg). Repeatedly nitroglycerin can be given after 20 minutes no more than 3 times.
+Apply venous tourniquets to the thighs in such a way that the pulse on the arteries is felt below the place of their application. This will create a depot of blood in the lower extremities and prevent it from returning to the heart. True, this method should be used only during the rapid descent of the victim down, in order to gain some time. Indeed, after an hour and a half, the tourniquets will have to be removed, and a sharp influx of blood to the heart driven by hypoxia can cause acute heart failure.
+If possible, aminophylline should be administered intravenously (10 ml of 2.4% in 100 ml of isotonic solution).
+If the patient clearly stands out pink foamy sputum - breathing through gauze moistened with alcohol to reduce foaming in the pulmonary alveoli.
+Under stationary conditions, when the preservation of consciousness does not play a role, morphine should be used , it reduces pressure in the pulmonary artery.
+
+Important: you need to know that no medical manipulations should serve as a delay for going down.
+
+Pulmonary edema can develop very quickly against the background of inflammatory diseases of the respiratory tract (tonsillitis, pneumonia), therefore, when their signs appear, a person must be lowered down, while providing symptomatic medical care.
+
+Treatment of cerebral edema
+If symptoms of high-altitude cerebral edema appear, the descent should be started immediately. Delay can lead to the death of the patient. If the symptoms appeared in the evening, you can not wait with the descent until the morning. You need to evacuate at least to the height at which the person last felt well, and preferably up to 2500 m. As a rule, if you start the descent in time, the symptoms quickly and completely disappear.
+You need to start the oxygen supply.
+Medicines for cerebral edema play a rather auxiliary role, but, nevertheless, they should not be neglected. To reduce symptoms and facilitate evacuation, dexamethasone is used (initially 8 mg, then 4 mg every 6 hours orally or parenterally).
+
+Both vasodilators (nitroglycerin, nifedipine , trental ) and pressure-increasing drugs ( caffeine , adrenaline ) should not be used for cerebral edema : any increase in pressure or vasodilation will increase cerebral edema. Now also do not recommend the use of diuretics.
+
+The disappearance of symptoms does not occur immediately after descent, and the patient must be transferred to the supervision of medical professionals.
+

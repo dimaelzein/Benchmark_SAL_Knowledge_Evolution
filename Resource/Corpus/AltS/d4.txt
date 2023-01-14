@@ -1,0 +1,57 @@
+mountain sickness
+"Altitude sickness" redirects here. For the book with this title, see Altitude sickness (book) .
+"Soroche" redirects here. For the hill with this title, see Cerro Soroche .
+Mountain sickness or altitude sickness
+Classification and external resources
+Specialty	emergency medicine
+ICD-10	T70.2 _
+ICD-9	902.0
+Diseases DB	8375 29615
+MedlinePlus	000133
+eMedicine	mid/3225
+MeSH	D000532
+Wikipedia is not a doctor's office medical notice 
+[ edit data at Wikidata ]
+Acute mountain sickness ( AMS ), colloquially called altitude sickness , paramo sickness , soroche , apunamiento or puna , is the lack of adaptation of the organism to hypoxia (lack of oxygen) at altitude. The severity of the disorder is directly related to the speed of ascent and the altitude reached. Conversely, these symptoms normally disappear when descending to lower altitudes. It normally occurs from 2,400 meters of altitude, 1 up to the so-called " death zone " at 7,500 meters of altitude.
+
+It usually appears from exposure to hypoxia and is more frequent in those under fifty years of age and in subjects who usually reside less than 900 m. of altitude.
+
+The main cause of this affliction is hypoxia (lack of oxygen in the body). Atmospheric pressure decreases with height, which affects the bioavailability of oxygen, since the pulmonary alveoli are not capable of transporting the same amount of oxygen to the blood as in a situation of higher pressure. Although it is known that hypoxia is the cause of AMS, the exact mechanism by which it causes it is still unknown.
+
+Index 
+one	Causes
+two	AMS symptoms
+3	MAM diagnosis. The Lake Louise stopover
+4	AMS prevention. Acclimatization
+5	See also
+6	References
+7	external links
+Causes
+The amount of oxygen available to sustain mental and psychological attention decreases as altitude increases. The availability of oxygen and nitrogen, as well as their density, decrease with increasing altitude.
+
+Dehydration due to accelerated loss of water vapor due to altitude can contribute to symptoms of altitude sickness. The speed with which one ascends, the initial height, physical activity, as well as individual susceptibility are factors that contribute to this discomfort.
+
+Altitude sickness can be prevented by climbing slowly. In most cases, symptoms are temporary and usually reduce as altitude acclimatization occurs. However, in extreme cases, altitude sickness can be fatal.
+
+AMS symptoms
+dizziness
+Headache (headache).
+Nausea and vomiting.
+Lack of appetite.
+Physical exhaustion.
+Nervousness
+Sleep disorders, which can be either drowsiness or insomnia. Episodes of sudden nocturnal dyspnea (waking up suddenly with a choking sensation) may also occur due to so-called Cheyne–Stokes breathing during sleep.
+Elevated heart rate
+The most serious (and potentially lethal) manifestations of acute mountain sickness are high -altitude pulmonary edema and high-altitude cerebral edema .
+
+MAM diagnosis. The Lake Louise stopover
+For practical purposes (in the mountains, above 2,500 masl ) the appearance of any of the above symptoms that cannot be explained by other reasons should be considered as AMS and act accordingly: stop ascending and, if the symptoms do not improve, go down, lose altitude as soon as possible, at least to the level where there were no symptoms.
+
+The diagnosis of AMS is clinical, that is, based on the "general" assessment of the subject's condition, since there is no symptom that, by itself, unequivocally identifies it. Symptom charts are generally used, each with a different score. If the total sum of the points obtained exceeds a certain threshold, it is considered a diagnostic criterion for AMS, as well as its severity.
+
+Of all these tables, the most used is the so-called Lake Louise scale , which is divided into a self-assessment questionnaire (subjective) and a clinical assessment (objective) . In both the questionnaire and the clinical assessment, the term "severe" usually means "disabling."
+
+AMS prevention. Acclimatization
+Fitness or physical preparation, however excellent these may be, do not prevent MMA at all. This can occur at elevations as low as 2,500 m. of altitude and it is known that the susceptibility to suffering from it is inversely proportional to the age of the subject, probably due to the maturity of the nervous system. The use of drugs to prevent AMS is not recommended either, but to progressively adapt to altitude hypoxia through a process called acclimatization .
+
+It is very important to keep in mind that, despite scrupulously following an acclimatization calendar, the MAM can be presented at any time. It is also very important to stay perfectly hydrated (drink at least four to five liters of water daily) and eat a varied diet rich in carbohydrates.
