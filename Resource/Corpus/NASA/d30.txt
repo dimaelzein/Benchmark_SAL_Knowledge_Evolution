@@ -1,0 +1,20 @@
+How the Apollo Spacecraft Worked
+BY JONATHAN STRICKLAND
+The Lunar Module
+ 
+An astronaut climbs down the lunar module's ladder to the moon's surface.
+An astronaut climbs down the lunar module's ladder to the moon's surface.
+IMAGE COURTESY NASA
+Apollo's lunar module (LM) was the first manned vehicle designed to operate completely outside th­e Earth's environment. It remained docked with the CSM during Apollo's journey into a lunar orbit. Once in orbit, two of the three-man crew transferred from the CSM to the LM. After sealing both the CSM and LM, the astronauts separated the two vehicles and the LM began its journey down to the surface of the moon.
+
+­The LM had two sections. The upper section was the ascent stage. This section co­ntained the crew compartment, system displays and controls, S-band and radar antennae, a reaction control system (RCS), fuel and oxidizer tanks and oxygen tanks. The lower section was the descent stage. It stored equipment the astronauts would use on the moon. It also had a descent rocket engine, landing gear and fuel and oxidizer tanks. Both sections made the descent down to the moon, with the descent section controlling the landing. But when the astronauts left the moon, it was only in the ascent section. The descent section served as a launchpad and was left behind.
+
+KEEP READING BELOW
+
+Th­e LM had landing radar that transmitted beams of microwaves to the lunar surface and then measured the waves that the surface reflected back toward the spacecraft. By calculating the delay between transmission and reception and measuring the waves, the LM's computer could calculate the module's proximity to the surface and make adjustments.
+
+After landing on the moon, the two crew members would prepare first the ascent stage of the LM for liftoff. Then, they'd rest and prepare for their mission objectives on the moon's surface. Once they had completed those objectives, they'd return to the LM for ascent. The upper section of the LM would separate from the descent stage (once again using explosive bolts). The ascent stage's RCS provided 3,500 pounds of thrust, enough to launch it into lunar orbit.
+
+NASA designed the ascent stage's radar antenna to receive transmissions from the transponder in the CSM. The transponder transmitted information regarding the CSM's position and velocity. With this information, the two sections maneuvered so that they could dock together. After docking, the crew from the LM transferred over any sample materials they gathered on the moon. Then they sealed off both vehicles and jettisoned the LM, sending it on a collision course with the moon. Instruments left on the moon's surface measured the impact as part of a seismic research project.
+
+At this stage in the mission, all that was left of the Apollo spacecraft was the CSM. How did the astronauts pilot back to Earth, and what was re-entry like? Keep reading to find out.

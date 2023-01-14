@@ -1,0 +1,31 @@
+Mountains, peaks, peaks
+
+
+
+Name		Height (m.)		Height (ft.)		Continent		Region		Ridge		Date of the first ascent	
+Peak Blanca	4372	14345	North America	Rocky Mountains	Sangre de Cristo Range	1874
+Peak Crestone	4357	14294	North America	Rocky Mountains	Sangre de Cristo Range	1916
+Crestone Needle	4327	14197	North America	Rocky Mountains	Sangre de Cristo Range	1916
+Mount Kit Carson	4318	14165	North America	Rocky Mountains	Sangre de Cristo Range	1916
+Challenger Point	4292	14080	North America	Rocky Mountains	Sangre de Cristo Range	
+Humboldt Peak	4287	14064	North America	Rocky Mountains	Sangre de Cristo Range	
+Culebra peak	4282	14047	North America	Rocky Mountains	Sangre de Cristo Range	
+Ellingwood Point	4280	14042	North America	Rocky Mountains	Sangre de Cristo Range	
+Mount Lindsey	4280	14042	North America	Rocky Mountains	Sangre de Cristo Range	1875
+Little Bear Peak	4279	14037	North America	Rocky Mountains	Sangre de Cristo Range	1888
+Name		Height (m.)		Height (ft.)		Continent		Region		Ridge		Date of the first ascent	
+Peak California	4221	13849	North America	Rocky Mountains	Sangre de Cristo Range	
+Un 13.828	4215	13828	North America	Rocky Mountains	Sangre de Cristo Range	
+Spanish West Peak	4153	13625	North America	Rocky Mountains	Sangre de Cristo Range	1600's
+Wheeler Peak	4011	13161	North America	Rocky Mountains	Sangre de Cristo Range	
+Old Mike	3998	13113	North America	Rocky Mountains	Sangre de Cristo Range	
+Truchas Peak	3994	13103	North America	Rocky Mountains	Sangre de Cristo Range	
+North Truchas Peak	3970	13024	North America	Rocky Mountains	Sangre de Cristo Range	
+Peak Lake Fork	3926	12881	North America	Rocky Mountains	Sangre de Cristo Range	
+Fe Baldi's site	3847	12622	North America	Rocky Mountains	Sangre de Cristo Range	
+Peak Lake	3781	12404	North America	Rocky Mountains	Sangre de Cristo Range	
+Name		Height (m.)		Height (ft.)		Continent		Region		Ridge		Date of the first ascent	
+Mount Phillips	3579	11741	North America	Rocky Mountains	Sangre de Cristo Range	
+Mount Taylor	3445	11301	North America	Rocky Mountains	Sangre de Cristo Range	
+Here Of Time	2744	9003	North America	Rocky Mountains	Sangre de Cristo Range	
+

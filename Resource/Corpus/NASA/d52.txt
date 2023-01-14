@@ -1,0 +1,77 @@
+Planetary Protection
+Planetary Protection is the practice of protecting solar system bodies from contamination by Earth life and protecting Earth from possible life forms that may be returned from other solar system bodies. NASA’s Office of Planetary Protection promotes the responsible exploration of the solar system by implementing and developing efforts that protect the science, explored environments and Earth. 
+
+NASA's Planetary Protection policies and requirements ensure safe and verifiable scientific exploration for extraterrestrial life. The main objectives are to
+
+Carefully control forward contamination of other worlds by terrestrial organisms and organic materials carried by spacecraft in order to guarantee the integrity of the search and study of extraterrestrial life, if it exists.
+Rigorously preclude backward contamination of Earth by extraterrestrial life or bioactive molecules in returned samples from habitable worlds in order to prevent potentially harmful consequences for humans and the Earth’s biosphere.
+To accomplish these goals, the Office of Planetary Protection assists in the construction of sterile (or low biological burden) spacecraft, the development of flight plans that protect planetary bodies of interest, the development of plans to protect the Earth from returned extraterrestrial samples, and the formulation and application of space policy as it applies to Planetary Protection.
+
+Planetary Protection works in conjunction with solar system mission planners in order to ensure compliance with NASA policy and international agreements. Ultimately, the objective of Planetary Protection is to support the scientific study of chemical evolution and the origins of life in the solar system.
+
+Additional information regarding Planetary Protection can be found on the Committee on Space Research website. 
+
+
+Planetary Protection News
+Mars Helicopter, visible in lower center of the image, was attached to the belly of NASA
+Mars Perseverance Rover Set to Land on the Red Planet Feb. 18
+FEBRUARY 16, 2021
+The Mars 2020 mission, including the Perseverance Rover and Ingenuity Helicopter, will land on Mars on February 18, 2021. A first on a Mars mission, the Sample Caching System included on Perseverance will collect and store short cores of Martian rocks and soils destined for future return to Earth and study with advanced instrumentation. The system is complex, including a drill for sample collection and tubes to seal and store the collected samples until a future mission can retrieve them.  
+
+Mars 2020
+NPR 8715.24 Updates Agency’s Approach to Planetary Protection
+SEPTEMBER 28, 2021
+NASA’s Office of Safety and Mission Assurance (OSMA) recently released NPR 8715.24, Planetary Protection Provisions for Robotic Extraterrestrial Missions, effective Sept. 24, 2021. The new NASA Procedural Requirement (NPR) covers the agency’s new paradigm and overall approach to Planetary Protection and takes the place of the now cancelled NPR 8020.12D, Planetary Protection Provisions for Robotic Extraterrestrial Missions to integrate Planetary Protection. 
+
+Lunar Reconnaissance Orbiter Artist Concept
+COSPAR Updates Planetary Protection Policy for Lunar Missions
+AUGUST 31, 2021
+Recently, the Committee on Space Research (COSPAR) updated its Planetary Protection policy for the Moon, including adding Category II sub-designations to accommodate missions to different regions. The new Category IIa and IIb designations reflect the importance of the Permanently Shadowed Regions (PSRs) to science and the Artemis generation of human exploration.
+
+Dr. J. Nick Benardini
+NASA Announces New Planetary Protection Officer
+MAY 27, 2021
+NASA named Dr. J. Nick Benardini as the agency Planetary Protection Officer within the Office of Safety and Mission Assurance, effective June 7.
+
+Ingenuity Helicopter to Take Flight in April
+Ingenuity Helicopter to Take Flight in April
+APRIL 08, 2021
+The Mars Ingenuity Helicopter will take its first steps toward demonstrating powered flight in the Martian atmosphere, with a first attempt at a powered, controlled flight of an aircraft on another planet scheduled for no earlier than April 8, 2021. The helicopter rode to Mars in the Perseverance Rover's belly pan and will be deployed for flight testing from the red planet's surface in April. 
+
+Mars Helicopter, visible in lower center of the image, was attached to the belly of NASA
+Mars Perseverance Rover Set to Land on the Red Planet Feb. 18
+FEBRUARY 16, 2021
+The Mars 2020 mission, including the Perseverance Rover and Ingenuity Helicopter, will land on Mars on February 18, 2021. A first on a Mars mission, the Sample Caching System included on Perseverance will collect and store short cores of Martian rocks and soils destined for future return to Earth and study with advanced instrumentation. The system is complex, including a drill for sample collection and tubes to seal and store the collected samples until a future mission can retrieve them.  
+
+Mars 2020
+NPR 8715.24 Updates Agency’s Approach to Planetary Protection
+SEPTEMBER 28, 2021
+NASA’s Office of Safety and Mission Assurance (OSMA) recently released NPR 8715.24, Planetary Protection Provisions for Robotic Extraterrestrial Missions, effective Sept. 24, 2021. The new NASA Procedural Requirement (NPR) covers the agency’s new paradigm and overall approach to Planetary Protection and takes the place of the now cancelled NPR 8020.12D, Planetary Protection Provisions for Robotic Extraterrestrial Missions to integrate Planetary Protection. 
+
+People
+Benardini
+Dr. J. Nick Benardini
+Planetary Protection Officer
+Learn more about Planetary Protection Officer Dr. J. Nick Benardini.
+
+
+Points of Contact
+For details on contacting a Planetary Protection Point of Contact (PoC), click below.
+
+Learning
+Instructor-Led Courses
+Planetary Protection: Policies and Practices
+This course covers what the requirements are for Planetary Protection for robotic missions, how to meet those requirements and lessons learned from past missions.
+
+Policy and Guidance
+NASA
+Policy	Title		
+NASA-HDBK-6022	
+Handbook for the Microbial Examination of Space Hardware
+
+NID 8715.128
+Planetary Protection Categorization for Robotic and Crewed Missions to the Earth’s Moon
+NID 8715.129
+Biological Planetary Protection for Human Missions to Mars
+NPD 8020.7	Biological Contamination Control for Outbound and Inbound Planetary Spacecraft		
+NPR 8020.12	Planetary Protection Provisions for Robotic Extraterrestrial Missions		
