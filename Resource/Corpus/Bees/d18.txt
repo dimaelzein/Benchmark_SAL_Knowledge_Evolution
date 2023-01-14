@@ -1,0 +1,353 @@
+Carpenter Bee
+Carpenter bees construct their brood chambers by boring into seasoned lumber from which homes, decks, posts, and outbuildings are made.
+
+From: Contemporary Insect Diagnostics, 2015
+Ants, Wasps, and Bees (Hymenoptera)
+Hal C. Reed, Peter J. Landolt, in Medical and Veterinary Entomology (Third Edition), 2019
+
+Anthophoridae
+The carpenter bees are similar in size and general appearance to bumble bees. However, they lack the fuzzy appearance and yellow coloration typical of bumble bees, and the dorsum of the gaster is mostly shiny black (Fig. 22.21). These bees often nest in wood around human dwellings, where they bore round holes in window sills, eaves, railings, fence posts, and other wooden structures (Fig. 22.22). People are rarely stung by female carpenter bees, and when this occurs, the pain is relatively mild. Males often are seen flying around nesting sites, may make a loud buzzing noise, and may appear threatening; however, like all male hymenopterans, they cannot sting. The common carpenter bee in eastern North America is Xylocopa virginica; the common species in western North America are X. californica and X. varipuncta.
+
+
+
+Figure 22.21. Carpenter bee, Xylocopa virginica (Anthophoridae), male. Note that the abdomen is mostly black.
+
+Photograph by Gary R. Mullen.
+
+Figure 22.22. Circular entrance to nest of carpenter bee, Xylocopa virginica (Anthophoridae), in cedar wood of house eave.
+
+Photograph by Gary R. Mullen.
+Pest Insects
+Timothy Gibb, in Contemporary Insect Diagnostics, 2015
+
+Structures
+Common Name: carpenter bee
+
+Scientific Name: Apidae: Xylocopa virginica
+
+Status: can be a pest of wooden structures
+
+Common Name: American cockroach
+
+Scientific Name: Dictyoptera: Periplaneta americana
+
+Status: common pest in homes and buildings
+
+Common Name: bed bug
+
+Scientific Name: Cimicidae: Cimex lectularius
+
+Status: infests bedrooms and furniture
+
+Common Name: carpenter ant
+
+Scientific Name: Formicidae: several species
+
+Status: occasionally a pest of homes and buildings
+
+Common Name: dermestid beetle
+
+Scientific Name: Dermestidae: several species
+
+Status: infests homes
+
+Common Name: flea, cat flea
+
+Scientific Name: Pulicidae: Ctenocephalides felis
+
+Status: infests homes where pets live
+
+Common Name: lady beetle
+
+Scientific Name: Coccinellidae: several species
+
+Status: annoying household invader
+
+Common Name: stink bug
+
+Scientific Name: Pentatomidae: several species
+
+Status: a nuisance pest in homes
+
+Common Name: termite – white ant
+
+Scientific Name: Blattodea: several families
+
+Status: pest of homes and buildings
+
+Sexual Selection and the Mating Behavior of Solitary Bees
+John Alcock, in Advances in the Study of Behavior, 2013
+
+3.2 Waiting for Mates at Leks
+As noted, some species of carpenter bees provide examples of lek polygyny in which males defend landmark sites devoid of resources useful to nesting or foraging females. Females visit these sites strictly to mate after which they leave while their partner resumes his defense of a site where he waits for additional females. The carpenter bee Xylocopa varipuncta is representative of the lekking species (Alcock & Johnson, 1990; Marshall & Alcock, 1981). Males leave their natal nests in the late afternoon on warm spring days to hover within the crown of a bush or small tree growing on a hilltop or along a dry wash running through a valley or plain (Fig. 1.8). A very few of these males return time and again to the same landmark territorial hovering site; most move about frequently (Alcock, 1993). Why there should be differences in site fidelity among males of this species remains unclear. The long-term residents are not larger than those that are far less faithful to a hovering site. In contrast, males of Xylocopa bombylans that were seen more than once in a territory were significantly larger than those that were observed just once (Leys, 2000).
+
+
+Sign in to download full-size image
+Figure 1.8. A male of the carpenter bee Xylocopa varipuncta hovering by a cresosotebush that serves only as a display site for this lekking species.
+
+Hovering males of X. varipuncta react to intruders by pursuing them in looping flights about the site; often intruders leave quickly but occasionally several males occupy the same plant, each holding his own hovering station within a short distance of one another. The basis for this tolerance of apparent competitors is yet another issue that needs further exploration. Are these related individuals that are engaged in the cooperative attraction of females as has been suggested for some lekking birds (Hatchwell, 2010; Reynolds et al., 2009)? Or are these subordinate males attracted to the spot by the presence of a hotshot, a male that is particularly attractive to females, as has been documented for a number of lekking vertebrates (Beehler & Foster, 1988; Partecke, von Haesler & Wikelski, 2002)?
+
+Females of X. varipuncta occasionally fly to a hovering male, almost certainly attracted by a strongly floral-scented pheromone produced by a large metasomal gland and released by males (Minckley, Buchmann, & Wcislo, 1991). The odor can be detected by humans many meters from the bee and so one assumes, the same must be true for female bees. Are these males using an attractant odor similar to that produced by flowers visited by foraging females? If so, perhaps this case provides an example of the evolution of a sex pheromone via sensory exploitation (Endler & Basolo, 1998). Perhaps males that happened to tap into an existing sensory preference of females that had evolved for some other function gained an advantage over rival males in attracting potential mates.
+
+When the female X. varipuncta comes within a meter or so, the male races to an outer cluster of leaves within his hovering domain and, landing on the vegetation, he proceeds to rub his legs and lower abdomen over the plant material. If the female is receptive, she then lands on that part of the plant that the male has “marked,” and a short copulation ensues. After separating, the female flies off and the male resumes his hovering wait (Alcock & Smith, 1987).
+
+Similar behavior has evolved in other species of Xylocopa (Gerling et al., 1989; Leys & Hogendoorn, 2008) as well as within the apid genus Bombus (Alcock & Alcock, 1983; Baer, 2003; Kindl, Hovorka, Urbanová, & Valerová, 1999; O’Neill, Evans, & Bjostad, 1991). That bumble bees should sometimes engage in lek polygyny is as puzzling as it is for carpenter bees; in both cases, one would think that female defense ought to be a more profitable tactic given the fact that bumble bee nests typically produce many virgin queens. Moreover, waiting for queens to leave a nest has been recorded for some bumble bee species as has fighting among rival males, demonstrating that males of some bumble bees have evolved a female defense tactic (Lloyd, 1981). One possible explanation for the occurrence of lek polygyny in bumble bees has to do with the costs of territorial defense; if many males compete for control of a single nest, as seems likely given that most nests will produce many competitors for the females emerging from other nests (assuming outbreeding), then any one defender may be incapable of repelling all his rivals. Indeed, in his study of Bombus fervidus, Lloyd (1981) observed large numbers of males hovering by a nest entrance/exit. Often no one male attempted to control access to the site but instead appeared to try to outrace other males to an emerging queen, creating a scramble competition mating system. Lloyd speculated that perhaps males communicate with emerging queens by wafting distinctive sex pheromones into the nest over time, potentially enabling females to time their emergence to coincide with the presence of a preferred individual, an intriguing but untested idea.
+
+If conspecific males do differ greatly in their competitive abilities, it is possible that lekking behavior is the option of last resort for those males excluded from more profitable avenues of mating success. Bradbury (1981) proposed that lek polygyny in vertebrates evolved when females were so widely dispersed that males could not easily find them and so had no alternative except to compete in groups to demonstrate their value as mates to females able to locate the display sites. However, in addition to this aspect of female ecology, variation in the competitive skills of males might also be a factor favoring lekking behavior by a subset of males within those species in which several mating systems co-exist.
+
+Crop Pollination
+S.G. Potts, ... B. Gemmill-Herren, in Encyclopedia of Agriculture and Food Systems, 2014
+
+Nut Crops
+Yields of most nut crops benefit to a great extent from biotic pollination, often by increasing the total number of nuts produced, as is seen in almond (Klein et al., 2012). Brazil nuts (Bertholletia excelsa) in particular are highly dependent on pollination by larger bodied bees (e.g., carpenter bees, Xylocopa sp.) to produce marketable produce (Cavalcante et al., 2012; Klein et al., 2007). Although chestnut (Castanea sativa) is mostly wind pollinated, as a self-incompatible crop, insect visitation can still result in economically significant increases in crop yield (Free, 1993). Of the most widely grown nut crops (Klein et al., 2007) only walnuts (Juglans sp.) and some cultivars of peanuts (Arachis hypogaea) are known to produce nuts completely by self and wind pollination.
+
+Wood deterioration agents
+Robert A. Zabel, Jeffrey J. Morrell, in Wood Microbiology (Second Edition), 2020
+
+Hymenoptera (bees and ants)
+While termites and beetles cause the majority of insect-related wood damage, several members of the Hymenoptera including the Siricidae, Apidae, and Formicidae also significantly damage wood.
+
+Siricidae: The Siricidae or horntail wasps attack trees that are stressed and declining as well as fire-damaged or freshly-harvested timber. The female penetrates the bark and wood with a long ovipositor and lays eggs along with a deposit of fungal spores. As the larvae grow, they depend on the fungus mycelium for food. Typically, a larva chews a 25–75-cm-long, C-shaped tunnel over a 2–3-year period. After pupating, the adult emerges through a large circular hole. Generally, the damage associated with these insects is minimal, but the size of the exit holes and the occasional disturbing appearance of a large and noisy adult indoors can cause concern (Morgan, 1968). These insects can be particularly abundant in lumber sawn from fire-killed timber.
+
+Anthophoridae: The Anthophoridae or carpenter bees belong to the genus Xvlocarpa and construct their nests in the wood. Carpenter bees resemble bumblebees in appearance and do not use wood as a food source. They excavate a series of 12-mm-diameter tunnels along the grain for 10–15 cm to deposit their eggs along with nectar and pollen to provide nourishment for the developing larvae.
+
+Generally carpenter bees attack uncoated soft wood such as cedar or pine, but weathered wood of almost any species can be attacked. Since they do not use the wood for nourishment, they are also able to attack wood treated with most waterborne wood preservatives. Carpenter bees will reinfest the same wood and can cause substantial wood damage if infestations go undetected for several years.
+
+Formicidae: The wood-attacking carpenter ants, belonging to the genus Camponotus, are social insects that have queens, winged males, and workers of varying sizes in a given colony (Simeone, 1954; Furniss, 1944). Carpenter ants are often confused with termites. Carpenter ants have constrictions between individual body segments, and the winged adults have two pairs of different equal sized wings. Termites have two pairs of equal-sized wings, and their body segments are not constricted. Carpenter ants remove the wood to construct galleries to raise their young, but their food resources come from outside the nest. Termites, of course, also use wood as a food source.
+
+Carpenter ants occur throughout the United States, but are most important in the Pacific Northwest and the Northeast, where lengthy infestations can result in considerable damage to houses. Ant infestations in the home are also a nuisance due to the large numbers of foraging insects. In the northeastern United States, carpenter ants commonly tunnel into the untreated heartwood zones of cedar and Douglas-fir transmission poles. Studies on their biology and control in utility poles have been reported by Hansen and Klotz (2005). Of the native carpenter ants, the black carpenter ant, Camponotus pennsylvanicus Degeer, has been studied most extensively in the eastern U.S. while the C. novaboracensis and C. vicinus have been more heavily studied in the Pacific Northwest (Mankowski and Morrell, 2000; Hansen and Klotz, 2005). Carpenter ants are scavengers, and common food sources include aphid secretions and insects. In structural infestations, carpenter ants often search our sugars, proteins and water. Winged reproductives emerge and swarm in the late spring and early summer. After mating, the males die and the females search for a suitable site. In general, females will search for moist wood or other materials. Simeone (1954) has shown that successful colonies of C. pennsylvanicus could only be established in wood above 15% moisture content, while Mankowski and Morrell (2000) showed that C. modoc Wheeler and C. vicinus Mayr were able to establish colonies in wood at much lower moisture levels. Although partially decayed wood in structures is selected often for nesting sites (Moore, 1979), there is no consistent association of colonies with decayed wood. Colonies develop slowly at first, but increase rapidly after the first year, ultimately approaching 2–3 thousand individuals when the winged reproductives are produced. Colonies are quite mobile and there is often a main nest site such as a log or stump, with several satellite nests in the surrounding area.
+
+Wood damaged by carpenter ants has numerous clean tunnels primarily in the springwood (Fig. 2.2). Carpenter ants need not necessarily tunnel into only wood; they will also bore into other soft material. They are particularly fond of foam insulation, likely because of the ease of tunnel, but possibly also because it provides a more stable temperature environment. Generally, the nest can be detected by the presence of piles of frass and insect fragments below the entrances to the infested wood (Fig. 2.2). Carpenter ants do not cause significant wood strength losses unless the colony is left undisturbed for long periods. Infestations by carpenter ants can be limited by keeping the wood dry, using pressure-treated wood in high hazard areas, and eliminating wood debris from around structures (Furniss, 1944). Carpenter ant control is usually effected using regular application of barrier sprays designed to repel and, therefore, exclude workers from a house. Local extension agents should be contacted to determine insecticides currently recommended for ant management.
+
+Pollinators, Role of
+David W. Inouye, in Encyclopedia of Biodiversity (Second Edition), 2013
+
+Pollen and Nectar Robbers
+The nutritional rewards that pollinators find in flowers, pollen, and nectar are sometimes harvested by flower visitors that may pierce or bite holes in the flowers to obtain the resources “illegitimately.” Some species of birds (Diglossa, the flower-piercers) and bees (Xylocopa, carpenter bees; some short-tongued Bombus, or bumble bees, and some stingless bees) may obtain most of their nectar in this fashion. Once these primary nectar robbers have created holes, other species may learn to use them, as secondary robbers. Typically, these flower species that are robbed have long corollas, and the nectar robbers do not have mouthparts long enough to obtain the nectar without robbing. Although biologists at least as far back as Darwin have assumed that nectar robbing would have a significant negative influence on the robbed plants, more recent evidence suggests that in fact most insect nectar robbers that have been studied have either a beneficial or neutral effect on the plants. In the process of moving around on the flowers, or perhaps while collecting pollen from the same flowers, robbing insects may effect pollination. Even in the absence of such a direct effect, robbers may indirectly increase the fitness of plants they rob by influencing the behavior of legitimate pollinators. The reduced quantity of nectar in a robbed flower may induce a legitimate pollinator to visit more flowers or to fly greater distances between flowers, thereby increasing gene flow.
+
+Pollination and Pollinators
+Gordon W. Frankie, Robbin W. Thorp, in Encyclopedia of Insects (Second Edition), 2009
+
+Thievery
+Insect visitors to flowers may obtain the food items they seek without transferring pollen in the process. Some insects with mouthparts too short to reach nectar sequestered in the bottom of long tubes or spurs are able to penetrate the nectar-bearing structures with strong mandibles or maxillae. Such behavior is well documented for bumble bees, such as Bombus occidentalis in western North America or the related Bombus terrestris of Europe, when they encounter long-tubed flowers. This behavior is commonly exhibited by carpenter bees, especially in the tropics (Fig. 4). Insects that are mismatched in size with the flowers they visit may be effective gleaners of pollen from the anthers, but rarely if ever contact the stigmas in the flowers they visit. These thieves often scavenge pollen from flowers adapted to other types of pollinators. For example, the evening primrose of the southwestern deserts of North America are typically adapted for pollination by night-flying hawk moths, but they are visited early in the morning after they have opened by solitary ground-nesting bees of the genus Andrena for pollen. In fact, these bees have become so completely adapted to collecting this source of pollen, and their seasonal synchrony and the morphology of their pollen transport structures are so specialized, that they visit no other plants for pollen. So although the bees specialize on these flowers, they are not effective pollinators because they are small enough that they rarely contact the stigmas with the pollen they are collecting.
+
+
+Sign in to download full-size image
+Figure 4. Female carpenter bee (Xylocopa tabaniformis orpifex, Apidae) robbing nectar from base of a California fuchsia (Epilobium canum, Onagraceae) flower
+
+Insect Identification Techniques
+Timothy Gibb, in Contemporary Insect Diagnostics, 2015
+
+Sexual Dimorphism
+Sexual dimorphism is the apparent difference between males and females of the same species. Phenotypic differences between sexes are very common in birds and to a lesser extent in other animals. Most insects do not display obvious sexual dimorphic differences, however, those that do can sometimes make species identification confusing.
+
+Diagnosticians usually recognize that dimorphism is not uncommon in spiders and some butterflies. Other species such as beetles and dobsonflies can show differences as well. Often keys do not clearly depict both sexes and it is up to the diagnostician to remember that differences exist.
+
+For example dobsonfly adults are very large brown insects with long, transparent wings covered with black and white dots. The wings extend past the abdomen, resulting in a total length of body and wings of about three inches. Female dobsonflies have large, strong jaws capable of delivering a painful bite. Male dobsonflies are even more remarkable by possessing very long, slender, curved mandibles that extend about one inch in front of the head. Although fearsome in appearance, males are unlikely to bite people (Figs 4.39 and 4.40).
+
+
+Sign in to download full-size image
+FIGURE 4.39. Dobson fly, Sexual dimorphic mandibles, female.
+
+
+Sign in to download full-size image
+FIGURE 4.40. Dobson fly, Sexual dimorphic mandibles, male.
+
+Dobsonflies have aquatic immature stages but adult forms are strong fliers and are attracted to lights at night. Although they are not numerous, when they are found they are a curiosity and thus are commonly submitted to diagnostic laboratories.
+
+Diagnosing Insect Damage, Signs and Symptoms
+Diagnosticians must be able to tentatively identify insects based on other evidence when insects themselves are not present. Often frass, holes or symptoms expressed by an infested plant are the only clues that a diagnostician is given.
+
+Diagnosticians soon learn that some of their most important diagnoses are based on signs and symptoms rather than on specimens. By contrast, identifiers and taxonomists have the luxury of a perfect specimen from which to make their identification.
+
+Consider the photos below submitted for identification. While there are no animals present in the photos, the damage depicts the problem very nicely. Even without seeing any, a diagnostician can be quite certain that the turf is infested with white grubs.
+
+White grubs do some damage to grasses but what damage they cause is sometimes more than compounded by other animals coming in to forage for the grubs (Fig. 4.41).
+
+
+Sign in to download full-size image
+FIGURE 4.41. Turfgrass damage by racoons.
+
+It is clear in this photograph that either raccoons, skunks or opossums have been digging for grubs in this area. The turfgrass ripped up and strewn all around is evidence of foraging by these animals.
+
+Peck holes are similar evidence of grub foraging but in this case caused by birds (Figs 4.42 and 4.43).
+
+
+Sign in to download full-size image
+FIGURE 4.42. Bird damage in turfgrass.
+
+
+Sign in to download full-size image
+FIGURE 4.43. Bird peck-holes in turfgrass.
+
+Together, these photos show the result of what may have been somewhat tolerable grub injury to a lawn, – made intolerable by animal foraging activity.
+
+Because the grass is largely dead at this point the only solution is to rake it up and replant or lay sod. Laying sod gives a quick fix to the problem but not all animal foraging damage is this severe. Keep in mind that any grass that is not torn up will survive and thus give a head start to an over-seeding strategy.
+
+Diagnosticians may receive samples or photos of damaged wood or other products. Recognizing the signs of the insect or the symptoms expressed by a damaged plant may be all that a diagnostician has to go on. Submitted samples may only consist of photographs or descriptions of damage, signs and symptoms of infestations. Diagnosticians learn to recognize damage signs and symptoms by sight, just as they recognize and identify insects by sight.
+
+Many insects transmit plant diseases. Recognizing the symptoms of the disease such as bacterial wilt in cucumber plants (Fig. 4.44) is a valuable diagnostic skill.
+
+
+Sign in to download full-size image
+FIGURE 4.44. Bacterial wilt transmitted by spotted cucumber beetles.
+
+Experienced diagnosticians can identify various wood-boring insects based on size and shape of holes or appearance of frass that is associated with the damage. In many cases finding the insect is not possible because it is deep inside the wood where it cannot be extricated or else it has emerged and is now long gone. In other cases, diagnosticians must recognize different signs such as sap oozing from trunks (Fig. 4.45).
+
+
+Sign in to download full-size image
+FIGURE 4.45. Peachtree borer damage to tree trunk.
+
+Bear in mind that not all holes in trees are the result of insect boring. Some holes, are not due to insects at all but are the result of wood peckers or sapsuckers (Fig. 4.46).
+
+
+Sign in to download full-size image
+FIGURE 4.46. Sapsucker injury to tree trunk.
+
+Diagnosticians must recognize that exceptions to every rule exist. For example, damage to screen windows is often blamed on insects when in most cases the insects that are blocked from entry do not have the chewing mouthparts necessary for cutting the screen. Occasionally, however, exceptions occur as in the case of this caterpillar that pupated inside the screen (Fig. 4.47).
+
+
+Sign in to download full-size image
+FIGURE 4.47. Pupal case in damaged window screen.
+
+To make a diagnosis of the two ‘mystery’ photographs (Figs 4.48 and 4.49) requires that a diagnostician be familiar with the biology and behavior of a carpenter bee as well as that of a woodpecker.
+
+
+Sign in to download full-size image
+FIGURE 4.48. Carpenter bee brood chambers exposed by woodpecker feeding.
+
+
+Sign in to download full-size image
+FIGURE 4.49. Individual cells and associated frass left by carpenter bees.
+
+Carpenter bees construct their brood chambers by boring into seasoned lumber from which homes, decks, posts, and outbuildings are made. The tunnels enter into wood and then typically make a 90 degree turn in the tunnel to run with the grain of the wood for 6–8 inches. The bee then creates individual brood chambers along this tunnel, deposits an egg and provisions each cell with enough food for the emerging larva to subsist. The result is a tunnel made up of 6–10 brood cells, housing individual developing larvae.
+
+Woodpeckers belong to the family Picidae and are experts at locating insect larvae that are tunneling inside solid wood. Once located the birds utilize specialized bills and hammering techniques to excavate the wood and expose the larvae beneath.
+
+Diagnosticians who are aware of the biology of both the woodpeckers and the carpenter bees will immediately diagnose the cause of the damage in the photographs as woodpecker/carpenter bee damage.
+
+When insects feed on plants they often leave feeding signs that can be used for diagnosis. Holes in leaves, trunks and branches can be diagnostic.
+
+Plant responses to insect feeding can also be used for diagnosis. Symptoms include, wilting, stunting, chlorosis as well as many other visual symptoms.
+
+To diagnose causes of plant injury a diagnostician must recognize what a normal plant is. This is the basis by which abnormal growth symptoms are measured.
+
+For example, galls are abnormal outgrowths of plant tissue that results from insect infestations. Insect galls are induced by chemicals injected by certain insects into plant tissues. The gall itself is actually plant tissue that forms itself around a small chamber in which the immature gall insect lives.
+
+Size, shape and color of the gall is often diagnostic for the insect involved. Diagnosticians soon recognize or find illustrated keys for the most common galls of various tree species (Figs 4.50–4.52).
+
+
+Sign in to download full-size image
+FIGURE 4.50. Horned oak galls.
+
+
+Sign in to download full-size image
+FIGURE 4.51. Hackberry nipple galls.
+
+
+Sign in to download full-size image
+FIGURE 4.52. Maple bladder galls.
+
+Eggs and Pupae
+Samples of eggs or pupae are usually quite difficult to diagnose. Few keys are available or complete enough to rely on for identification. Hatching eggs or rearing pupae until eclosion, is sometimes necessary for accurate diagnosis. Very common samples or those with which diagnosticians have had personal experience can be more easily identified (Figs 4.53–4.55).
+
+
+Sign in to download full-size image
+FIGURE 4.53. Praying mantid egg mass.
+
+
+Sign in to download full-size image
+FIGURE 4.54. Katydid egg cluster on twig.
+
+
+Sign in to download full-size image
+FIGURE 4.55. Stinkbug egg cluster on leaf.
+
+Unusual Insects
+Many clients claim that they have found a rare, never-before-seen, insect. Often they will back their claims by stating that they have lived in the area for up to one hundred years and no one living has ever seen anything like it. It therefore must be a prehistoric specimen, new to science. In most every case these specimens turn out to be nothing out of the ordinary. They still get the interest of a diagnostician, however. Who would not want to be part of the discovery of a new insect?
+
+Diagnosticians know intuitively that there really is no such thing as a 12-legged, flying insect. It is difficult to convince a telephone caller of this when they are actually looking at a 12-legged, flying insect (Fig. 4.56).
+
+
+Sign in to download full-size image
+FIGURE 4.56. Mating pair of lovebugs.
+
+Diagnosticians do encounter rare samples on occasion. That is what makes diagnostics fun. One never knows what may be submitted next.
+
+Case in point, few diagnosticians will misidentify bagworms when a complete bag or photo of a bag is submitted. The bags are very characteristic and even the defoliation signs on a plant are diagnostic when accompanied by dates, locations and plant species.
+
+On the other hand, most diagnosticians have never had an adult bagworm moth submitted for identification (Fig. 4.57). These are not commonly found and most often not associated with the typical ‘bags’ found on trees or the damage that they cause.
+
+
+FIGURE 4.57. Adult bagworm moth.
+
+Diagnosticians understand the biology of the insects that they deal with and use this knowledge to help identify what a problem is and what to expect the damage to be.
+
+In the case of bagworms, simply understanding that the caterpillars molt inside the bags and the adults actually emerge there, helps to explain some of the bagworm’s mystery. In fact, the female adult has no wings and never leaves the bag.
+
+Behavioral Anomalies
+Diagnosticians often diagnose insects based on their familiarity of insect biology and behavior. If an insect is behaving in an expected manner or is occurring in a particular place, it can be identified as a certain insect. Exceptions always occur.
+
+For example insects such as this bagworm, can be found in very unusual places (Fig. 4.58). Bagworms are unexpected pests in soybeans.
+
+
+
+FIGURE 4.58. Bagworm feeding in soybeans.
+
+Sometimes very peculiar behaviors are noted by clients. What a client may describe as a foot long, spotted, writhing slug moving across their lawn may actually be a mass of fungus gnat maggots migrating (Fig. 4.59).
+
+
+
+FIGURE 4.59. Fungus gnat maggot mass movement.
+
+Mysterious behaviors make problem-solving a challenge. The photos in Figures 4.60 and 4.61 were submitted with the claim that a spider had decorated its web by meticulously weaving small plastic jewelry into the design.
+
+
+FIGURE 4.60. Ornate spider web (1).
+
+
+
+FIGURE 4.61. Ornate spider web (2).
+
+It was not until several conversations later that it was determined that the spider web was actually located in the window of a grade school arts and crafts classroom. Apparently a child left a pile of the tiny jewels on the window ledge that were likely blown up into the web by a gust of wind when a door or window was opened. Such a theory is not nearly as intriguing as a Charlotte’s web copy-cat, but infinitely more plausible.
+
+In another case a wolf spider, family Lycosidae, was found alive. It was very unusual due to its distinctive blue rather than brown coloration. It was surmised by the client that it must be a rare genetic abnormality resulting in a blue spider (Fig. 4.62).
+
+
+
+FIGURE 4.62. Blue-colored wolf spider.
+
+The specimen was submitted and clearly identified as a wolf spider. It was only upon more intensive investigation, however, that the client revealed that the spider had been collected from the top of a pile of mulch. The spider was discovered when a blue tarp, covering the mulch was removed. It then became clear that the paint from the tarp had degraded over time and had rubbed off onto the spider, creating the blue coloration.
+
+Color Irregularities
+Occasionally we see photographs of insects that are so bizarre or odd that we really have to question their validity. Certainly the ease of posting and the distribution potential that the web offers a freakish photograph, makes the temptation of altering a photograph for increased sensation, more than an unusual occurrence.
+
+The combination of high school level technical capabilities, an active imagination and a bit of extra time, makes the electronic manipulation of digital photographs relatively frequent. As a result, it is not uncommon to see photographs of outlandishly large or menacing looking insects, that rival even the grocery store tabloids. In most cases, equally fantastic stories accompany them.
+
+The photograph in Figure 4.63 was submitted for confirmation. It was actually a photograph of a common bed bug initially. However, to make the bug look more startling, someone had added color enhancements; a green face, blue eyes and a red ominous looking mouth.
+
+
+
+FIGURE 4.63. Digitally altered bed bug image.
+
+Diagnosticans must be careful in responding to digital photographs with unknown origins. Certainly they do not want to validate or propagate inaccurate stories or digital images. If there is a question, common sense and a quick comparison to published text books or field guides is in order. Bear in mind that the discovery of a new insect is a laudable but extremely uncommon experience, and to find a large and scary one, chasing people out of their homes and down the streets, tromping down homes and devouring small children, well… that would be a plus.
+
+Unusually colored insects do occur. These instances are uncommon but fascinating for a diagnostician. For example, the photos below depict a red wheelbug (Arilus cristatus) (Fig. 4.64) next to a photo of a normally colored adult (Fig. 4.65).
+
+
+
+FIGURE 4.64. Color change of newly eclosed wheelbug: (Arilus cristatus): red wheelbug.
+
+
+FIGURE 4.65. Wheelbug: normally colored adult.
+
+Over time, the red color was replaced by the more typical gray and brown coloration, but for a time it truly was a red wheelbug.
+
+Below are two photographs of equally bizarre colorations (Figs 4.66 and 4.67). A pink-colored katydid and a wolf spider carrying a blue egg sac. Such color aberrations do occur from time to time in nature and are the result of a genetic anomalies, NOT new species.
+
+
+FIGURE 4.66. Pink katydid.
+
+
+FIGURE 4.67. Wolf spider carrying a blue egg sac.
+
